@@ -16,6 +16,7 @@ class RandomAgent:
     def __init__(self):
         self.env = gym_env.make("CartPole-v1")
         self.trewards = list()
+        self.term_break = False
 
     def act(self, episodes):
 
@@ -27,6 +28,8 @@ class RandomAgent:
 
                 if done:
                     self.trewards.append(step)
+                    self.term_break = True
+                    break  # No further calls to step, instead reset and exit loop
 
         return self.trewards
 
@@ -34,7 +37,6 @@ if __name__ == "__main__":
     #main()
 
     randomAgent = RandomAgent()
-    results = randomAgent.act(4)
+    episodes_count = input("How many episodes would you like to run? ") # Max steps are 200 to 500 steps depending on cartpole env.
+    results = randomAgent.act(int(episodes_count))
     print(f"The results and rewards : {results}")
-
-
