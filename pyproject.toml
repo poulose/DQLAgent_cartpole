@@ -3,8 +3,9 @@ name = "cartpole"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.11"  # downgrade for installing tensorflow as intel macs not supported
 dependencies = [
     "gymnasium>=1.2.2",
     "pygame>=2.6.1",
+    "tensorflow==2.15",
 ]
