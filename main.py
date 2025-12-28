@@ -18,7 +18,7 @@ os.environ['PYTHONHASHSEED'] = '0'
 from tensorflow.python.framework.ops import disable_eager_execution
 
 # Imports for random agent
-import human_gym_env as human_render
+#import human_gym_env as human_render
 import gymnasium as gym_env
 
 
