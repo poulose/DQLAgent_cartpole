@@ -1,4 +1,9 @@
+import time
+import numpy as np
 import gymnasium as gym
+from tensorflow import keras
+
+MODEL_PATH = "cartpole_dqn100.keras"  # must match what you saved in main.py and number of episodes used
 
 # Create the environment with render_mode set to "human"
 env = gym.make("CartPole-v1", render_mode="human")
@@ -14,5 +19,31 @@ for _ in range(10000):
 
     if terminated or truncated:
         break
+
+
+# Run simulation using a trained model
+# Load trained model
+model = keras.models.load_model(MODEL_PATH)
+
+# Reset environment
+obs, _ = env.reset()
+state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+
+# Run a policy episode
+for _ in range(10000):
+    # Greedy action from Q-network
+    q = model(state, training=False).numpy()
+    action = int(np.argmax(q[0]))
+
+    obs, reward, terminated, truncated, info = env.step(action)
+    state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+
+    # Small sleep to make it watchable
+    time.sleep(0.02)
+
+    if terminated or truncated:
+        obs, _ = env.reset()
+        state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+
 
 env.close()
