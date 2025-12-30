@@ -5,7 +5,14 @@ import numpy as np
 import h5py  # For inspecting .keras files
 import time
 
-model_path = "cartpole_dqn1000.keras"
+episodes = int(input("Provide model episode number between range 500 and 4000: "))
+
+if episodes:
+    episodes = round((episodes/500) * 500)
+
+
+
+model_path = f"cartpole_dqn{episodes}.keras" # use 1000 and above with steps of 500. Higher trained ones do not have better performance when observed with human render
 
 # First, inspect the model architecture to get exact layer sizes
 print("Inspecting model architecture...")
@@ -15,8 +22,8 @@ try:
     with h5py.File(model_path, 'r') as f:
         config = f['model_config'].value.decode('utf-8')
         print("Model config:", config)
-except:
-    print("Could not read model config")
+except Exception as e:
+    print(f"Could not read model config: {e}")
 
 # Method 2: Recreate based on error info - FIRST LAYER IS 128 UNITS
 print("\nRecreating model with correct architecture (first layer: 128 units)...")
