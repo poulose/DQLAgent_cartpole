@@ -5,10 +5,12 @@ import numpy as np
 import h5py  # For inspecting .keras files
 import time
 
-episodes = int(input("Provide model episode number between range 500 and 4000: "))
+episodes = input("Provide model episode number between range 500 and 4000: ")
 
 if episodes:
-    episodes = round((episodes/500) * 500)
+    episodes = round((int(episodes)/500) * 500)
+else:
+    episodes = 1000
 
 
 
@@ -34,11 +36,17 @@ model = keras.Sequential([
     keras.layers.Dense(2, activation='linear')  # 2 actions for CartPole
 ])
 
-print(model.summary())
+try:
+    model.load_weights(model_path)
+    print(model.summary())
+except Exception as e:
+    print(f"Could not load model: {e}")
 
-# Skip loading weights since architecture doesn't match exactly
-print("\nSkipping weights - using random initialized model for demo")
-print("The agent may not perform well without trained weights.")
+    # Skip loading weights since architecture doesn't match exactly
+    print("\nSkipping weights - using random initialized model for demo")
+    print("The agent may not perform well without trained weights.")
+
+
 
 # Create environment
 env = gym.make("CartPole-v1", render_mode="human")
