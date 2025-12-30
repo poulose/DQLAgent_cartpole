@@ -1,0 +1,2506 @@
+How many episodes would you like to run? 2500
+episode=   1 | reward= 18 | avg50=  18.0 | max= 18 | eps=0.991
+episode=   2 | reward= 22 | avg50=  20.0 | max= 22 | eps=0.980
+episode=   3 | reward= 13 | avg50=  17.7 | max= 22 | eps=0.974
+episode=   4 | reward= 20 | avg50=  18.2 | max= 22 | eps=0.964
+episode=   5 | reward= 18 | avg50=  18.2 | max= 22 | eps=0.956
+episode=   6 | reward= 21 | avg50=  18.7 | max= 22 | eps=0.946
+episode=   7 | reward= 19 | avg50=  18.7 | max= 22 | eps=0.937
+episode=   8 | reward= 18 | avg50=  18.6 | max= 22 | eps=0.928
+episode=   9 | reward= 13 | avg50=  18.0 | max= 22 | eps=0.922
+episode=  10 | reward= 60 | avg50=  22.2 | max= 60 | eps=0.895
+episode=  11 | reward= 43 | avg50=  24.1 | max= 60 | eps=0.876
+episode=  12 | reward= 36 | avg50=  25.1 | max= 60 | eps=0.860
+episode=  13 | reward= 13 | avg50=  24.2 | max= 60 | eps=0.855
+episode=  14 | reward= 35 | avg50=  24.9 | max= 60 | eps=0.840
+episode=  15 | reward= 24 | avg50=  24.9 | max= 60 | eps=0.830
+episode=  16 | reward= 23 | avg50=  24.8 | max= 60 | eps=0.820
+episode=  17 | reward= 15 | avg50=  24.2 | max= 60 | eps=0.814
+episode=  18 | reward= 10 | avg50=  23.4 | max= 60 | eps=0.810
+episode=  19 | reward= 15 | avg50=  22.9 | max= 60 | eps=0.804
+episode=  20 | reward= 14 | avg50=  22.5 | max= 60 | eps=0.798
+episode=  21 | reward= 13 | avg50=  22.0 | max= 60 | eps=0.793
+episode=  22 | reward= 26 | avg50=  22.2 | max= 60 | eps=0.783
+episode=  23 | reward= 15 | avg50=  21.9 | max= 60 | eps=0.777
+episode=  24 | reward= 20 | avg50=  21.8 | max= 60 | eps=0.769
+episode=  25 | reward= 70 | avg50=  23.8 | max= 70 | eps=0.743
+episode=  26 | reward= 11 | avg50=  23.3 | max= 70 | eps=0.739
+episode=  27 | reward= 15 | avg50=  23.0 | max= 70 | eps=0.733
+episode=  28 | reward= 20 | avg50=  22.9 | max= 70 | eps=0.726
+episode=  29 | reward= 17 | avg50=  22.7 | max= 70 | eps=0.720
+episode=  30 | reward=  9 | avg50=  22.2 | max= 70 | eps=0.717
+episode=  31 | reward= 21 | avg50=  22.2 | max= 70 | eps=0.709
+episode=  32 | reward= 16 | avg50=  22.0 | max= 70 | eps=0.704
+episode=  33 | reward= 11 | avg50=  21.6 | max= 70 | eps=0.700
+episode=  34 | reward= 10 | avg50=  21.3 | max= 70 | eps=0.696
+episode=  35 | reward= 26 | avg50=  21.4 | max= 70 | eps=0.687
+episode=  36 | reward=  9 | avg50=  21.1 | max= 70 | eps=0.684
+episode=  37 | reward= 28 | avg50=  21.3 | max= 70 | eps=0.675
+episode=  38 | reward= 10 | avg50=  21.0 | max= 70 | eps=0.671
+episode=  39 | reward= 10 | avg50=  20.7 | max= 70 | eps=0.668
+episode=  40 | reward= 18 | avg50=  20.6 | max= 70 | eps=0.662
+episode=  41 | reward= 19 | avg50=  20.6 | max= 70 | eps=0.656
+episode=  42 | reward= 25 | avg50=  20.7 | max= 70 | eps=0.648
+episode=  43 | reward= 17 | avg50=  20.6 | max= 70 | eps=0.642
+episode=  44 | reward= 24 | avg50=  20.7 | max= 70 | eps=0.634
+episode=  45 | reward= 14 | avg50=  20.5 | max= 70 | eps=0.630
+episode=  46 | reward= 16 | avg50=  20.4 | max= 70 | eps=0.625
+episode=  47 | reward= 15 | avg50=  20.3 | max= 70 | eps=0.620
+episode=  48 | reward= 16 | avg50=  20.2 | max= 70 | eps=0.615
+episode=  49 | reward= 11 | avg50=  20.0 | max= 70 | eps=0.612
+episode=  50 | reward= 24 | avg50=  20.1 | max= 70 | eps=0.605
+episode=  51 | reward= 17 | avg50=  20.1 | max= 70 | eps=0.600
+episode=  52 | reward= 11 | avg50=  19.9 | max= 70 | eps=0.596
+episode=  53 | reward=  9 | avg50=  19.8 | max= 70 | eps=0.594
+episode=  54 | reward= 13 | avg50=  19.7 | max= 70 | eps=0.590
+episode=  55 | reward= 32 | avg50=  19.9 | max= 70 | eps=0.580
+episode=  56 | reward= 12 | avg50=  19.8 | max= 70 | eps=0.577
+episode=  57 | reward= 12 | avg50=  19.6 | max= 70 | eps=0.573
+episode=  58 | reward= 10 | avg50=  19.5 | max= 70 | eps=0.571
+episode=  59 | reward= 15 | avg50=  19.5 | max= 70 | eps=0.566
+episode=  60 | reward= 24 | avg50=  18.8 | max= 70 | eps=0.560
+episode=  61 | reward= 13 | avg50=  18.2 | max= 70 | eps=0.556
+episode=  62 | reward= 13 | avg50=  17.7 | max= 70 | eps=0.552
+episode=  63 | reward= 11 | avg50=  17.7 | max= 70 | eps=0.549
+episode=  64 | reward= 10 | avg50=  17.2 | max= 70 | eps=0.547
+episode=  65 | reward=  9 | avg50=  16.9 | max= 70 | eps=0.544
+episode=  66 | reward= 17 | avg50=  16.8 | max= 70 | eps=0.539
+episode=  67 | reward= 13 | avg50=  16.7 | max= 70 | eps=0.536
+episode=  68 | reward= 11 | avg50=  16.7 | max= 70 | eps=0.533
+episode=  69 | reward= 11 | avg50=  16.7 | max= 70 | eps=0.530
+episode=  70 | reward= 11 | avg50=  16.6 | max= 70 | eps=0.527
+episode=  71 | reward= 13 | avg50=  16.6 | max= 70 | eps=0.524
+episode=  72 | reward= 11 | avg50=  16.3 | max= 70 | eps=0.521
+episode=  73 | reward= 13 | avg50=  16.3 | max= 70 | eps=0.518
+episode=  74 | reward= 13 | avg50=  16.1 | max= 70 | eps=0.514
+episode=  75 | reward=  8 | avg50=  14.9 | max= 70 | eps=0.512
+episode=  76 | reward=  8 | avg50=  14.8 | max= 70 | eps=0.510
+episode=  77 | reward= 12 | avg50=  14.8 | max= 70 | eps=0.507
+episode=  78 | reward= 16 | avg50=  14.7 | max= 70 | eps=0.503
+episode=  79 | reward= 11 | avg50=  14.6 | max= 70 | eps=0.500
+episode=  80 | reward= 13 | avg50=  14.6 | max= 70 | eps=0.497
+episode=  81 | reward= 15 | avg50=  14.5 | max= 70 | eps=0.493
+episode=  82 | reward= 14 | avg50=  14.5 | max= 70 | eps=0.490
+episode=  83 | reward= 10 | avg50=  14.5 | max= 70 | eps=0.487
+episode=  84 | reward= 10 | avg50=  14.5 | max= 70 | eps=0.485
+episode=  85 | reward= 11 | avg50=  14.2 | max= 70 | eps=0.482
+episode=  86 | reward= 10 | avg50=  14.2 | max= 70 | eps=0.480
+episode=  87 | reward= 19 | avg50=  14.0 | max= 70 | eps=0.475
+episode=  88 | reward=  9 | avg50=  14.0 | max= 70 | eps=0.473
+episode=  89 | reward= 10 | avg50=  14.0 | max= 70 | eps=0.471
+episode=  90 | reward=  9 | avg50=  13.8 | max= 70 | eps=0.469
+episode=  91 | reward= 12 | avg50=  13.7 | max= 70 | eps=0.466
+episode=  92 | reward= 12 | avg50=  13.4 | max= 70 | eps=0.463
+episode=  93 | reward= 13 | avg50=  13.3 | max= 70 | eps=0.460
+episode=  94 | reward= 10 | avg50=  13.0 | max= 70 | eps=0.458
+episode=  95 | reward=  9 | avg50=  12.9 | max= 70 | eps=0.456
+episode=  96 | reward=  9 | avg50=  12.8 | max= 70 | eps=0.454
+episode=  97 | reward= 13 | avg50=  12.8 | max= 70 | eps=0.451
+episode=  98 | reward= 13 | avg50=  12.7 | max= 70 | eps=0.448
+episode=  99 | reward= 10 | avg50=  12.7 | max= 70 | eps=0.446
+episode= 100 | reward= 15 | avg50=  12.5 | max= 70 | eps=0.442
+episode= 101 | reward= 13 | avg50=  12.4 | max= 70 | eps=0.439
+episode= 102 | reward= 10 | avg50=  12.4 | max= 70 | eps=0.437
+episode= 103 | reward= 13 | avg50=  12.5 | max= 70 | eps=0.434
+episode= 104 | reward= 10 | avg50=  12.4 | max= 70 | eps=0.432
+episode= 105 | reward= 12 | avg50=  12.0 | max= 70 | eps=0.430
+episode= 106 | reward=  8 | avg50=  11.9 | max= 70 | eps=0.428
+episode= 107 | reward= 11 | avg50=  11.9 | max= 70 | eps=0.426
+episode= 108 | reward= 21 | avg50=  12.1 | max= 70 | eps=0.421
+episode= 109 | reward=  9 | avg50=  12.0 | max= 70 | eps=0.419
+episode= 110 | reward= 10 | avg50=  11.7 | max= 70 | eps=0.417
+episode= 111 | reward= 14 | avg50=  11.8 | max= 70 | eps=0.414
+episode= 112 | reward= 11 | avg50=  11.7 | max= 70 | eps=0.412
+episode= 113 | reward= 10 | avg50=  11.7 | max= 70 | eps=0.410
+episode= 114 | reward= 11 | avg50=  11.7 | max= 70 | eps=0.408
+episode= 115 | reward= 10 | avg50=  11.7 | max= 70 | eps=0.406
+episode= 116 | reward= 11 | avg50=  11.6 | max= 70 | eps=0.403
+episode= 117 | reward=  9 | avg50=  11.5 | max= 70 | eps=0.402
+episode= 118 | reward= 10 | avg50=  11.5 | max= 70 | eps=0.400
+episode= 119 | reward= 10 | avg50=  11.5 | max= 70 | eps=0.398
+episode= 120 | reward= 12 | avg50=  11.5 | max= 70 | eps=0.395
+episode= 121 | reward= 17 | avg50=  11.6 | max= 70 | eps=0.392
+episode= 122 | reward= 12 | avg50=  11.6 | max= 70 | eps=0.390
+episode= 123 | reward= 14 | avg50=  11.6 | max= 70 | eps=0.387
+episode= 124 | reward=  9 | avg50=  11.6 | max= 70 | eps=0.385
+episode= 125 | reward= 10 | avg50=  11.6 | max= 70 | eps=0.383
+episode= 126 | reward=  8 | avg50=  11.6 | max= 70 | eps=0.382
+episode= 127 | reward= 14 | avg50=  11.6 | max= 70 | eps=0.379
+episode= 128 | reward= 12 | avg50=  11.6 | max= 70 | eps=0.377
+episode= 129 | reward= 11 | avg50=  11.6 | max= 70 | eps=0.375
+episode= 130 | reward=  8 | avg50=  11.5 | max= 70 | eps=0.373
+episode= 131 | reward= 10 | avg50=  11.4 | max= 70 | eps=0.371
+episode= 132 | reward= 12 | avg50=  11.3 | max= 70 | eps=0.369
+episode= 133 | reward=  8 | avg50=  11.3 | max= 70 | eps=0.368
+episode= 134 | reward= 15 | avg50=  11.4 | max= 70 | eps=0.365
+episode= 135 | reward=  9 | avg50=  11.3 | max= 70 | eps=0.363
+episode= 136 | reward=  9 | avg50=  11.3 | max= 70 | eps=0.362
+episode= 137 | reward= 13 | avg50=  11.2 | max= 70 | eps=0.359
+episode= 138 | reward= 10 | avg50=  11.2 | max= 70 | eps=0.357
+episode= 139 | reward= 11 | avg50=  11.2 | max= 70 | eps=0.355
+episode= 140 | reward= 10 | avg50=  11.3 | max= 70 | eps=0.354
+episode= 141 | reward= 11 | avg50=  11.2 | max= 70 | eps=0.352
+episode= 142 | reward= 14 | avg50=  11.3 | max= 70 | eps=0.349
+episode= 143 | reward= 14 | avg50=  11.3 | max= 70 | eps=0.347
+episode= 144 | reward= 10 | avg50=  11.3 | max= 70 | eps=0.345
+episode= 145 | reward=  8 | avg50=  11.3 | max= 70 | eps=0.344
+episode= 146 | reward= 12 | avg50=  11.3 | max= 70 | eps=0.342
+episode= 147 | reward= 10 | avg50=  11.3 | max= 70 | eps=0.340
+episode= 148 | reward= 12 | avg50=  11.3 | max= 70 | eps=0.338
+episode= 149 | reward= 14 | avg50=  11.3 | max= 70 | eps=0.336
+episode= 150 | reward= 11 | avg50=  11.3 | max= 70 | eps=0.334
+episode= 151 | reward= 12 | avg50=  11.2 | max= 70 | eps=0.332
+episode= 152 | reward= 11 | avg50=  11.3 | max= 70 | eps=0.330
+episode= 153 | reward= 12 | avg50=  11.2 | max= 70 | eps=0.328
+episode= 154 | reward= 10 | avg50=  11.2 | max= 70 | eps=0.326
+episode= 155 | reward= 14 | avg50=  11.3 | max= 70 | eps=0.324
+episode= 156 | reward= 10 | avg50=  11.3 | max= 70 | eps=0.322
+episode= 157 | reward= 10 | avg50=  11.3 | max= 70 | eps=0.321
+episode= 158 | reward= 10 | avg50=  11.1 | max= 70 | eps=0.319
+episode= 159 | reward= 12 | avg50=  11.1 | max= 70 | eps=0.317
+episode= 160 | reward= 10 | avg50=  11.1 | max= 70 | eps=0.316
+episode= 161 | reward=  9 | avg50=  11.0 | max= 70 | eps=0.314
+episode= 162 | reward=  9 | avg50=  11.0 | max= 70 | eps=0.313
+episode= 163 | reward= 14 | avg50=  11.1 | max= 70 | eps=0.311
+episode= 164 | reward= 12 | avg50=  11.1 | max= 70 | eps=0.309
+episode= 165 | reward= 10 | avg50=  11.1 | max= 70 | eps=0.307
+episode= 166 | reward=  9 | avg50=  11.1 | max= 70 | eps=0.306
+episode= 167 | reward=  9 | avg50=  11.1 | max= 70 | eps=0.305
+episode= 168 | reward= 14 | avg50=  11.1 | max= 70 | eps=0.302
+episode= 169 | reward=  9 | avg50=  11.1 | max= 70 | eps=0.301
+episode= 170 | reward= 12 | avg50=  11.1 | max= 70 | eps=0.299
+episode= 171 | reward=  9 | avg50=  11.0 | max= 70 | eps=0.298
+episode= 172 | reward= 10 | avg50=  10.9 | max= 70 | eps=0.296
+episode= 173 | reward=  9 | avg50=  10.8 | max= 70 | eps=0.295
+episode= 174 | reward= 11 | avg50=  10.9 | max= 70 | eps=0.294
+episode= 175 | reward= 13 | avg50=  10.9 | max= 70 | eps=0.292
+episode= 176 | reward= 12 | avg50=  11.0 | max= 70 | eps=0.290
+episode= 177 | reward= 12 | avg50=  11.0 | max= 70 | eps=0.288
+episode= 178 | reward= 11 | avg50=  10.9 | max= 70 | eps=0.287
+episode= 179 | reward= 12 | avg50=  11.0 | max= 70 | eps=0.285
+episode= 180 | reward= 10 | avg50=  11.0 | max= 70 | eps=0.283
+episode= 181 | reward= 11 | avg50=  11.0 | max= 70 | eps=0.282
+episode= 182 | reward= 13 | avg50=  11.0 | max= 70 | eps=0.280
+episode= 183 | reward= 12 | avg50=  11.1 | max= 70 | eps=0.278
+episode= 184 | reward= 13 | avg50=  11.1 | max= 70 | eps=0.277
+episode= 185 | reward= 12 | avg50=  11.1 | max= 70 | eps=0.275
+episode= 186 | reward= 12 | avg50=  11.2 | max= 70 | eps=0.273
+episode= 187 | reward= 12 | avg50=  11.2 | max= 70 | eps=0.272
+episode= 188 | reward=  8 | avg50=  11.1 | max= 70 | eps=0.271
+episode= 189 | reward= 12 | avg50=  11.2 | max= 70 | eps=0.269
+episode= 190 | reward= 11 | avg50=  11.2 | max= 70 | eps=0.267
+episode= 191 | reward=  9 | avg50=  11.1 | max= 70 | eps=0.266
+episode= 192 | reward= 10 | avg50=  11.1 | max= 70 | eps=0.265
+episode= 193 | reward= 13 | avg50=  11.0 | max= 70 | eps=0.263
+episode= 194 | reward= 14 | avg50=  11.1 | max= 70 | eps=0.261
+episode= 195 | reward= 11 | avg50=  11.2 | max= 70 | eps=0.260
+episode= 196 | reward= 11 | avg50=  11.2 | max= 70 | eps=0.259
+episode= 197 | reward= 11 | avg50=  11.2 | max= 70 | eps=0.257
+episode= 198 | reward= 10 | avg50=  11.1 | max= 70 | eps=0.256
+episode= 199 | reward= 12 | avg50=  11.1 | max= 70 | eps=0.254
+episode= 200 | reward= 11 | avg50=  11.1 | max= 70 | eps=0.253
+episode= 201 | reward= 10 | avg50=  11.1 | max= 70 | eps=0.252
+episode= 202 | reward=  8 | avg50=  11.0 | max= 70 | eps=0.251
+episode= 203 | reward= 12 | avg50=  11.0 | max= 70 | eps=0.249
+episode= 204 | reward= 10 | avg50=  11.0 | max= 70 | eps=0.248
+episode= 205 | reward= 10 | avg50=  10.9 | max= 70 | eps=0.247
+episode= 206 | reward= 12 | avg50=  11.0 | max= 70 | eps=0.245
+episode= 207 | reward=  9 | avg50=  10.9 | max= 70 | eps=0.244
+episode= 208 | reward=  9 | avg50=  10.9 | max= 70 | eps=0.243
+episode= 209 | reward=  8 | avg50=  10.8 | max= 70 | eps=0.242
+episode= 210 | reward= 12 | avg50=  10.9 | max= 70 | eps=0.241
+episode= 211 | reward= 11 | avg50=  10.9 | max= 70 | eps=0.239
+episode= 212 | reward=  9 | avg50=  10.9 | max= 70 | eps=0.238
+episode= 213 | reward= 11 | avg50=  10.9 | max= 70 | eps=0.237
+episode= 214 | reward= 10 | avg50=  10.8 | max= 70 | eps=0.236
+episode= 215 | reward= 11 | avg50=  10.8 | max= 70 | eps=0.234
+episode= 216 | reward= 10 | avg50=  10.9 | max= 70 | eps=0.233
+episode= 217 | reward= 10 | avg50=  10.9 | max= 70 | eps=0.232
+episode= 218 | reward=  9 | avg50=  10.8 | max= 70 | eps=0.231
+episode= 219 | reward= 10 | avg50=  10.8 | max= 70 | eps=0.230
+episode= 220 | reward= 10 | avg50=  10.8 | max= 70 | eps=0.229
+episode= 221 | reward=  9 | avg50=  10.8 | max= 70 | eps=0.228
+episode= 222 | reward=  9 | avg50=  10.7 | max= 70 | eps=0.227
+episode= 223 | reward=  9 | avg50=  10.7 | max= 70 | eps=0.226
+episode= 224 | reward= 13 | avg50=  10.8 | max= 70 | eps=0.224
+episode= 225 | reward=  9 | avg50=  10.7 | max= 70 | eps=0.223
+episode= 226 | reward=  9 | avg50=  10.6 | max= 70 | eps=0.222
+episode= 227 | reward= 11 | avg50=  10.6 | max= 70 | eps=0.221
+episode= 228 | reward= 10 | avg50=  10.6 | max= 70 | eps=0.220
+episode= 229 | reward= 12 | avg50=  10.6 | max= 70 | eps=0.219
+episode= 230 | reward= 12 | avg50=  10.6 | max= 70 | eps=0.217
+episode= 231 | reward= 13 | avg50=  10.7 | max= 70 | eps=0.216
+episode= 232 | reward= 12 | avg50=  10.7 | max= 70 | eps=0.215
+episode= 233 | reward= 14 | avg50=  10.7 | max= 70 | eps=0.213
+episode= 234 | reward= 16 | avg50=  10.8 | max= 70 | eps=0.211
+episode= 235 | reward= 15 | avg50=  10.8 | max= 70 | eps=0.210
+episode= 236 | reward= 10 | avg50=  10.8 | max= 70 | eps=0.209
+episode= 237 | reward= 11 | avg50=  10.8 | max= 70 | eps=0.208
+episode= 238 | reward= 31 | avg50=  11.2 | max= 70 | eps=0.204
+episode= 239 | reward= 27 | avg50=  11.5 | max= 70 | eps=0.202
+episode= 240 | reward= 33 | avg50=  12.0 | max= 70 | eps=0.198
+episode= 241 | reward= 12 | avg50=  12.0 | max= 70 | eps=0.197
+episode= 242 | reward= 13 | avg50=  12.1 | max= 70 | eps=0.196
+episode= 243 | reward= 18 | avg50=  12.2 | max= 70 | eps=0.194
+episode= 244 | reward= 26 | avg50=  12.4 | max= 70 | eps=0.192
+episode= 245 | reward= 33 | avg50=  12.9 | max= 70 | eps=0.188
+episode= 246 | reward= 33 | avg50=  13.3 | max= 70 | eps=0.185
+episode= 247 | reward= 10 | avg50=  13.3 | max= 70 | eps=0.184
+episode= 248 | reward= 14 | avg50=  13.4 | max= 70 | eps=0.183
+episode= 249 | reward= 30 | avg50=  13.7 | max= 70 | eps=0.180
+episode= 250 | reward= 11 | avg50=  13.7 | max= 70 | eps=0.179
+episode= 251 | reward= 12 | avg50=  13.8 | max= 70 | eps=0.178
+episode= 252 | reward= 28 | avg50=  14.2 | max= 70 | eps=0.176
+episode= 253 | reward= 13 | avg50=  14.2 | max= 70 | eps=0.175
+episode= 254 | reward= 37 | avg50=  14.7 | max= 70 | eps=0.172
+episode= 255 | reward= 11 | avg50=  14.7 | max= 70 | eps=0.171
+episode= 256 | reward= 29 | avg50=  15.1 | max= 70 | eps=0.168
+episode= 257 | reward= 30 | avg50=  15.5 | max= 70 | eps=0.166
+episode= 258 | reward= 29 | avg50=  15.9 | max= 70 | eps=0.163
+episode= 259 | reward= 33 | avg50=  16.4 | max= 70 | eps=0.161
+episode= 260 | reward= 11 | avg50=  16.4 | max= 70 | eps=0.160
+episode= 261 | reward= 31 | avg50=  16.8 | max= 70 | eps=0.157
+episode= 262 | reward= 34 | avg50=  17.3 | max= 70 | eps=0.155
+episode= 263 | reward= 14 | avg50=  17.3 | max= 70 | eps=0.154
+episode= 264 | reward= 35 | avg50=  17.8 | max= 70 | eps=0.151
+episode= 265 | reward= 26 | avg50=  18.1 | max= 70 | eps=0.149
+episode= 266 | reward= 37 | avg50=  18.7 | max= 70 | eps=0.146
+episode= 267 | reward= 12 | avg50=  18.7 | max= 70 | eps=0.145
+episode= 268 | reward= 27 | avg50=  19.1 | max= 70 | eps=0.143
+episode= 269 | reward= 31 | avg50=  19.5 | max= 70 | eps=0.141
+episode= 270 | reward= 12 | avg50=  19.5 | max= 70 | eps=0.140
+episode= 271 | reward= 13 | avg50=  19.6 | max= 70 | eps=0.139
+episode= 272 | reward= 37 | avg50=  20.2 | max= 70 | eps=0.137
+episode= 273 | reward= 28 | avg50=  20.6 | max= 70 | eps=0.135
+episode= 274 | reward=279 | avg50=  25.9 | max=279 | eps=0.117
+episode= 275 | reward= 32 | avg50=  26.3 | max=279 | eps=0.115
+episode= 276 | reward=187 | avg50=  29.9 | max=279 | eps=0.105
+episode= 277 | reward= 90 | avg50=  31.5 | max=279 | eps=0.101
+episode= 278 | reward= 25 | avg50=  31.8 | max=279 | eps=0.099
+episode= 279 | reward= 26 | avg50=  32.1 | max=279 | eps=0.098
+episode= 280 | reward=228 | avg50=  36.4 | max=279 | eps=0.087
+episode= 281 | reward= 26 | avg50=  36.6 | max=279 | eps=0.086
+episode= 282 | reward= 22 | avg50=  36.8 | max=279 | eps=0.085
+episode= 283 | reward= 21 | avg50=  37.0 | max=279 | eps=0.084
+episode= 284 | reward= 24 | avg50=  37.1 | max=279 | eps=0.083
+episode= 285 | reward= 43 | avg50=  37.7 | max=279 | eps=0.082
+episode= 286 | reward=243 | avg50=  42.4 | max=279 | eps=0.072
+episode= 287 | reward=109 | avg50=  44.3 | max=279 | eps=0.069
+episode= 288 | reward=226 | avg50=  48.2 | max=279 | eps=0.061
+episode= 289 | reward=174 | avg50=  51.2 | max=279 | eps=0.056
+episode= 290 | reward= 20 | avg50=  50.9 | max=279 | eps=0.056
+episode= 291 | reward=103 | avg50=  52.7 | max=279 | eps=0.053
+episode= 292 | reward=194 | avg50=  56.3 | max=279 | eps=0.050
+episode= 293 | reward=284 | avg50=  61.7 | max=284 | eps=0.050
+episode= 294 | reward= 87 | avg50=  62.9 | max=284 | eps=0.050
+episode= 295 | reward=214 | avg50=  66.5 | max=284 | eps=0.050
+episode= 296 | reward=187 | avg50=  69.6 | max=284 | eps=0.050
+episode= 297 | reward=322 | avg50=  75.8 | max=322 | eps=0.050
+episode= 298 | reward=205 | avg50=  79.6 | max=322 | eps=0.050
+episode= 299 | reward=242 | avg50=  83.9 | max=322 | eps=0.050
+episode= 300 | reward=172 | avg50=  87.1 | max=322 | eps=0.050
+episode= 301 | reward=230 | avg50=  91.5 | max=322 | eps=0.050
+episode= 302 | reward=158 | avg50=  94.1 | max=322 | eps=0.050
+episode= 303 | reward=160 | avg50=  97.0 | max=322 | eps=0.050
+episode= 304 | reward=144 | avg50=  99.1 | max=322 | eps=0.050
+episode= 305 | reward=206 | avg50= 103.0 | max=322 | eps=0.050
+episode= 306 | reward=210 | avg50= 106.7 | max=322 | eps=0.050
+episode= 307 | reward=147 | avg50= 109.0 | max=322 | eps=0.050
+episode= 308 | reward=218 | avg50= 112.8 | max=322 | eps=0.050
+episode= 309 | reward=160 | avg50= 115.3 | max=322 | eps=0.050
+episode= 310 | reward=258 | avg50= 120.3 | max=322 | eps=0.050
+episode= 311 | reward=136 | avg50= 122.4 | max=322 | eps=0.050
+episode= 312 | reward=154 | avg50= 124.8 | max=322 | eps=0.050
+episode= 313 | reward=146 | avg50= 127.4 | max=322 | eps=0.050
+episode= 314 | reward=137 | avg50= 129.4 | max=322 | eps=0.050
+episode= 315 | reward=154 | avg50= 132.0 | max=322 | eps=0.050
+episode= 316 | reward=129 | avg50= 133.8 | max=322 | eps=0.050
+episode= 317 | reward=127 | avg50= 136.1 | max=322 | eps=0.050
+episode= 318 | reward=135 | avg50= 138.3 | max=322 | eps=0.050
+episode= 319 | reward=112 | avg50= 139.9 | max=322 | eps=0.050
+episode= 320 | reward=144 | avg50= 142.6 | max=322 | eps=0.050
+episode= 321 | reward=110 | avg50= 144.5 | max=322 | eps=0.050
+episode= 322 | reward=136 | avg50= 146.5 | max=322 | eps=0.050
+episode= 323 | reward=100 | avg50= 147.9 | max=322 | eps=0.050
+episode= 324 | reward=107 | avg50= 144.5 | max=322 | eps=0.050
+episode= 325 | reward=110 | avg50= 146.0 | max=322 | eps=0.050
+episode= 326 | reward=130 | avg50= 144.9 | max=322 | eps=0.050
+episode= 327 | reward= 97 | avg50= 145.0 | max=322 | eps=0.050
+episode= 328 | reward=102 | avg50= 146.6 | max=322 | eps=0.050
+episode= 329 | reward=101 | avg50= 148.1 | max=322 | eps=0.050
+episode= 330 | reward=104 | avg50= 145.6 | max=322 | eps=0.050
+episode= 331 | reward=108 | avg50= 147.2 | max=322 | eps=0.050
+episode= 332 | reward=149 | avg50= 149.8 | max=322 | eps=0.050
+episode= 333 | reward=109 | avg50= 151.5 | max=322 | eps=0.050
+episode= 334 | reward=113 | avg50= 153.3 | max=322 | eps=0.050
+episode= 335 | reward=113 | avg50= 154.7 | max=322 | eps=0.050
+episode= 336 | reward=110 | avg50= 152.1 | max=322 | eps=0.050
+episode= 337 | reward=109 | avg50= 152.1 | max=322 | eps=0.050
+episode= 338 | reward=104 | avg50= 149.6 | max=322 | eps=0.050
+episode= 339 | reward= 99 | avg50= 148.1 | max=322 | eps=0.050
+episode= 340 | reward=102 | avg50= 149.8 | max=322 | eps=0.050
+episode= 341 | reward= 99 | avg50= 149.7 | max=322 | eps=0.050
+episode= 342 | reward=119 | avg50= 148.2 | max=322 | eps=0.050
+episode= 343 | reward=137 | avg50= 145.2 | max=322 | eps=0.050
+episode= 344 | reward=101 | avg50= 145.5 | max=322 | eps=0.050
+episode= 345 | reward=102 | avg50= 143.3 | max=322 | eps=0.050
+episode= 346 | reward=102 | avg50= 141.6 | max=322 | eps=0.050
+episode= 347 | reward= 98 | avg50= 137.1 | max=322 | eps=0.050
+episode= 348 | reward=131 | avg50= 135.6 | max=322 | eps=0.050
+episode= 349 | reward=100 | avg50= 132.8 | max=322 | eps=0.050
+episode= 350 | reward= 98 | avg50= 131.3 | max=322 | eps=0.050
+episode= 351 | reward= 96 | avg50= 128.6 | max=322 | eps=0.050
+episode= 352 | reward=100 | avg50= 127.5 | max=322 | eps=0.050
+episode= 353 | reward= 97 | avg50= 126.2 | max=322 | eps=0.050
+episode= 354 | reward=136 | avg50= 126.0 | max=322 | eps=0.050
+episode= 355 | reward= 97 | avg50= 123.9 | max=322 | eps=0.050
+episode= 356 | reward= 17 | avg50= 120.0 | max=322 | eps=0.050
+episode= 357 | reward=175 | avg50= 120.6 | max=322 | eps=0.050
+episode= 358 | reward=131 | avg50= 118.8 | max=322 | eps=0.050
+episode= 359 | reward=134 | avg50= 118.3 | max=322 | eps=0.050
+episode= 360 | reward=130 | avg50= 115.7 | max=322 | eps=0.050
+episode= 361 | reward=122 | avg50= 115.5 | max=322 | eps=0.050
+episode= 362 | reward=135 | avg50= 115.1 | max=322 | eps=0.050
+episode= 363 | reward=131 | avg50= 114.8 | max=322 | eps=0.050
+episode= 364 | reward=109 | avg50= 114.2 | max=322 | eps=0.050
+episode= 365 | reward=124 | avg50= 113.6 | max=322 | eps=0.050
+episode= 366 | reward=123 | avg50= 113.5 | max=322 | eps=0.050
+episode= 367 | reward=144 | avg50= 113.8 | max=322 | eps=0.050
+episode= 368 | reward=151 | avg50= 114.2 | max=322 | eps=0.050
+episode= 369 | reward=154 | avg50= 115.0 | max=322 | eps=0.050
+episode= 370 | reward= 13 | avg50= 112.4 | max=322 | eps=0.050
+episode= 371 | reward=134 | avg50= 112.9 | max=322 | eps=0.050
+episode= 372 | reward=134 | avg50= 112.8 | max=322 | eps=0.050
+episode= 373 | reward=130 | avg50= 113.4 | max=322 | eps=0.050
+episode= 374 | reward=179 | avg50= 114.9 | max=322 | eps=0.050
+episode= 375 | reward=145 | avg50= 115.6 | max=322 | eps=0.050
+episode= 376 | reward=156 | avg50= 116.1 | max=322 | eps=0.050
+episode= 377 | reward= 95 | avg50= 116.0 | max=322 | eps=0.050
+episode= 378 | reward=159 | avg50= 117.2 | max=322 | eps=0.050
+episode= 379 | reward=165 | avg50= 118.5 | max=322 | eps=0.050
+episode= 380 | reward=155 | avg50= 119.5 | max=322 | eps=0.050
+episode= 381 | reward= 51 | avg50= 118.3 | max=322 | eps=0.050
+episode= 382 | reward=178 | avg50= 118.9 | max=322 | eps=0.050
+episode= 383 | reward=154 | avg50= 119.8 | max=322 | eps=0.050
+episode= 384 | reward=165 | avg50= 120.9 | max=322 | eps=0.050
+episode= 385 | reward=176 | avg50= 122.1 | max=322 | eps=0.050
+episode= 386 | reward=193 | avg50= 123.8 | max=322 | eps=0.050
+episode= 387 | reward=152 | avg50= 124.6 | max=322 | eps=0.050
+episode= 388 | reward=142 | avg50= 125.4 | max=322 | eps=0.050
+episode= 389 | reward= 14 | avg50= 123.7 | max=322 | eps=0.050
+episode= 390 | reward=143 | avg50= 124.5 | max=322 | eps=0.050
+episode= 391 | reward=135 | avg50= 125.2 | max=322 | eps=0.050
+episode= 392 | reward=166 | avg50= 126.2 | max=322 | eps=0.050
+episode= 393 | reward=158 | avg50= 126.6 | max=322 | eps=0.050
+episode= 394 | reward=252 | avg50= 129.6 | max=322 | eps=0.050
+episode= 395 | reward=127 | avg50= 130.1 | max=322 | eps=0.050
+episode= 396 | reward=146 | avg50= 131.0 | max=322 | eps=0.050
+episode= 397 | reward=289 | avg50= 134.8 | max=322 | eps=0.050
+episode= 398 | reward=130 | avg50= 134.8 | max=322 | eps=0.050
+episode= 399 | reward=224 | avg50= 137.3 | max=322 | eps=0.050
+episode= 400 | reward=131 | avg50= 137.9 | max=322 | eps=0.050
+episode= 401 | reward=164 | avg50= 139.3 | max=322 | eps=0.050
+episode= 402 | reward=183 | avg50= 141.0 | max=322 | eps=0.050
+episode= 403 | reward=151 | avg50= 142.0 | max=322 | eps=0.050
+episode= 404 | reward=145 | avg50= 142.2 | max=322 | eps=0.050
+episode= 405 | reward=144 | avg50= 143.2 | max=322 | eps=0.050
+episode= 406 | reward=222 | avg50= 147.3 | max=322 | eps=0.050
+episode= 407 | reward=195 | avg50= 147.7 | max=322 | eps=0.050
+episode= 408 | reward=172 | avg50= 148.5 | max=322 | eps=0.050
+episode= 409 | reward=205 | avg50= 149.9 | max=322 | eps=0.050
+episode= 410 | reward=213 | avg50= 151.6 | max=322 | eps=0.050
+episode= 411 | reward=168 | avg50= 152.5 | max=322 | eps=0.050
+episode= 412 | reward=136 | avg50= 152.5 | max=322 | eps=0.050
+episode= 413 | reward= 98 | avg50= 151.8 | max=322 | eps=0.050
+episode= 414 | reward=244 | avg50= 154.5 | max=322 | eps=0.050
+episode= 415 | reward= 90 | avg50= 153.9 | max=322 | eps=0.050
+episode= 416 | reward=120 | avg50= 153.8 | max=322 | eps=0.050
+episode= 417 | reward=153 | avg50= 154.0 | max=322 | eps=0.050
+episode= 418 | reward=103 | avg50= 153.0 | max=322 | eps=0.050
+episode= 419 | reward=129 | avg50= 152.5 | max=322 | eps=0.050
+episode= 420 | reward=117 | avg50= 154.6 | max=322 | eps=0.050
+episode= 421 | reward=104 | avg50= 154.0 | max=322 | eps=0.050
+episode= 422 | reward= 93 | avg50= 153.2 | max=322 | eps=0.050
+episode= 423 | reward= 95 | avg50= 152.5 | max=322 | eps=0.050
+episode= 424 | reward=110 | avg50= 151.1 | max=322 | eps=0.050
+episode= 425 | reward=101 | avg50= 150.2 | max=322 | eps=0.050
+episode= 426 | reward=105 | avg50= 149.2 | max=322 | eps=0.050
+episode= 427 | reward=217 | avg50= 151.6 | max=322 | eps=0.050
+episode= 428 | reward=107 | avg50= 150.6 | max=322 | eps=0.050
+episode= 429 | reward=102 | avg50= 149.3 | max=322 | eps=0.050
+episode= 430 | reward=101 | avg50= 148.3 | max=322 | eps=0.050
+episode= 431 | reward= 97 | avg50= 149.2 | max=322 | eps=0.050
+episode= 432 | reward=130 | avg50= 148.2 | max=322 | eps=0.050
+episode= 433 | reward= 96 | avg50= 147.1 | max=322 | eps=0.050
+episode= 434 | reward= 27 | avg50= 144.3 | max=322 | eps=0.050
+episode= 435 | reward=105 | avg50= 142.9 | max=322 | eps=0.050
+episode= 436 | reward=106 | avg50= 141.1 | max=322 | eps=0.050
+episode= 437 | reward= 97 | avg50= 140.0 | max=322 | eps=0.050
+episode= 438 | reward= 94 | avg50= 139.1 | max=322 | eps=0.050
+episode= 439 | reward= 47 | avg50= 139.7 | max=322 | eps=0.050
+episode= 440 | reward=102 | avg50= 138.9 | max=322 | eps=0.050
+episode= 441 | reward=111 | avg50= 138.4 | max=322 | eps=0.050
+episode= 442 | reward=102 | avg50= 137.2 | max=322 | eps=0.050
+episode= 443 | reward= 96 | avg50= 135.9 | max=322 | eps=0.050
+episode= 444 | reward=101 | avg50= 132.9 | max=322 | eps=0.050
+episode= 445 | reward= 91 | avg50= 132.2 | max=322 | eps=0.050
+episode= 446 | reward=120 | avg50= 131.7 | max=322 | eps=0.050
+episode= 447 | reward= 92 | avg50= 127.7 | max=322 | eps=0.050
+episode= 448 | reward=119 | avg50= 127.5 | max=322 | eps=0.050
+episode= 449 | reward= 73 | avg50= 124.5 | max=322 | eps=0.050
+episode= 450 | reward= 88 | avg50= 123.6 | max=322 | eps=0.050
+episode= 451 | reward= 62 | avg50= 121.6 | max=322 | eps=0.050
+episode= 452 | reward= 95 | avg50= 119.8 | max=322 | eps=0.050
+episode= 453 | reward=115 | avg50= 119.1 | max=322 | eps=0.050
+episode= 454 | reward= 98 | avg50= 118.2 | max=322 | eps=0.050
+episode= 455 | reward=114 | avg50= 117.6 | max=322 | eps=0.050
+episode= 456 | reward=109 | avg50= 115.3 | max=322 | eps=0.050
+episode= 457 | reward= 50 | avg50= 112.4 | max=322 | eps=0.050
+episode= 458 | reward=171 | avg50= 112.4 | max=322 | eps=0.050
+episode= 459 | reward=149 | avg50= 111.3 | max=322 | eps=0.050
+episode= 460 | reward=125 | avg50= 109.5 | max=322 | eps=0.050
+episode= 461 | reward=100 | avg50= 108.1 | max=322 | eps=0.050
+episode= 462 | reward= 99 | avg50= 107.4 | max=322 | eps=0.050
+episode= 463 | reward= 88 | avg50= 107.2 | max=322 | eps=0.050
+episode= 464 | reward=192 | avg50= 106.2 | max=322 | eps=0.050
+episode= 465 | reward= 94 | avg50= 106.2 | max=322 | eps=0.050
+episode= 466 | reward=127 | avg50= 106.4 | max=322 | eps=0.050
+episode= 467 | reward=161 | avg50= 106.5 | max=322 | eps=0.050
+episode= 468 | reward=105 | avg50= 106.6 | max=322 | eps=0.050
+episode= 469 | reward=172 | avg50= 107.4 | max=322 | eps=0.050
+episode= 470 | reward=138 | avg50= 107.9 | max=322 | eps=0.050
+episode= 471 | reward=215 | avg50= 110.1 | max=322 | eps=0.050
+episode= 472 | reward=126 | avg50= 110.7 | max=322 | eps=0.050
+episode= 473 | reward= 97 | avg50= 110.8 | max=322 | eps=0.050
+episode= 474 | reward=102 | avg50= 110.6 | max=322 | eps=0.050
+episode= 475 | reward=102 | avg50= 110.6 | max=322 | eps=0.050
+episode= 476 | reward=101 | avg50= 110.6 | max=322 | eps=0.050
+episode= 477 | reward=158 | avg50= 109.4 | max=322 | eps=0.050
+episode= 478 | reward=107 | avg50= 109.4 | max=322 | eps=0.050
+episode= 479 | reward=102 | avg50= 109.4 | max=322 | eps=0.050
+episode= 480 | reward=110 | avg50= 109.6 | max=322 | eps=0.050
+episode= 481 | reward= 98 | avg50= 109.6 | max=322 | eps=0.050
+episode= 482 | reward= 99 | avg50= 109.0 | max=322 | eps=0.050
+episode= 483 | reward= 95 | avg50= 108.9 | max=322 | eps=0.050
+episode= 484 | reward= 94 | avg50= 110.3 | max=322 | eps=0.050
+episode= 485 | reward= 25 | avg50= 108.7 | max=322 | eps=0.050
+episode= 486 | reward=102 | avg50= 108.6 | max=322 | eps=0.050
+episode= 487 | reward= 96 | avg50= 108.6 | max=322 | eps=0.050
+episode= 488 | reward= 22 | avg50= 107.1 | max=322 | eps=0.050
+episode= 489 | reward= 93 | avg50= 108.1 | max=322 | eps=0.050
+episode= 490 | reward=103 | avg50= 108.1 | max=322 | eps=0.050
+episode= 491 | reward= 55 | avg50= 107.0 | max=322 | eps=0.050
+episode= 492 | reward= 12 | avg50= 105.2 | max=322 | eps=0.050
+episode= 493 | reward= 93 | avg50= 105.1 | max=322 | eps=0.050
+episode= 494 | reward=112 | avg50= 105.3 | max=322 | eps=0.050
+episode= 495 | reward=104 | avg50= 105.6 | max=322 | eps=0.050
+episode= 496 | reward=144 | avg50= 106.1 | max=322 | eps=0.050
+episode= 497 | reward=115 | avg50= 106.5 | max=322 | eps=0.050
+episode= 498 | reward= 90 | avg50= 105.9 | max=322 | eps=0.050
+episode= 499 | reward= 26 | avg50= 105.0 | max=322 | eps=0.050
+episode= 500 | reward=107 | avg50= 105.4 | max=322 | eps=0.050
+episode= 501 | reward=109 | avg50= 106.3 | max=322 | eps=0.050
+episode= 502 | reward= 43 | avg50= 105.3 | max=322 | eps=0.050
+episode= 503 | reward=129 | avg50= 105.6 | max=322 | eps=0.050
+episode= 504 | reward=135 | avg50= 106.3 | max=322 | eps=0.050
+episode= 505 | reward=103 | avg50= 106.1 | max=322 | eps=0.050
+episode= 506 | reward=111 | avg50= 106.1 | max=322 | eps=0.050
+episode= 507 | reward=103 | avg50= 107.2 | max=322 | eps=0.050
+episode= 508 | reward=139 | avg50= 106.5 | max=322 | eps=0.050
+episode= 509 | reward=111 | avg50= 105.8 | max=322 | eps=0.050
+episode= 510 | reward=121 | avg50= 105.7 | max=322 | eps=0.050
+episode= 511 | reward=121 | avg50= 106.1 | max=322 | eps=0.050
+episode= 512 | reward=118 | avg50= 106.5 | max=322 | eps=0.050
+episode= 513 | reward=100 | avg50= 106.7 | max=322 | eps=0.050
+episode= 514 | reward=102 | avg50= 104.9 | max=322 | eps=0.050
+episode= 515 | reward=104 | avg50= 105.1 | max=322 | eps=0.050
+episode= 516 | reward=102 | avg50= 104.6 | max=322 | eps=0.050
+episode= 517 | reward=107 | avg50= 103.6 | max=322 | eps=0.050
+episode= 518 | reward=102 | avg50= 103.5 | max=322 | eps=0.050
+episode= 519 | reward= 17 | avg50= 100.4 | max=322 | eps=0.050
+episode= 520 | reward=110 | avg50=  99.8 | max=322 | eps=0.050
+episode= 521 | reward= 98 | avg50=  97.5 | max=322 | eps=0.050
+episode= 522 | reward= 41 | avg50=  95.8 | max=322 | eps=0.050
+episode= 523 | reward= 97 | avg50=  95.8 | max=322 | eps=0.050
+episode= 524 | reward=129 | avg50=  96.3 | max=322 | eps=0.050
+episode= 525 | reward= 61 | avg50=  95.5 | max=322 | eps=0.050
+episode= 526 | reward=108 | avg50=  95.7 | max=322 | eps=0.050
+episode= 527 | reward=112 | avg50=  94.7 | max=322 | eps=0.050
+episode= 528 | reward=115 | avg50=  94.9 | max=322 | eps=0.050
+episode= 529 | reward= 33 | avg50=  93.5 | max=322 | eps=0.050
+episode= 530 | reward=122 | avg50=  93.8 | max=322 | eps=0.050
+episode= 531 | reward=114 | avg50=  94.1 | max=322 | eps=0.050
+episode= 532 | reward=112 | avg50=  94.3 | max=322 | eps=0.050
+episode= 533 | reward=121 | avg50=  94.9 | max=322 | eps=0.050
+episode= 534 | reward=132 | avg50=  95.6 | max=322 | eps=0.050
+episode= 535 | reward=118 | avg50=  97.5 | max=322 | eps=0.050
+episode= 536 | reward=117 | avg50=  97.8 | max=322 | eps=0.050
+episode= 537 | reward=125 | avg50=  98.4 | max=322 | eps=0.050
+episode= 538 | reward=168 | avg50= 101.3 | max=322 | eps=0.050
+episode= 539 | reward=102 | avg50= 101.5 | max=322 | eps=0.050
+episode= 540 | reward= 98 | avg50= 101.4 | max=322 | eps=0.050
+episode= 541 | reward= 95 | avg50= 102.2 | max=322 | eps=0.050
+episode= 542 | reward=113 | avg50= 104.2 | max=322 | eps=0.050
+episode= 543 | reward=101 | avg50= 104.3 | max=322 | eps=0.050
+episode= 544 | reward=121 | avg50= 104.5 | max=322 | eps=0.050
+episode= 545 | reward=106 | avg50= 104.6 | max=322 | eps=0.050
+episode= 546 | reward=111 | avg50= 103.9 | max=322 | eps=0.050
+episode= 547 | reward=129 | avg50= 104.2 | max=322 | eps=0.050
+episode= 548 | reward=103 | avg50= 104.4 | max=322 | eps=0.050
+episode= 549 | reward= 27 | avg50= 104.5 | max=322 | eps=0.050
+episode= 550 | reward=157 | avg50= 105.5 | max=322 | eps=0.050
+episode= 551 | reward=134 | avg50= 106.0 | max=322 | eps=0.050
+episode= 552 | reward=113 | avg50= 107.4 | max=322 | eps=0.050
+episode= 553 | reward=111 | avg50= 107.0 | max=322 | eps=0.050
+episode= 554 | reward=110 | avg50= 106.5 | max=322 | eps=0.050
+episode= 555 | reward=119 | avg50= 106.8 | max=322 | eps=0.050
+episode= 556 | reward=218 | avg50= 109.0 | max=322 | eps=0.050
+episode= 557 | reward=120 | avg50= 109.3 | max=322 | eps=0.050
+episode= 558 | reward=121 | avg50= 108.9 | max=322 | eps=0.050
+episode= 559 | reward=135 | avg50= 109.4 | max=322 | eps=0.050
+episode= 560 | reward= 51 | avg50= 108.0 | max=322 | eps=0.050
+episode= 561 | reward=133 | avg50= 108.3 | max=322 | eps=0.050
+episode= 562 | reward=130 | avg50= 108.5 | max=322 | eps=0.050
+episode= 563 | reward= 14 | avg50= 106.8 | max=322 | eps=0.050
+episode= 564 | reward=115 | avg50= 107.0 | max=322 | eps=0.050
+episode= 565 | reward=136 | avg50= 107.7 | max=322 | eps=0.050
+episode= 566 | reward=119 | avg50= 108.0 | max=322 | eps=0.050
+episode= 567 | reward=111 | avg50= 108.1 | max=322 | eps=0.050
+episode= 568 | reward=137 | avg50= 108.8 | max=322 | eps=0.050
+episode= 569 | reward=135 | avg50= 111.2 | max=322 | eps=0.050
+episode= 570 | reward=106 | avg50= 111.1 | max=322 | eps=0.050
+episode= 571 | reward=103 | avg50= 111.2 | max=322 | eps=0.050
+episode= 572 | reward= 32 | avg50= 111.0 | max=322 | eps=0.050
+episode= 573 | reward=152 | avg50= 112.1 | max=322 | eps=0.050
+episode= 574 | reward=136 | avg50= 112.2 | max=322 | eps=0.050
+episode= 575 | reward=175 | avg50= 114.5 | max=322 | eps=0.050
+episode= 576 | reward=171 | avg50= 115.8 | max=322 | eps=0.050
+episode= 577 | reward=131 | avg50= 116.2 | max=322 | eps=0.050
+episode= 578 | reward=145 | avg50= 116.8 | max=322 | eps=0.050
+episode= 579 | reward=126 | avg50= 118.6 | max=322 | eps=0.050
+episode= 580 | reward=160 | avg50= 119.4 | max=322 | eps=0.050
+episode= 581 | reward=130 | avg50= 119.7 | max=322 | eps=0.050
+episode= 582 | reward=130 | avg50= 120.1 | max=322 | eps=0.050
+episode= 583 | reward=101 | avg50= 119.7 | max=322 | eps=0.050
+episode= 584 | reward=100 | avg50= 119.0 | max=322 | eps=0.050
+episode= 585 | reward=102 | avg50= 118.7 | max=322 | eps=0.050
+episode= 586 | reward=126 | avg50= 118.9 | max=322 | eps=0.050
+episode= 587 | reward=106 | avg50= 118.5 | max=322 | eps=0.050
+episode= 588 | reward=105 | avg50= 117.2 | max=322 | eps=0.050
+episode= 589 | reward= 45 | avg50= 116.1 | max=322 | eps=0.050
+episode= 590 | reward=109 | avg50= 116.3 | max=322 | eps=0.050
+episode= 591 | reward=106 | avg50= 116.5 | max=322 | eps=0.050
+episode= 592 | reward=120 | avg50= 116.7 | max=322 | eps=0.050
+episode= 593 | reward= 99 | avg50= 116.6 | max=322 | eps=0.050
+episode= 594 | reward=101 | avg50= 116.2 | max=322 | eps=0.050
+episode= 595 | reward=100 | avg50= 116.1 | max=322 | eps=0.050
+episode= 596 | reward=104 | avg50= 116.0 | max=322 | eps=0.050
+episode= 597 | reward=101 | avg50= 115.4 | max=322 | eps=0.050
+episode= 598 | reward= 97 | avg50= 115.3 | max=322 | eps=0.050
+episode= 599 | reward= 98 | avg50= 116.7 | max=322 | eps=0.050
+episode= 600 | reward=100 | avg50= 115.6 | max=322 | eps=0.050
+episode= 601 | reward= 11 | avg50= 113.1 | max=322 | eps=0.050
+episode= 602 | reward= 99 | avg50= 112.8 | max=322 | eps=0.050
+episode= 603 | reward= 98 | avg50= 112.6 | max=322 | eps=0.050
+episode= 604 | reward=101 | avg50= 112.4 | max=322 | eps=0.050
+episode= 605 | reward=106 | avg50= 112.1 | max=322 | eps=0.050
+episode= 606 | reward=109 | avg50= 110.0 | max=322 | eps=0.050
+episode= 607 | reward=104 | avg50= 109.6 | max=322 | eps=0.050
+episode= 608 | reward= 98 | avg50= 109.2 | max=322 | eps=0.050
+episode= 609 | reward= 17 | avg50= 106.8 | max=322 | eps=0.050
+episode= 610 | reward= 26 | avg50= 106.3 | max=322 | eps=0.050
+episode= 611 | reward=104 | avg50= 105.7 | max=322 | eps=0.050
+episode= 612 | reward=113 | avg50= 105.4 | max=322 | eps=0.050
+episode= 613 | reward=112 | avg50= 107.4 | max=322 | eps=0.050
+episode= 614 | reward=107 | avg50= 107.2 | max=322 | eps=0.050
+episode= 615 | reward=103 | avg50= 106.5 | max=322 | eps=0.050
+episode= 616 | reward=110 | avg50= 106.4 | max=322 | eps=0.050
+episode= 617 | reward=102 | avg50= 106.2 | max=322 | eps=0.050
+episode= 618 | reward= 99 | avg50= 105.4 | max=322 | eps=0.050
+episode= 619 | reward= 30 | avg50= 103.3 | max=322 | eps=0.050
+episode= 620 | reward=104 | avg50= 103.3 | max=322 | eps=0.050
+episode= 621 | reward= 26 | avg50= 101.7 | max=322 | eps=0.050
+episode= 622 | reward=100 | avg50= 103.1 | max=322 | eps=0.050
+episode= 623 | reward=105 | avg50= 102.2 | max=322 | eps=0.050
+episode= 624 | reward=100 | avg50= 101.4 | max=322 | eps=0.050
+episode= 625 | reward=100 | avg50=  99.9 | max=322 | eps=0.050
+episode= 626 | reward=103 | avg50=  98.6 | max=322 | eps=0.050
+episode= 627 | reward=102 | avg50=  98.0 | max=322 | eps=0.050
+episode= 628 | reward= 92 | avg50=  96.9 | max=322 | eps=0.050
+episode= 629 | reward= 95 | avg50=  96.3 | max=322 | eps=0.050
+episode= 630 | reward=101 | avg50=  95.1 | max=322 | eps=0.050
+episode= 631 | reward= 93 | avg50=  94.4 | max=322 | eps=0.050
+episode= 632 | reward=102 | avg50=  93.8 | max=322 | eps=0.050
+episode= 633 | reward= 99 | avg50=  93.8 | max=322 | eps=0.050
+episode= 634 | reward= 96 | avg50=  93.7 | max=322 | eps=0.050
+episode= 635 | reward= 99 | avg50=  93.7 | max=322 | eps=0.050
+episode= 636 | reward=101 | avg50=  93.2 | max=322 | eps=0.050
+episode= 637 | reward=104 | avg50=  93.1 | max=322 | eps=0.050
+episode= 638 | reward=106 | avg50=  93.1 | max=322 | eps=0.050
+episode= 639 | reward= 29 | avg50=  92.8 | max=322 | eps=0.050
+episode= 640 | reward=108 | avg50=  92.8 | max=322 | eps=0.050
+episode= 641 | reward=105 | avg50=  92.8 | max=322 | eps=0.050
+episode= 642 | reward=103 | avg50=  92.4 | max=322 | eps=0.050
+episode= 643 | reward=118 | avg50=  92.8 | max=322 | eps=0.050
+episode= 644 | reward=102 | avg50=  92.8 | max=322 | eps=0.050
+episode= 645 | reward=104 | avg50=  92.9 | max=322 | eps=0.050
+episode= 646 | reward=108 | avg50=  93.0 | max=322 | eps=0.050
+episode= 647 | reward=117 | avg50=  93.3 | max=322 | eps=0.050
+episode= 648 | reward=117 | avg50=  93.7 | max=322 | eps=0.050
+episode= 649 | reward=112 | avg50=  94.0 | max=322 | eps=0.050
+episode= 650 | reward=106 | avg50=  94.1 | max=322 | eps=0.050
+episode= 651 | reward=126 | avg50=  96.4 | max=322 | eps=0.050
+episode= 652 | reward=309 | avg50= 100.6 | max=322 | eps=0.050
+episode= 653 | reward=151 | avg50= 101.7 | max=322 | eps=0.050
+episode= 654 | reward=119 | avg50= 102.0 | max=322 | eps=0.050
+episode= 655 | reward=174 | avg50= 103.4 | max=322 | eps=0.050
+episode= 656 | reward=126 | avg50= 103.7 | max=322 | eps=0.050
+episode= 657 | reward=116 | avg50= 104.0 | max=322 | eps=0.050
+episode= 658 | reward=133 | avg50= 104.7 | max=322 | eps=0.050
+episode= 659 | reward=171 | avg50= 107.8 | max=322 | eps=0.050
+episode= 660 | reward=132 | avg50= 109.9 | max=322 | eps=0.050
+episode= 661 | reward=117 | avg50= 110.1 | max=322 | eps=0.050
+episode= 662 | reward=112 | avg50= 110.1 | max=322 | eps=0.050
+episode= 663 | reward=125 | avg50= 110.4 | max=322 | eps=0.050
+episode= 664 | reward=263 | avg50= 113.5 | max=322 | eps=0.050
+episode= 665 | reward=124 | avg50= 113.9 | max=322 | eps=0.050
+episode= 666 | reward= 11 | avg50= 111.9 | max=322 | eps=0.050
+episode= 667 | reward=143 | avg50= 112.8 | max=322 | eps=0.050
+episode= 668 | reward=136 | avg50= 113.5 | max=322 | eps=0.050
+episode= 669 | reward=145 | avg50= 115.8 | max=322 | eps=0.050
+episode= 670 | reward=121 | avg50= 116.1 | max=322 | eps=0.050
+episode= 671 | reward=159 | avg50= 118.8 | max=322 | eps=0.050
+episode= 672 | reward=148 | avg50= 119.8 | max=322 | eps=0.050
+episode= 673 | reward=127 | avg50= 120.2 | max=322 | eps=0.050
+episode= 674 | reward=132 | avg50= 120.8 | max=322 | eps=0.050
+episode= 675 | reward=128 | avg50= 121.4 | max=322 | eps=0.050
+episode= 676 | reward=142 | avg50= 122.2 | max=322 | eps=0.050
+episode= 677 | reward=121 | avg50= 122.6 | max=322 | eps=0.050
+episode= 678 | reward=140 | avg50= 123.5 | max=322 | eps=0.050
+episode= 679 | reward=114 | avg50= 123.9 | max=322 | eps=0.050
+episode= 680 | reward=127 | avg50= 124.4 | max=322 | eps=0.050
+episode= 681 | reward=193 | avg50= 126.4 | max=322 | eps=0.050
+episode= 682 | reward=117 | avg50= 126.7 | max=322 | eps=0.050
+episode= 683 | reward=128 | avg50= 127.3 | max=322 | eps=0.050
+episode= 684 | reward=116 | avg50= 127.7 | max=322 | eps=0.050
+episode= 685 | reward=129 | avg50= 128.3 | max=322 | eps=0.050
+episode= 686 | reward=117 | avg50= 128.6 | max=322 | eps=0.050
+episode= 687 | reward=118 | avg50= 128.9 | max=322 | eps=0.050
+episode= 688 | reward=125 | avg50= 129.3 | max=322 | eps=0.050
+episode= 689 | reward=123 | avg50= 131.2 | max=322 | eps=0.050
+episode= 690 | reward=125 | avg50= 131.5 | max=322 | eps=0.050
+episode= 691 | reward=153 | avg50= 132.5 | max=322 | eps=0.050
+episode= 692 | reward= 28 | avg50= 131.0 | max=322 | eps=0.050
+episode= 693 | reward=123 | avg50= 131.1 | max=322 | eps=0.050
+episode= 694 | reward=108 | avg50= 131.2 | max=322 | eps=0.050
+episode= 695 | reward=121 | avg50= 131.5 | max=322 | eps=0.050
+episode= 696 | reward=123 | avg50= 131.8 | max=322 | eps=0.050
+episode= 697 | reward=108 | avg50= 131.6 | max=322 | eps=0.050
+episode= 698 | reward=124 | avg50= 131.8 | max=322 | eps=0.050
+episode= 699 | reward=112 | avg50= 131.8 | max=322 | eps=0.050
+episode= 700 | reward=121 | avg50= 132.1 | max=322 | eps=0.050
+episode= 701 | reward=128 | avg50= 132.1 | max=322 | eps=0.050
+episode= 702 | reward=117 | avg50= 128.3 | max=322 | eps=0.050
+episode= 703 | reward=111 | avg50= 127.5 | max=322 | eps=0.050
+episode= 704 | reward=106 | avg50= 127.2 | max=322 | eps=0.050
+episode= 705 | reward=128 | avg50= 126.3 | max=322 | eps=0.050
+episode= 706 | reward= 15 | avg50= 124.1 | max=322 | eps=0.050
+episode= 707 | reward=111 | avg50= 124.0 | max=322 | eps=0.050
+episode= 708 | reward=118 | avg50= 123.7 | max=322 | eps=0.050
+episode= 709 | reward= 14 | avg50= 120.5 | max=322 | eps=0.050
+episode= 710 | reward=116 | avg50= 120.2 | max=322 | eps=0.050
+episode= 711 | reward=118 | avg50= 120.2 | max=322 | eps=0.050
+episode= 712 | reward=116 | avg50= 120.3 | max=322 | eps=0.050
+episode= 713 | reward=122 | avg50= 120.3 | max=322 | eps=0.050
+episode= 714 | reward=108 | avg50= 117.2 | max=322 | eps=0.050
+episode= 715 | reward=113 | avg50= 116.9 | max=322 | eps=0.050
+episode= 716 | reward=125 | avg50= 119.2 | max=322 | eps=0.050
+episode= 717 | reward=116 | avg50= 118.7 | max=322 | eps=0.050
+episode= 718 | reward=124 | avg50= 118.4 | max=322 | eps=0.050
+episode= 719 | reward=128 | avg50= 118.1 | max=322 | eps=0.050
+episode= 720 | reward=131 | avg50= 118.3 | max=322 | eps=0.050
+episode= 721 | reward=132 | avg50= 117.8 | max=322 | eps=0.050
+episode= 722 | reward=145 | avg50= 117.7 | max=322 | eps=0.050
+episode= 723 | reward=118 | avg50= 117.5 | max=322 | eps=0.050
+episode= 724 | reward=121 | avg50= 117.3 | max=322 | eps=0.050
+episode= 725 | reward=140 | avg50= 117.5 | max=322 | eps=0.050
+episode= 726 | reward=132 | avg50= 117.3 | max=322 | eps=0.050
+episode= 727 | reward=110 | avg50= 117.1 | max=322 | eps=0.050
+episode= 728 | reward=119 | avg50= 116.7 | max=322 | eps=0.050
+episode= 729 | reward= 16 | avg50= 114.7 | max=322 | eps=0.050
+episode= 730 | reward=109 | avg50= 114.4 | max=322 | eps=0.050
+episode= 731 | reward=112 | avg50= 112.8 | max=322 | eps=0.050
+episode= 732 | reward=111 | avg50= 112.6 | max=322 | eps=0.050
+episode= 733 | reward= 24 | avg50= 110.6 | max=322 | eps=0.050
+episode= 734 | reward=111 | avg50= 110.5 | max=322 | eps=0.050
+episode= 735 | reward=111 | avg50= 110.1 | max=322 | eps=0.050
+episode= 736 | reward=112 | avg50= 110.0 | max=322 | eps=0.050
+episode= 737 | reward=113 | avg50= 109.9 | max=322 | eps=0.050
+episode= 738 | reward=110 | avg50= 109.6 | max=322 | eps=0.050
+episode= 739 | reward=110 | avg50= 109.3 | max=322 | eps=0.050
+episode= 740 | reward=110 | avg50= 109.0 | max=322 | eps=0.050
+episode= 741 | reward=111 | avg50= 108.2 | max=322 | eps=0.050
+episode= 742 | reward=106 | avg50= 109.8 | max=322 | eps=0.050
+episode= 743 | reward= 18 | avg50= 107.7 | max=322 | eps=0.050
+episode= 744 | reward=117 | avg50= 107.8 | max=322 | eps=0.050
+episode= 745 | reward=106 | avg50= 107.5 | max=322 | eps=0.050
+episode= 746 | reward=118 | avg50= 107.4 | max=322 | eps=0.050
+episode= 747 | reward=116 | avg50= 107.6 | max=322 | eps=0.050
+episode= 748 | reward=120 | avg50= 107.5 | max=322 | eps=0.050
+episode= 749 | reward=113 | avg50= 107.5 | max=322 | eps=0.050
+episode= 750 | reward=112 | avg50= 107.4 | max=322 | eps=0.050
+episode= 751 | reward=112 | avg50= 107.0 | max=322 | eps=0.050
+episode= 752 | reward=103 | avg50= 106.8 | max=322 | eps=0.050
+episode= 753 | reward=106 | avg50= 106.7 | max=322 | eps=0.050
+episode= 754 | reward=108 | avg50= 106.7 | max=322 | eps=0.050
+episode= 755 | reward= 13 | avg50= 104.4 | max=322 | eps=0.050
+episode= 756 | reward=114 | avg50= 106.4 | max=322 | eps=0.050
+episode= 757 | reward=114 | avg50= 106.4 | max=322 | eps=0.050
+episode= 758 | reward=120 | avg50= 106.5 | max=322 | eps=0.050
+episode= 759 | reward=119 | avg50= 108.6 | max=322 | eps=0.050
+episode= 760 | reward=114 | avg50= 108.5 | max=322 | eps=0.050
+episode= 761 | reward=124 | avg50= 108.7 | max=322 | eps=0.050
+episode= 762 | reward=112 | avg50= 108.6 | max=322 | eps=0.050
+episode= 763 | reward=118 | avg50= 108.5 | max=322 | eps=0.050
+episode= 764 | reward=117 | avg50= 108.7 | max=322 | eps=0.050
+episode= 765 | reward=113 | avg50= 108.7 | max=322 | eps=0.050
+episode= 766 | reward=116 | avg50= 108.5 | max=322 | eps=0.050
+episode= 767 | reward=121 | avg50= 108.6 | max=322 | eps=0.050
+episode= 768 | reward=113 | avg50= 108.4 | max=322 | eps=0.050
+episode= 769 | reward=117 | avg50= 108.2 | max=322 | eps=0.050
+episode= 770 | reward=119 | avg50= 107.9 | max=322 | eps=0.050
+episode= 771 | reward=111 | avg50= 107.5 | max=322 | eps=0.050
+episode= 772 | reward=112 | avg50= 106.8 | max=322 | eps=0.050
+episode= 773 | reward= 16 | avg50= 104.8 | max=322 | eps=0.050
+episode= 774 | reward=122 | avg50= 104.8 | max=322 | eps=0.050
+episode= 775 | reward=115 | avg50= 104.3 | max=322 | eps=0.050
+episode= 776 | reward=124 | avg50= 104.2 | max=322 | eps=0.050
+episode= 777 | reward=124 | avg50= 104.4 | max=322 | eps=0.050
+episode= 778 | reward=118 | avg50= 104.4 | max=322 | eps=0.050
+episode= 779 | reward=117 | avg50= 106.4 | max=322 | eps=0.050
+episode= 780 | reward=123 | avg50= 106.7 | max=322 | eps=0.050
+episode= 781 | reward=118 | avg50= 106.8 | max=322 | eps=0.050
+episode= 782 | reward=121 | avg50= 107.0 | max=322 | eps=0.050
+episode= 783 | reward=115 | avg50= 108.9 | max=322 | eps=0.050
+episode= 784 | reward=113 | avg50= 108.9 | max=322 | eps=0.050
+episode= 785 | reward=120 | avg50= 109.1 | max=322 | eps=0.050
+episode= 786 | reward=121 | avg50= 109.3 | max=322 | eps=0.050
+episode= 787 | reward=118 | avg50= 109.4 | max=322 | eps=0.050
+episode= 788 | reward= 44 | avg50= 108.0 | max=322 | eps=0.050
+episode= 789 | reward=124 | avg50= 108.3 | max=322 | eps=0.050
+episode= 790 | reward=120 | avg50= 108.5 | max=322 | eps=0.050
+episode= 791 | reward=119 | avg50= 108.7 | max=322 | eps=0.050
+episode= 792 | reward=120 | avg50= 109.0 | max=322 | eps=0.050
+episode= 793 | reward=108 | avg50= 110.8 | max=322 | eps=0.050
+episode= 794 | reward=114 | avg50= 110.7 | max=322 | eps=0.050
+episode= 795 | reward=110 | avg50= 110.8 | max=322 | eps=0.050
+episode= 796 | reward=105 | avg50= 110.5 | max=322 | eps=0.050
+episode= 797 | reward=112 | avg50= 110.4 | max=322 | eps=0.050
+episode= 798 | reward=111 | avg50= 110.3 | max=322 | eps=0.050
+episode= 799 | reward=110 | avg50= 110.2 | max=322 | eps=0.050
+episode= 800 | reward=115 | avg50= 110.3 | max=322 | eps=0.050
+episode= 801 | reward=112 | avg50= 110.3 | max=322 | eps=0.050
+episode= 802 | reward= 28 | avg50= 108.8 | max=322 | eps=0.050
+episode= 803 | reward=110 | avg50= 108.8 | max=322 | eps=0.050
+episode= 804 | reward=113 | avg50= 108.9 | max=322 | eps=0.050
+episode= 805 | reward= 30 | avg50= 109.3 | max=322 | eps=0.050
+episode= 806 | reward=110 | avg50= 109.2 | max=322 | eps=0.050
+episode= 807 | reward=114 | avg50= 109.2 | max=322 | eps=0.050
+episode= 808 | reward=105 | avg50= 108.9 | max=322 | eps=0.050
+episode= 809 | reward=113 | avg50= 108.8 | max=322 | eps=0.050
+episode= 810 | reward= 27 | avg50= 107.0 | max=322 | eps=0.050
+episode= 811 | reward=112 | avg50= 106.8 | max=322 | eps=0.050
+episode= 812 | reward=112 | avg50= 106.8 | max=322 | eps=0.050
+episode= 813 | reward= 43 | avg50= 105.3 | max=322 | eps=0.050
+episode= 814 | reward= 40 | avg50= 103.8 | max=322 | eps=0.050
+episode= 815 | reward= 28 | avg50= 102.1 | max=322 | eps=0.050
+episode= 816 | reward= 32 | avg50= 100.4 | max=322 | eps=0.050
+episode= 817 | reward=112 | avg50= 100.2 | max=322 | eps=0.050
+episode= 818 | reward=109 | avg50= 100.1 | max=322 | eps=0.050
+episode= 819 | reward=109 | avg50= 100.0 | max=322 | eps=0.050
+episode= 820 | reward=107 | avg50=  99.7 | max=322 | eps=0.050
+episode= 821 | reward=118 | avg50=  99.9 | max=322 | eps=0.050
+episode= 822 | reward=114 | avg50=  99.9 | max=322 | eps=0.050
+episode= 823 | reward=109 | avg50= 101.8 | max=322 | eps=0.050
+episode= 824 | reward= 33 | avg50= 100.0 | max=322 | eps=0.050
+episode= 825 | reward=110 | avg50=  99.9 | max=322 | eps=0.050
+episode= 826 | reward= 13 | avg50=  97.7 | max=322 | eps=0.050
+episode= 827 | reward=118 | avg50=  97.5 | max=322 | eps=0.050
+episode= 828 | reward=116 | avg50=  97.5 | max=322 | eps=0.050
+episode= 829 | reward= 13 | avg50=  95.4 | max=322 | eps=0.050
+episode= 830 | reward=117 | avg50=  95.3 | max=322 | eps=0.050
+episode= 831 | reward=112 | avg50=  95.2 | max=322 | eps=0.050
+episode= 832 | reward= 30 | avg50=  93.4 | max=322 | eps=0.050
+episode= 833 | reward=123 | avg50=  93.5 | max=322 | eps=0.050
+episode= 834 | reward=102 | avg50=  93.3 | max=322 | eps=0.050
+episode= 835 | reward=118 | avg50=  93.3 | max=322 | eps=0.050
+episode= 836 | reward=110 | avg50=  93.0 | max=322 | eps=0.050
+episode= 837 | reward=118 | avg50=  93.0 | max=322 | eps=0.050
+episode= 838 | reward= 25 | avg50=  92.7 | max=322 | eps=0.050
+episode= 839 | reward=118 | avg50=  92.5 | max=322 | eps=0.050
+episode= 840 | reward=122 | avg50=  92.6 | max=322 | eps=0.050
+episode= 841 | reward=118 | avg50=  92.6 | max=322 | eps=0.050
+episode= 842 | reward=125 | avg50=  92.7 | max=322 | eps=0.050
+episode= 843 | reward=122 | avg50=  92.9 | max=322 | eps=0.050
+episode= 844 | reward=124 | avg50=  93.1 | max=322 | eps=0.050
+episode= 845 | reward=126 | avg50=  93.5 | max=322 | eps=0.050
+episode= 846 | reward=137 | avg50=  94.1 | max=322 | eps=0.050
+episode= 847 | reward=124 | avg50=  94.3 | max=322 | eps=0.050
+episode= 848 | reward=127 | avg50=  94.7 | max=322 | eps=0.050
+episode= 849 | reward=129 | avg50=  95.0 | max=322 | eps=0.050
+episode= 850 | reward=134 | avg50=  95.4 | max=322 | eps=0.050
+episode= 851 | reward=121 | avg50=  95.6 | max=322 | eps=0.050
+episode= 852 | reward=134 | avg50=  97.7 | max=322 | eps=0.050
+episode= 853 | reward=135 | avg50=  98.2 | max=322 | eps=0.050
+episode= 854 | reward=115 | avg50=  98.3 | max=322 | eps=0.050
+episode= 855 | reward=128 | avg50= 100.2 | max=322 | eps=0.050
+episode= 856 | reward=128 | avg50= 100.6 | max=322 | eps=0.050
+episode= 857 | reward=129 | avg50= 100.9 | max=322 | eps=0.050
+episode= 858 | reward=129 | avg50= 101.4 | max=322 | eps=0.050
+episode= 859 | reward=128 | avg50= 101.7 | max=322 | eps=0.050
+episode= 860 | reward=123 | avg50= 103.6 | max=322 | eps=0.050
+episode= 861 | reward=143 | avg50= 104.2 | max=322 | eps=0.050
+episode= 862 | reward=147 | avg50= 104.9 | max=322 | eps=0.050
+episode= 863 | reward=131 | avg50= 106.7 | max=322 | eps=0.050
+episode= 864 | reward=149 | avg50= 108.8 | max=322 | eps=0.050
+episode= 865 | reward=139 | avg50= 111.1 | max=322 | eps=0.050
+episode= 866 | reward=139 | avg50= 113.2 | max=322 | eps=0.050
+episode= 867 | reward=151 | avg50= 114.0 | max=322 | eps=0.050
+episode= 868 | reward=135 | avg50= 114.5 | max=322 | eps=0.050
+episode= 869 | reward=133 | avg50= 115.0 | max=322 | eps=0.050
+episode= 870 | reward=134 | avg50= 115.5 | max=322 | eps=0.050
+episode= 871 | reward=137 | avg50= 115.9 | max=322 | eps=0.050
+episode= 872 | reward=118 | avg50= 116.0 | max=322 | eps=0.050
+episode= 873 | reward=128 | avg50= 116.4 | max=322 | eps=0.050
+episode= 874 | reward=123 | avg50= 118.2 | max=322 | eps=0.050
+episode= 875 | reward=130 | avg50= 118.6 | max=322 | eps=0.050
+episode= 876 | reward=138 | avg50= 121.1 | max=322 | eps=0.050
+episode= 877 | reward=138 | avg50= 121.5 | max=322 | eps=0.050
+episode= 878 | reward= 13 | avg50= 119.4 | max=322 | eps=0.050
+episode= 879 | reward=280 | avg50= 124.7 | max=322 | eps=0.050
+episode= 880 | reward= 10 | avg50= 122.6 | max=322 | eps=0.050
+episode= 881 | reward=148 | avg50= 123.3 | max=322 | eps=0.050
+episode= 882 | reward=151 | avg50= 125.7 | max=322 | eps=0.050
+episode= 883 | reward= 30 | avg50= 123.9 | max=322 | eps=0.050
+episode= 884 | reward=156 | avg50= 125.0 | max=322 | eps=0.050
+episode= 885 | reward=146 | avg50= 125.5 | max=322 | eps=0.050
+episode= 886 | reward= 17 | avg50= 123.7 | max=322 | eps=0.050
+episode= 887 | reward=133 | avg50= 124.0 | max=322 | eps=0.050
+episode= 888 | reward=125 | avg50= 126.0 | max=322 | eps=0.050
+episode= 889 | reward=139 | avg50= 126.4 | max=322 | eps=0.050
+episode= 890 | reward=144 | avg50= 126.8 | max=322 | eps=0.050
+episode= 891 | reward=136 | avg50= 127.2 | max=322 | eps=0.050
+episode= 892 | reward=134 | avg50= 127.4 | max=322 | eps=0.050
+episode= 893 | reward=144 | avg50= 127.8 | max=322 | eps=0.050
+episode= 894 | reward= 16 | avg50= 125.6 | max=322 | eps=0.050
+episode= 895 | reward=147 | avg50= 126.1 | max=322 | eps=0.050
+episode= 896 | reward= 15 | avg50= 123.6 | max=322 | eps=0.050
+episode= 897 | reward=132 | avg50= 123.8 | max=322 | eps=0.050
+episode= 898 | reward=139 | avg50= 124.0 | max=322 | eps=0.050
+episode= 899 | reward= 14 | avg50= 121.7 | max=322 | eps=0.050
+episode= 900 | reward=135 | avg50= 121.7 | max=322 | eps=0.050
+episode= 901 | reward=137 | avg50= 122.1 | max=322 | eps=0.050
+episode= 902 | reward= 12 | avg50= 119.6 | max=322 | eps=0.050
+episode= 903 | reward=144 | avg50= 119.8 | max=322 | eps=0.050
+episode= 904 | reward=167 | avg50= 120.8 | max=322 | eps=0.050
+episode= 905 | reward= 19 | avg50= 118.7 | max=322 | eps=0.050
+episode= 906 | reward=183 | avg50= 119.8 | max=322 | eps=0.050
+episode= 907 | reward=143 | avg50= 120.0 | max=322 | eps=0.050
+episode= 908 | reward=148 | avg50= 120.4 | max=322 | eps=0.050
+episode= 909 | reward=160 | avg50= 121.1 | max=322 | eps=0.050
+episode= 910 | reward=139 | avg50= 121.4 | max=322 | eps=0.050
+episode= 911 | reward=152 | avg50= 121.6 | max=322 | eps=0.050
+episode= 912 | reward=151 | avg50= 121.6 | max=322 | eps=0.050
+episode= 913 | reward=149 | avg50= 122.0 | max=322 | eps=0.050
+episode= 914 | reward=144 | avg50= 121.9 | max=322 | eps=0.050
+episode= 915 | reward=150 | avg50= 122.1 | max=322 | eps=0.050
+episode= 916 | reward=156 | avg50= 122.5 | max=322 | eps=0.050
+episode= 917 | reward=140 | avg50= 122.2 | max=322 | eps=0.050
+episode= 918 | reward=143 | avg50= 122.4 | max=322 | eps=0.050
+episode= 919 | reward=155 | avg50= 122.8 | max=322 | eps=0.050
+episode= 920 | reward= 32 | avg50= 120.8 | max=322 | eps=0.050
+episode= 921 | reward=157 | avg50= 121.2 | max=322 | eps=0.050
+episode= 922 | reward=148 | avg50= 121.8 | max=322 | eps=0.050
+episode= 923 | reward=146 | avg50= 122.2 | max=322 | eps=0.050
+episode= 924 | reward=165 | avg50= 123.0 | max=322 | eps=0.050
+episode= 925 | reward=154 | avg50= 123.5 | max=322 | eps=0.050
+episode= 926 | reward=173 | avg50= 124.2 | max=322 | eps=0.050
+episode= 927 | reward=225 | avg50= 125.9 | max=322 | eps=0.050
+episode= 928 | reward=155 | avg50= 128.8 | max=322 | eps=0.050
+episode= 929 | reward=233 | avg50= 127.8 | max=322 | eps=0.050
+episode= 930 | reward=151 | avg50= 130.6 | max=322 | eps=0.050
+episode= 931 | reward=143 | avg50= 130.5 | max=322 | eps=0.050
+episode= 932 | reward=150 | avg50= 130.5 | max=322 | eps=0.050
+episode= 933 | reward=142 | avg50= 132.8 | max=322 | eps=0.050
+episode= 934 | reward=159 | avg50= 132.8 | max=322 | eps=0.050
+episode= 935 | reward=143 | avg50= 132.8 | max=322 | eps=0.050
+episode= 936 | reward=146 | avg50= 135.3 | max=322 | eps=0.050
+episode= 937 | reward=153 | avg50= 135.7 | max=322 | eps=0.050
+episode= 938 | reward=157 | avg50= 136.4 | max=322 | eps=0.050
+episode= 939 | reward=142 | avg50= 136.4 | max=322 | eps=0.050
+episode= 940 | reward=141 | avg50= 136.4 | max=322 | eps=0.050
+episode= 941 | reward=142 | avg50= 136.5 | max=322 | eps=0.050
+episode= 942 | reward=149 | avg50= 136.8 | max=322 | eps=0.050
+episode= 943 | reward=145 | avg50= 136.8 | max=322 | eps=0.050
+episode= 944 | reward=144 | avg50= 139.4 | max=322 | eps=0.050
+episode= 945 | reward=138 | avg50= 139.2 | max=322 | eps=0.050
+episode= 946 | reward=140 | avg50= 141.7 | max=322 | eps=0.050
+episode= 947 | reward=139 | avg50= 141.8 | max=322 | eps=0.050
+episode= 948 | reward=137 | avg50= 141.8 | max=322 | eps=0.050
+episode= 949 | reward=136 | avg50= 144.2 | max=322 | eps=0.050
+episode= 950 | reward=140 | avg50= 144.3 | max=322 | eps=0.050
+episode= 951 | reward=151 | avg50= 144.6 | max=322 | eps=0.050
+episode= 952 | reward=143 | avg50= 147.2 | max=322 | eps=0.050
+episode= 953 | reward=139 | avg50= 147.1 | max=322 | eps=0.050
+episode= 954 | reward=146 | avg50= 146.7 | max=322 | eps=0.050
+episode= 955 | reward=141 | avg50= 149.2 | max=322 | eps=0.050
+episode= 956 | reward=145 | avg50= 148.4 | max=322 | eps=0.050
+episode= 957 | reward=151 | avg50= 148.6 | max=322 | eps=0.050
+episode= 958 | reward=177 | avg50= 149.1 | max=322 | eps=0.050
+episode= 959 | reward=167 | avg50= 149.3 | max=322 | eps=0.050
+episode= 960 | reward=160 | avg50= 149.7 | max=322 | eps=0.050
+episode= 961 | reward=191 | avg50= 150.5 | max=322 | eps=0.050
+episode= 962 | reward=171 | avg50= 150.9 | max=322 | eps=0.050
+episode= 963 | reward=170 | avg50= 151.3 | max=322 | eps=0.050
+episode= 964 | reward=198 | avg50= 152.4 | max=322 | eps=0.050
+episode= 965 | reward=173 | avg50= 152.8 | max=322 | eps=0.050
+episode= 966 | reward=189 | avg50= 153.5 | max=322 | eps=0.050
+episode= 967 | reward=169 | avg50= 154.1 | max=322 | eps=0.050
+episode= 968 | reward=185 | avg50= 154.9 | max=322 | eps=0.050
+episode= 969 | reward=197 | avg50= 155.8 | max=322 | eps=0.050
+episode= 970 | reward=199 | avg50= 159.1 | max=322 | eps=0.050
+episode= 971 | reward=180 | avg50= 159.6 | max=322 | eps=0.050
+episode= 972 | reward=171 | avg50= 160.0 | max=322 | eps=0.050
+episode= 973 | reward=190 | avg50= 160.9 | max=322 | eps=0.050
+episode= 974 | reward=163 | avg50= 160.9 | max=322 | eps=0.050
+episode= 975 | reward=193 | avg50= 161.6 | max=322 | eps=0.050
+episode= 976 | reward=165 | avg50= 161.5 | max=322 | eps=0.050
+episode= 977 | reward=191 | avg50= 160.8 | max=322 | eps=0.050
+episode= 978 | reward=174 | avg50= 161.2 | max=322 | eps=0.050
+episode= 979 | reward=165 | avg50= 159.8 | max=322 | eps=0.050
+episode= 980 | reward=172 | avg50= 160.2 | max=322 | eps=0.050
+episode= 981 | reward=157 | avg50= 160.5 | max=322 | eps=0.050
+episode= 982 | reward=164 | avg50= 160.8 | max=322 | eps=0.050
+episode= 983 | reward=187 | avg50= 161.7 | max=322 | eps=0.050
+episode= 984 | reward=163 | avg50= 161.8 | max=322 | eps=0.050
+episode= 985 | reward=169 | avg50= 162.3 | max=322 | eps=0.050
+episode= 986 | reward=203 | avg50= 163.4 | max=322 | eps=0.050
+episode= 987 | reward=143 | avg50= 163.2 | max=322 | eps=0.050
+episode= 988 | reward=223 | avg50= 164.6 | max=322 | eps=0.050
+episode= 989 | reward=225 | avg50= 166.2 | max=322 | eps=0.050
+episode= 990 | reward=216 | avg50= 167.7 | max=322 | eps=0.050
+episode= 991 | reward=245 | avg50= 169.8 | max=322 | eps=0.050
+episode= 992 | reward= 59 | avg50= 168.0 | max=322 | eps=0.050
+episode= 993 | reward=256 | avg50= 170.2 | max=322 | eps=0.050
+episode= 994 | reward=212 | avg50= 171.6 | max=322 | eps=0.050
+episode= 995 | reward=246 | avg50= 173.7 | max=322 | eps=0.050
+episode= 996 | reward=219 | avg50= 175.3 | max=322 | eps=0.050
+episode= 997 | reward=280 | avg50= 178.1 | max=322 | eps=0.050
+episode= 998 | reward=203 | avg50= 179.4 | max=322 | eps=0.050
+episode= 999 | reward=123 | avg50= 179.2 | max=322 | eps=0.050
+episode=1000 | reward=389 | avg50= 184.2 | max=389 | eps=0.050
+episode=1001 | reward=240 | avg50= 185.9 | max=389 | eps=0.050
+episode=1002 | reward=238 | avg50= 187.8 | max=389 | eps=0.050
+episode=1003 | reward=222 | avg50= 189.5 | max=389 | eps=0.050
+episode=1004 | reward=272 | avg50= 192.0 | max=389 | eps=0.050
+episode=1005 | reward=270 | avg50= 194.6 | max=389 | eps=0.050
+episode=1006 | reward=240 | avg50= 196.5 | max=389 | eps=0.050
+episode=1007 | reward=275 | avg50= 199.0 | max=389 | eps=0.050
+episode=1008 | reward=258 | avg50= 200.6 | max=389 | eps=0.050
+episode=1009 | reward=265 | avg50= 202.6 | max=389 | eps=0.050
+episode=1010 | reward=259 | avg50= 204.5 | max=389 | eps=0.050
+episode=1011 | reward=270 | avg50= 206.1 | max=389 | eps=0.050
+episode=1012 | reward=380 | avg50= 210.3 | max=389 | eps=0.050
+episode=1013 | reward= 16 | avg50= 207.2 | max=389 | eps=0.050
+episode=1014 | reward=500 | avg50= 213.3 | max=500 | eps=0.050
+episode=1015 | reward=500 | avg50= 219.8 | max=500 | eps=0.050
+episode=1016 | reward=500 | avg50= 226.0 | max=500 | eps=0.050
+episode=1017 | reward=500 | avg50= 232.6 | max=500 | eps=0.050
+episode=1018 | reward=500 | avg50= 238.9 | max=500 | eps=0.050
+episode=1019 | reward=500 | avg50= 245.0 | max=500 | eps=0.050
+episode=1020 | reward=500 | avg50= 251.0 | max=500 | eps=0.050
+episode=1021 | reward= 37 | avg50= 248.2 | max=500 | eps=0.050
+episode=1022 | reward=500 | avg50= 254.7 | max=500 | eps=0.050
+episode=1023 | reward=500 | avg50= 260.9 | max=500 | eps=0.050
+episode=1024 | reward=500 | avg50= 267.7 | max=500 | eps=0.050
+episode=1025 | reward=500 | avg50= 273.8 | max=500 | eps=0.050
+episode=1026 | reward=500 | avg50= 280.5 | max=500 | eps=0.050
+episode=1027 | reward=500 | avg50= 286.7 | max=500 | eps=0.050
+episode=1028 | reward=500 | avg50= 293.2 | max=500 | eps=0.050
+episode=1029 | reward=500 | avg50= 299.9 | max=500 | eps=0.050
+episode=1030 | reward=500 | avg50= 306.5 | max=500 | eps=0.050
+episode=1031 | reward= 59 | avg50= 304.5 | max=500 | eps=0.050
+episode=1032 | reward=500 | avg50= 311.2 | max=500 | eps=0.050
+episode=1033 | reward=500 | avg50= 317.5 | max=500 | eps=0.050
+episode=1034 | reward=500 | avg50= 324.2 | max=500 | eps=0.050
+episode=1035 | reward= 27 | avg50= 321.4 | max=500 | eps=0.050
+episode=1036 | reward=500 | avg50= 327.3 | max=500 | eps=0.050
+episode=1037 | reward=500 | avg50= 334.5 | max=500 | eps=0.050
+episode=1038 | reward=500 | avg50= 340.0 | max=500 | eps=0.050
+episode=1039 | reward=500 | avg50= 345.5 | max=500 | eps=0.050
+episode=1040 | reward=500 | avg50= 351.2 | max=500 | eps=0.050
+episode=1041 | reward= 45 | avg50= 347.2 | max=500 | eps=0.050
+episode=1042 | reward=500 | avg50= 356.0 | max=500 | eps=0.050
+episode=1043 | reward=268 | avg50= 356.3 | max=500 | eps=0.050
+episode=1044 | reward=244 | avg50= 356.9 | max=500 | eps=0.050
+episode=1045 | reward= 16 | avg50= 352.3 | max=500 | eps=0.050
+episode=1046 | reward=212 | avg50= 352.2 | max=500 | eps=0.050
+episode=1047 | reward=475 | avg50= 356.1 | max=500 | eps=0.050
+episode=1048 | reward=500 | avg50= 362.0 | max=500 | eps=0.050
+episode=1049 | reward=500 | avg50= 369.5 | max=500 | eps=0.050
+episode=1050 | reward=281 | avg50= 367.4 | max=500 | eps=0.050
+episode=1051 | reward=500 | avg50= 372.6 | max=500 | eps=0.050
+episode=1052 | reward=500 | avg50= 377.8 | max=500 | eps=0.050
+episode=1053 | reward=500 | avg50= 383.4 | max=500 | eps=0.050
+episode=1054 | reward=500 | avg50= 387.9 | max=500 | eps=0.050
+episode=1055 | reward=500 | avg50= 392.5 | max=500 | eps=0.050
+episode=1056 | reward=500 | avg50= 397.7 | max=500 | eps=0.050
+episode=1057 | reward=500 | avg50= 402.2 | max=500 | eps=0.050
+episode=1058 | reward=500 | avg50= 407.1 | max=500 | eps=0.050
+episode=1059 | reward=500 | avg50= 411.8 | max=500 | eps=0.050
+episode=1060 | reward=500 | avg50= 416.6 | max=500 | eps=0.050
+episode=1061 | reward=500 | avg50= 421.2 | max=500 | eps=0.050
+episode=1062 | reward=500 | avg50= 423.6 | max=500 | eps=0.050
+episode=1063 | reward=500 | avg50= 433.3 | max=500 | eps=0.050
+episode=1064 | reward=500 | avg50= 433.3 | max=500 | eps=0.050
+episode=1065 | reward=500 | avg50= 433.3 | max=500 | eps=0.050
+episode=1066 | reward=500 | avg50= 433.3 | max=500 | eps=0.050
+episode=1067 | reward=500 | avg50= 433.3 | max=500 | eps=0.050
+episode=1068 | reward=500 | avg50= 433.3 | max=500 | eps=0.050
+episode=1069 | reward=500 | avg50= 433.3 | max=500 | eps=0.050
+episode=1070 | reward=500 | avg50= 433.3 | max=500 | eps=0.050
+episode=1071 | reward= 16 | avg50= 432.9 | max=500 | eps=0.050
+episode=1072 | reward= 27 | avg50= 423.4 | max=500 | eps=0.050
+episode=1073 | reward=500 | avg50= 423.4 | max=500 | eps=0.050
+episode=1074 | reward=500 | avg50= 423.4 | max=500 | eps=0.050
+episode=1075 | reward=500 | avg50= 423.4 | max=500 | eps=0.050
+episode=1076 | reward=500 | avg50= 423.4 | max=500 | eps=0.050
+episode=1077 | reward=500 | avg50= 423.4 | max=500 | eps=0.050
+episode=1078 | reward=500 | avg50= 423.4 | max=500 | eps=0.050
+episode=1079 | reward=500 | avg50= 423.4 | max=500 | eps=0.050
+episode=1080 | reward=500 | avg50= 423.4 | max=500 | eps=0.050
+episode=1081 | reward=500 | avg50= 432.2 | max=500 | eps=0.050
+episode=1082 | reward=500 | avg50= 432.2 | max=500 | eps=0.050
+episode=1083 | reward=500 | avg50= 432.2 | max=500 | eps=0.050
+episode=1084 | reward=500 | avg50= 432.2 | max=500 | eps=0.050
+episode=1085 | reward=500 | avg50= 441.7 | max=500 | eps=0.050
+episode=1086 | reward=500 | avg50= 441.7 | max=500 | eps=0.050
+episode=1087 | reward=500 | avg50= 441.7 | max=500 | eps=0.050
+episode=1088 | reward=500 | avg50= 441.7 | max=500 | eps=0.050
+episode=1089 | reward=500 | avg50= 441.7 | max=500 | eps=0.050
+episode=1090 | reward=308 | avg50= 437.8 | max=500 | eps=0.050
+episode=1091 | reward=324 | avg50= 443.4 | max=500 | eps=0.050
+episode=1092 | reward= 17 | avg50= 433.8 | max=500 | eps=0.050
+episode=1093 | reward= 53 | avg50= 429.5 | max=500 | eps=0.050
+episode=1094 | reward= 34 | avg50= 425.3 | max=500 | eps=0.050
+episode=1095 | reward= 42 | avg50= 425.8 | max=500 | eps=0.050
+episode=1096 | reward= 13 | avg50= 421.8 | max=500 | eps=0.050
+episode=1097 | reward= 11 | avg50= 412.5 | max=500 | eps=0.050
+episode=1098 | reward= 11 | avg50= 402.7 | max=500 | eps=0.050
+episode=1099 | reward= 36 | avg50= 393.5 | max=500 | eps=0.050
+episode=1100 | reward= 36 | avg50= 388.6 | max=500 | eps=0.050
+episode=1101 | reward= 50 | avg50= 379.6 | max=500 | eps=0.050
+episode=1102 | reward=500 | avg50= 379.6 | max=500 | eps=0.050
+episode=1103 | reward= 38 | avg50= 370.3 | max=500 | eps=0.050
+episode=1104 | reward=172 | avg50= 363.8 | max=500 | eps=0.050
+episode=1105 | reward= 39 | avg50= 354.5 | max=500 | eps=0.050
+episode=1106 | reward= 45 | avg50= 345.4 | max=500 | eps=0.050
+episode=1107 | reward= 44 | avg50= 336.3 | max=500 | eps=0.050
+episode=1108 | reward= 34 | avg50= 327.0 | max=500 | eps=0.050
+episode=1109 | reward= 19 | avg50= 317.4 | max=500 | eps=0.050
+episode=1110 | reward= 36 | avg50= 308.1 | max=500 | eps=0.050
+episode=1111 | reward=253 | avg50= 303.2 | max=500 | eps=0.050
+episode=1112 | reward=125 | avg50= 295.7 | max=500 | eps=0.050
+episode=1113 | reward= 16 | avg50= 286.0 | max=500 | eps=0.050
+episode=1114 | reward= 13 | avg50= 276.2 | max=500 | eps=0.050
+episode=1115 | reward=139 | avg50= 269.0 | max=500 | eps=0.050
+episode=1116 | reward= 48 | avg50= 260.0 | max=500 | eps=0.050
+episode=1117 | reward=225 | avg50= 254.5 | max=500 | eps=0.050
+episode=1118 | reward= 43 | avg50= 245.3 | max=500 | eps=0.050
+episode=1119 | reward=174 | avg50= 238.8 | max=500 | eps=0.050
+episode=1120 | reward=500 | avg50= 238.8 | max=500 | eps=0.050
+episode=1121 | reward=145 | avg50= 241.4 | max=500 | eps=0.050
+episode=1122 | reward=304 | avg50= 246.9 | max=500 | eps=0.050
+episode=1123 | reward= 42 | avg50= 237.8 | max=500 | eps=0.050
+episode=1124 | reward=500 | avg50= 237.8 | max=500 | eps=0.050
+episode=1125 | reward= 14 | avg50= 228.1 | max=500 | eps=0.050
+episode=1126 | reward=228 | avg50= 222.6 | max=500 | eps=0.050
+episode=1127 | reward=286 | avg50= 218.3 | max=500 | eps=0.050
+episode=1128 | reward=500 | avg50= 218.3 | max=500 | eps=0.050
+episode=1129 | reward=222 | avg50= 212.8 | max=500 | eps=0.050
+episode=1130 | reward=101 | avg50= 204.8 | max=500 | eps=0.050
+episode=1131 | reward=500 | avg50= 204.8 | max=500 | eps=0.050
+episode=1132 | reward= 45 | avg50= 195.7 | max=500 | eps=0.050
+episode=1133 | reward=500 | avg50= 195.7 | max=500 | eps=0.050
+episode=1134 | reward=500 | avg50= 195.7 | max=500 | eps=0.050
+episode=1135 | reward=500 | avg50= 195.7 | max=500 | eps=0.050
+episode=1136 | reward= 52 | avg50= 186.7 | max=500 | eps=0.050
+episode=1137 | reward=142 | avg50= 179.6 | max=500 | eps=0.050
+episode=1138 | reward= 94 | avg50= 171.5 | max=500 | eps=0.050
+episode=1139 | reward=500 | avg50= 171.5 | max=500 | eps=0.050
+episode=1140 | reward=500 | avg50= 175.3 | max=500 | eps=0.050
+episode=1141 | reward=500 | avg50= 178.8 | max=500 | eps=0.050
+episode=1142 | reward=500 | avg50= 188.5 | max=500 | eps=0.050
+episode=1143 | reward=228 | avg50= 192.0 | max=500 | eps=0.050
+episode=1144 | reward=127 | avg50= 193.8 | max=500 | eps=0.050
+episode=1145 | reward=308 | avg50= 199.2 | max=500 | eps=0.050
+episode=1146 | reward=500 | avg50= 208.9 | max=500 | eps=0.050
+episode=1147 | reward=124 | avg50= 211.2 | max=500 | eps=0.050
+episode=1148 | reward=178 | avg50= 214.5 | max=500 | eps=0.050
+episode=1149 | reward= 21 | avg50= 214.2 | max=500 | eps=0.050
+episode=1150 | reward= 87 | avg50= 215.2 | max=500 | eps=0.050
+episode=1151 | reward= 97 | avg50= 216.2 | max=500 | eps=0.050
+episode=1152 | reward= 55 | avg50= 207.3 | max=500 | eps=0.050
+episode=1153 | reward=175 | avg50= 210.0 | max=500 | eps=0.050
+episode=1154 | reward= 85 | avg50= 208.3 | max=500 | eps=0.050
+episode=1155 | reward= 81 | avg50= 209.1 | max=500 | eps=0.050
+episode=1156 | reward= 47 | avg50= 209.1 | max=500 | eps=0.050
+episode=1157 | reward= 41 | avg50= 209.1 | max=500 | eps=0.050
+episode=1158 | reward= 56 | avg50= 209.5 | max=500 | eps=0.050
+episode=1159 | reward= 47 | avg50= 210.1 | max=500 | eps=0.050
+episode=1160 | reward=263 | avg50= 214.6 | max=500 | eps=0.050
+episode=1161 | reward=212 | avg50= 213.8 | max=500 | eps=0.050
+episode=1162 | reward= 63 | avg50= 212.6 | max=500 | eps=0.050
+episode=1163 | reward= 74 | avg50= 213.7 | max=500 | eps=0.050
+episode=1164 | reward=108 | avg50= 215.6 | max=500 | eps=0.050
+episode=1165 | reward=162 | avg50= 216.1 | max=500 | eps=0.050
+episode=1166 | reward=107 | avg50= 217.3 | max=500 | eps=0.050
+episode=1167 | reward=246 | avg50= 217.7 | max=500 | eps=0.050
+episode=1168 | reward=166 | avg50= 220.1 | max=500 | eps=0.050
+episode=1169 | reward= 75 | avg50= 218.2 | max=500 | eps=0.050
+episode=1170 | reward=257 | avg50= 213.3 | max=500 | eps=0.050
+episode=1171 | reward= 44 | avg50= 211.3 | max=500 | eps=0.050
+episode=1172 | reward=206 | avg50= 209.3 | max=500 | eps=0.050
+episode=1173 | reward= 65 | avg50= 209.8 | max=500 | eps=0.050
+episode=1174 | reward=452 | avg50= 208.8 | max=500 | eps=0.050
+episode=1175 | reward=212 | avg50= 212.8 | max=500 | eps=0.050
+episode=1176 | reward= 57 | avg50= 209.4 | max=500 | eps=0.050
+episode=1177 | reward=100 | avg50= 205.6 | max=500 | eps=0.050
+episode=1178 | reward= 63 | avg50= 196.9 | max=500 | eps=0.050
+episode=1179 | reward=121 | avg50= 194.9 | max=500 | eps=0.050
+episode=1180 | reward= 52 | avg50= 193.9 | max=500 | eps=0.050
+episode=1181 | reward= 46 | avg50= 184.8 | max=500 | eps=0.050
+episode=1182 | reward= 65 | avg50= 185.2 | max=500 | eps=0.050
+episode=1183 | reward= 72 | avg50= 176.7 | max=500 | eps=0.050
+episode=1184 | reward= 62 | avg50= 167.9 | max=500 | eps=0.050
+episode=1185 | reward=214 | avg50= 162.2 | max=500 | eps=0.050
+episode=1186 | reward= 56 | avg50= 162.3 | max=500 | eps=0.050
+episode=1187 | reward= 44 | avg50= 160.3 | max=500 | eps=0.050
+episode=1188 | reward=288 | avg50= 164.2 | max=500 | eps=0.050
+episode=1189 | reward=105 | avg50= 156.3 | max=500 | eps=0.050
+episode=1190 | reward=139 | avg50= 149.1 | max=500 | eps=0.050
+episode=1191 | reward=191 | avg50= 142.9 | max=500 | eps=0.050
+episode=1192 | reward=327 | avg50= 139.4 | max=500 | eps=0.050
+episode=1193 | reward=392 | avg50= 142.7 | max=500 | eps=0.050
+episode=1194 | reward=500 | avg50= 150.2 | max=500 | eps=0.050
+episode=1195 | reward= 55 | avg50= 145.1 | max=500 | eps=0.050
+episode=1196 | reward=335 | avg50= 141.8 | max=500 | eps=0.050
+episode=1197 | reward=122 | avg50= 141.8 | max=500 | eps=0.050
+episode=1198 | reward= 55 | avg50= 139.3 | max=500 | eps=0.050
+episode=1199 | reward= 68 | avg50= 140.2 | max=500 | eps=0.050
+episode=1200 | reward=109 | avg50= 140.7 | max=500 | eps=0.050
+episode=1201 | reward= 99 | avg50= 140.7 | max=500 | eps=0.050
+episode=1202 | reward= 52 | avg50= 140.7 | max=500 | eps=0.050
+episode=1203 | reward=105 | avg50= 139.3 | max=500 | eps=0.050
+episode=1204 | reward= 36 | avg50= 138.3 | max=500 | eps=0.050
+episode=1205 | reward= 46 | avg50= 137.6 | max=500 | eps=0.050
+episode=1206 | reward= 88 | avg50= 138.4 | max=500 | eps=0.050
+episode=1207 | reward= 47 | avg50= 138.5 | max=500 | eps=0.050
+episode=1208 | reward=110 | avg50= 139.6 | max=500 | eps=0.050
+episode=1209 | reward=113 | avg50= 140.9 | max=500 | eps=0.050
+episode=1210 | reward= 58 | avg50= 136.8 | max=500 | eps=0.050
+episode=1211 | reward= 46 | avg50= 133.5 | max=500 | eps=0.050
+episode=1212 | reward= 17 | avg50= 132.6 | max=500 | eps=0.050
+episode=1213 | reward= 46 | avg50= 132.0 | max=500 | eps=0.050
+episode=1214 | reward= 87 | avg50= 131.6 | max=500 | eps=0.050
+episode=1215 | reward= 54 | avg50= 129.4 | max=500 | eps=0.050
+episode=1216 | reward=104 | avg50= 129.4 | max=500 | eps=0.050
+episode=1217 | reward=109 | avg50= 126.6 | max=500 | eps=0.050
+episode=1218 | reward= 49 | avg50= 124.3 | max=500 | eps=0.050
+episode=1219 | reward= 48 | avg50= 123.8 | max=500 | eps=0.050
+episode=1220 | reward= 40 | avg50= 119.4 | max=500 | eps=0.050
+episode=1221 | reward= 38 | avg50= 119.3 | max=500 | eps=0.050
+episode=1222 | reward= 40 | avg50= 116.0 | max=500 | eps=0.050
+episode=1223 | reward= 70 | avg50= 116.1 | max=500 | eps=0.050
+episode=1224 | reward= 60 | avg50= 108.2 | max=500 | eps=0.050
+episode=1225 | reward= 81 | avg50= 105.6 | max=500 | eps=0.050
+episode=1226 | reward= 68 | avg50= 105.8 | max=500 | eps=0.050
+episode=1227 | reward= 43 | avg50= 104.7 | max=500 | eps=0.050
+episode=1228 | reward= 84 | avg50= 105.1 | max=500 | eps=0.050
+episode=1229 | reward= 37 | avg50= 103.4 | max=500 | eps=0.050
+episode=1230 | reward= 35 | avg50= 103.1 | max=500 | eps=0.050
+episode=1231 | reward= 36 | avg50= 102.9 | max=500 | eps=0.050
+episode=1232 | reward= 73 | avg50= 103.1 | max=500 | eps=0.050
+episode=1233 | reward= 61 | avg50= 102.8 | max=500 | eps=0.050
+episode=1234 | reward= 57 | avg50= 102.7 | max=500 | eps=0.050
+episode=1235 | reward=223 | avg50= 102.9 | max=500 | eps=0.050
+episode=1236 | reward=500 | avg50= 111.8 | max=500 | eps=0.050
+episode=1237 | reward= 15 | avg50= 111.2 | max=500 | eps=0.050
+episode=1238 | reward=210 | avg50= 109.7 | max=500 | eps=0.050
+episode=1239 | reward=473 | avg50= 117.0 | max=500 | eps=0.050
+episode=1240 | reward= 48 | avg50= 115.2 | max=500 | eps=0.050
+episode=1241 | reward= 13 | avg50= 111.6 | max=500 | eps=0.050
+episode=1242 | reward=256 | avg50= 110.2 | max=500 | eps=0.050
+episode=1243 | reward= 87 | avg50= 104.1 | max=500 | eps=0.050
+episode=1244 | reward=169 | avg50=  97.5 | max=500 | eps=0.050
+episode=1245 | reward=176 | avg50=  99.9 | max=500 | eps=0.050
+episode=1246 | reward=178 | avg50=  96.8 | max=500 | eps=0.050
+episode=1247 | reward=114 | avg50=  96.6 | max=500 | eps=0.050
+episode=1248 | reward= 49 | avg50=  96.5 | max=500 | eps=0.050
+episode=1249 | reward=104 | avg50=  97.2 | max=500 | eps=0.050
+episode=1250 | reward= 21 | avg50=  95.5 | max=500 | eps=0.050
+episode=1251 | reward= 13 | avg50=  93.7 | max=500 | eps=0.050
+episode=1252 | reward=111 | avg50=  94.9 | max=500 | eps=0.050
+episode=1253 | reward= 22 | avg50=  93.3 | max=500 | eps=0.050
+episode=1254 | reward=132 | avg50=  95.2 | max=500 | eps=0.050
+episode=1255 | reward= 10 | avg50=  94.5 | max=500 | eps=0.050
+episode=1256 | reward=123 | avg50=  95.2 | max=500 | eps=0.050
+episode=1257 | reward=211 | avg50=  98.4 | max=500 | eps=0.050
+episode=1258 | reward=240 | avg50= 101.0 | max=500 | eps=0.050
+episode=1259 | reward=176 | avg50= 102.3 | max=500 | eps=0.050
+episode=1260 | reward= 52 | avg50= 102.2 | max=500 | eps=0.050
+episode=1261 | reward=500 | avg50= 111.3 | max=500 | eps=0.050
+episode=1262 | reward=281 | avg50= 116.5 | max=500 | eps=0.050
+episode=1263 | reward=132 | avg50= 118.3 | max=500 | eps=0.050
+episode=1264 | reward=500 | avg50= 126.5 | max=500 | eps=0.050
+episode=1265 | reward=426 | avg50= 134.0 | max=500 | eps=0.050
+episode=1266 | reward= 91 | avg50= 133.7 | max=500 | eps=0.050
+episode=1267 | reward=500 | avg50= 141.5 | max=500 | eps=0.050
+episode=1268 | reward=369 | avg50= 147.9 | max=500 | eps=0.050
+episode=1269 | reward=500 | avg50= 157.0 | max=500 | eps=0.050
+episode=1270 | reward=500 | avg50= 166.2 | max=500 | eps=0.050
+episode=1271 | reward=240 | avg50= 170.2 | max=500 | eps=0.050
+episode=1272 | reward= 11 | avg50= 169.6 | max=500 | eps=0.050
+episode=1273 | reward=500 | avg50= 178.2 | max=500 | eps=0.050
+episode=1274 | reward= 74 | avg50= 178.5 | max=500 | eps=0.050
+episode=1275 | reward= 88 | avg50= 178.6 | max=500 | eps=0.050
+episode=1276 | reward=500 | avg50= 187.3 | max=500 | eps=0.050
+episode=1277 | reward= 87 | avg50= 188.2 | max=500 | eps=0.050
+episode=1278 | reward=500 | avg50= 196.5 | max=500 | eps=0.050
+episode=1279 | reward=500 | avg50= 205.7 | max=500 | eps=0.050
+episode=1280 | reward=500 | avg50= 215.0 | max=500 | eps=0.050
+episode=1281 | reward=500 | avg50= 224.3 | max=500 | eps=0.050
+episode=1282 | reward=500 | avg50= 232.9 | max=500 | eps=0.050
+episode=1283 | reward=500 | avg50= 241.6 | max=500 | eps=0.050
+episode=1284 | reward=500 | avg50= 250.5 | max=500 | eps=0.050
+episode=1285 | reward=500 | avg50= 256.0 | max=500 | eps=0.050
+episode=1286 | reward=500 | avg50= 256.0 | max=500 | eps=0.050
+episode=1287 | reward=500 | avg50= 265.7 | max=500 | eps=0.050
+episode=1288 | reward=500 | avg50= 271.5 | max=500 | eps=0.050
+episode=1289 | reward=500 | avg50= 272.1 | max=500 | eps=0.050
+episode=1290 | reward=500 | avg50= 281.1 | max=500 | eps=0.050
+episode=1291 | reward=500 | avg50= 290.9 | max=500 | eps=0.050
+episode=1292 | reward=500 | avg50= 295.7 | max=500 | eps=0.050
+episode=1293 | reward=500 | avg50= 304.0 | max=500 | eps=0.050
+episode=1294 | reward=500 | avg50= 310.6 | max=500 | eps=0.050
+episode=1295 | reward=500 | avg50= 317.1 | max=500 | eps=0.050
+episode=1296 | reward=500 | avg50= 323.5 | max=500 | eps=0.050
+episode=1297 | reward=500 | avg50= 331.3 | max=500 | eps=0.050
+episode=1298 | reward=500 | avg50= 340.3 | max=500 | eps=0.050
+episode=1299 | reward= 13 | avg50= 338.5 | max=500 | eps=0.050
+episode=1300 | reward=500 | avg50= 348.0 | max=500 | eps=0.050
+episode=1301 | reward=500 | avg50= 357.8 | max=500 | eps=0.050
+episode=1302 | reward=500 | avg50= 365.6 | max=500 | eps=0.050
+episode=1303 | reward=500 | avg50= 375.1 | max=500 | eps=0.050
+episode=1304 | reward=280 | avg50= 378.1 | max=500 | eps=0.050
+episode=1305 | reward=344 | avg50= 384.8 | max=500 | eps=0.050
+episode=1306 | reward=264 | avg50= 387.6 | max=500 | eps=0.050
+episode=1307 | reward= 26 | avg50= 383.9 | max=500 | eps=0.050
+episode=1308 | reward=138 | avg50= 381.8 | max=500 | eps=0.050
+episode=1309 | reward=280 | avg50= 383.9 | max=500 | eps=0.050
+episode=1310 | reward=191 | avg50= 386.7 | max=500 | eps=0.050
+episode=1311 | reward= 16 | avg50= 377.0 | max=500 | eps=0.050
+episode=1312 | reward=500 | avg50= 381.4 | max=500 | eps=0.050
+episode=1313 | reward=500 | avg50= 388.8 | max=500 | eps=0.050
+episode=1314 | reward=500 | avg50= 388.8 | max=500 | eps=0.050
+episode=1315 | reward=500 | avg50= 390.2 | max=500 | eps=0.050
+episode=1316 | reward=500 | avg50= 398.4 | max=500 | eps=0.050
+episode=1317 | reward=500 | avg50= 398.4 | max=500 | eps=0.050
+episode=1318 | reward= 18 | avg50= 391.4 | max=500 | eps=0.050
+episode=1319 | reward=500 | avg50= 391.4 | max=500 | eps=0.050
+episode=1320 | reward=500 | avg50= 391.4 | max=500 | eps=0.050
+episode=1321 | reward=500 | avg50= 396.6 | max=500 | eps=0.050
+episode=1322 | reward=500 | avg50= 406.4 | max=500 | eps=0.050
+episode=1323 | reward=500 | avg50= 406.4 | max=500 | eps=0.050
+episode=1324 | reward=500 | avg50= 414.9 | max=500 | eps=0.050
+episode=1325 | reward=500 | avg50= 423.1 | max=500 | eps=0.050
+episode=1326 | reward=500 | avg50= 423.1 | max=500 | eps=0.050
+episode=1327 | reward=500 | avg50= 431.4 | max=500 | eps=0.050
+episode=1328 | reward=500 | avg50= 431.4 | max=500 | eps=0.050
+episode=1329 | reward=500 | avg50= 431.4 | max=500 | eps=0.050
+episode=1330 | reward=500 | avg50= 431.4 | max=500 | eps=0.050
+episode=1331 | reward=500 | avg50= 431.4 | max=500 | eps=0.050
+episode=1332 | reward=500 | avg50= 431.4 | max=500 | eps=0.050
+episode=1333 | reward=500 | avg50= 431.4 | max=500 | eps=0.050
+episode=1334 | reward=500 | avg50= 431.4 | max=500 | eps=0.050
+episode=1335 | reward=400 | avg50= 429.4 | max=500 | eps=0.050
+episode=1336 | reward=500 | avg50= 429.4 | max=500 | eps=0.050
+episode=1337 | reward=500 | avg50= 429.4 | max=500 | eps=0.050
+episode=1338 | reward=500 | avg50= 429.4 | max=500 | eps=0.050
+episode=1339 | reward=500 | avg50= 429.4 | max=500 | eps=0.050
+episode=1340 | reward=500 | avg50= 429.4 | max=500 | eps=0.050
+episode=1341 | reward=476 | avg50= 428.9 | max=500 | eps=0.050
+episode=1342 | reward=231 | avg50= 423.5 | max=500 | eps=0.050
+episode=1343 | reward=412 | avg50= 421.8 | max=500 | eps=0.050
+episode=1344 | reward= 87 | avg50= 413.5 | max=500 | eps=0.050
+episode=1345 | reward= 96 | avg50= 405.4 | max=500 | eps=0.050
+episode=1346 | reward= 95 | avg50= 397.3 | max=500 | eps=0.050
+episode=1347 | reward= 87 | avg50= 389.1 | max=500 | eps=0.050
+episode=1348 | reward=172 | avg50= 382.5 | max=500 | eps=0.050
+episode=1349 | reward=180 | avg50= 385.9 | max=500 | eps=0.050
+episode=1350 | reward=101 | avg50= 377.9 | max=500 | eps=0.050
+episode=1351 | reward= 13 | avg50= 368.1 | max=500 | eps=0.050
+episode=1352 | reward=108 | avg50= 360.3 | max=500 | eps=0.050
+episode=1353 | reward=291 | avg50= 356.1 | max=500 | eps=0.050
+episode=1354 | reward= 17 | avg50= 350.9 | max=500 | eps=0.050
+episode=1355 | reward=131 | avg50= 346.6 | max=500 | eps=0.050
+episode=1356 | reward=168 | avg50= 344.7 | max=500 | eps=0.050
+episode=1357 | reward=237 | avg50= 348.9 | max=500 | eps=0.050
+episode=1358 | reward=177 | avg50= 349.7 | max=500 | eps=0.050
+episode=1359 | reward=266 | avg50= 349.4 | max=500 | eps=0.050
+episode=1360 | reward=111 | avg50= 347.8 | max=500 | eps=0.050
+episode=1361 | reward=112 | avg50= 349.7 | max=500 | eps=0.050
+episode=1362 | reward=113 | avg50= 342.0 | max=500 | eps=0.050
+episode=1363 | reward= 18 | avg50= 332.3 | max=500 | eps=0.050
+episode=1364 | reward=130 | avg50= 324.9 | max=500 | eps=0.050
+episode=1365 | reward= 98 | avg50= 316.9 | max=500 | eps=0.050
+episode=1366 | reward=110 | avg50= 309.1 | max=500 | eps=0.050
+episode=1367 | reward= 19 | avg50= 299.5 | max=500 | eps=0.050
+episode=1368 | reward= 18 | avg50= 299.5 | max=500 | eps=0.050
+episode=1369 | reward=109 | avg50= 291.7 | max=500 | eps=0.050
+episode=1370 | reward=139 | avg50= 284.4 | max=500 | eps=0.050
+episode=1371 | reward= 33 | avg50= 275.1 | max=500 | eps=0.050
+episode=1372 | reward=120 | avg50= 267.5 | max=500 | eps=0.050
+episode=1373 | reward=120 | avg50= 259.9 | max=500 | eps=0.050
+episode=1374 | reward= 21 | avg50= 250.3 | max=500 | eps=0.050
+episode=1375 | reward= 77 | avg50= 241.9 | max=500 | eps=0.050
+episode=1376 | reward=115 | avg50= 234.2 | max=500 | eps=0.050
+episode=1377 | reward=117 | avg50= 226.5 | max=500 | eps=0.050
+episode=1378 | reward=145 | avg50= 219.4 | max=500 | eps=0.050
+episode=1379 | reward=133 | avg50= 212.1 | max=500 | eps=0.050
+episode=1380 | reward=109 | avg50= 204.2 | max=500 | eps=0.050
+episode=1381 | reward=110 | avg50= 196.4 | max=500 | eps=0.050
+episode=1382 | reward=115 | avg50= 188.7 | max=500 | eps=0.050
+episode=1383 | reward= 28 | avg50= 179.3 | max=500 | eps=0.050
+episode=1384 | reward=112 | avg50= 171.5 | max=500 | eps=0.050
+episode=1385 | reward= 39 | avg50= 164.3 | max=500 | eps=0.050
+episode=1386 | reward=119 | avg50= 156.7 | max=500 | eps=0.050
+episode=1387 | reward= 15 | avg50= 147.0 | max=500 | eps=0.050
+episode=1388 | reward=119 | avg50= 139.4 | max=500 | eps=0.050
+episode=1389 | reward= 24 | avg50= 129.9 | max=500 | eps=0.050
+episode=1390 | reward=110 | avg50= 122.1 | max=500 | eps=0.050
+episode=1391 | reward=112 | avg50= 114.8 | max=500 | eps=0.050
+episode=1392 | reward=116 | avg50= 112.5 | max=500 | eps=0.050
+episode=1393 | reward=108 | avg50= 106.4 | max=500 | eps=0.050
+episode=1394 | reward=112 | avg50= 106.9 | max=500 | eps=0.050
+episode=1395 | reward= 23 | avg50= 105.4 | max=500 | eps=0.050
+episode=1396 | reward= 19 | avg50= 103.9 | max=500 | eps=0.050
+episode=1397 | reward= 24 | avg50= 102.7 | max=500 | eps=0.050
+episode=1398 | reward=110 | avg50= 101.4 | max=500 | eps=0.050
+episode=1399 | reward=110 | avg50= 100.0 | max=500 | eps=0.050
+episode=1400 | reward=122 | avg50= 100.4 | max=500 | eps=0.050
+episode=1401 | reward=106 | avg50= 102.3 | max=500 | eps=0.050
+episode=1402 | reward=138 | avg50= 102.9 | max=500 | eps=0.050
+episode=1403 | reward=110 | avg50=  99.3 | max=500 | eps=0.050
+episode=1404 | reward=128 | avg50= 101.5 | max=500 | eps=0.050
+episode=1405 | reward=104 | avg50= 101.0 | max=500 | eps=0.050
+episode=1406 | reward=136 | avg50= 100.3 | max=500 | eps=0.050
+episode=1407 | reward=170 | avg50=  99.0 | max=500 | eps=0.050
+episode=1408 | reward=133 | avg50=  98.1 | max=500 | eps=0.050
+episode=1409 | reward= 46 | avg50=  93.7 | max=500 | eps=0.050
+episode=1410 | reward=116 | avg50=  93.8 | max=500 | eps=0.050
+episode=1411 | reward=111 | avg50=  93.8 | max=500 | eps=0.050
+episode=1412 | reward=110 | avg50=  93.7 | max=500 | eps=0.050
+episode=1413 | reward=134 | avg50=  96.0 | max=500 | eps=0.050
+episode=1414 | reward=102 | avg50=  95.5 | max=500 | eps=0.050
+episode=1415 | reward=106 | avg50=  95.6 | max=500 | eps=0.050
+episode=1416 | reward=112 | avg50=  95.7 | max=500 | eps=0.050
+episode=1417 | reward= 49 | avg50=  96.3 | max=500 | eps=0.050
+episode=1418 | reward=119 | avg50=  98.3 | max=500 | eps=0.050
+episode=1419 | reward=115 | avg50=  98.4 | max=500 | eps=0.050
+episode=1420 | reward=104 | avg50=  97.7 | max=500 | eps=0.050
+episode=1421 | reward= 98 | avg50=  99.0 | max=500 | eps=0.050
+episode=1422 | reward=114 | avg50=  98.9 | max=500 | eps=0.050
+episode=1423 | reward= 96 | avg50=  98.4 | max=500 | eps=0.050
+episode=1424 | reward= 24 | avg50=  98.5 | max=500 | eps=0.050
+episode=1425 | reward=102 | avg50=  99.0 | max=500 | eps=0.050
+episode=1426 | reward=102 | avg50=  98.7 | max=500 | eps=0.050
+episode=1427 | reward=100 | avg50=  98.4 | max=500 | eps=0.050
+episode=1428 | reward= 17 | avg50=  95.8 | max=500 | eps=0.050
+episode=1429 | reward=115 | avg50=  95.5 | max=500 | eps=0.050
+episode=1430 | reward= 30 | avg50=  93.9 | max=500 | eps=0.050
+episode=1431 | reward=167 | avg50=  95.0 | max=500 | eps=0.050
+episode=1432 | reward=500 | avg50= 102.7 | max=500 | eps=0.050
+episode=1433 | reward= 29 | avg50= 102.7 | max=500 | eps=0.050
+episode=1434 | reward= 12 | avg50= 100.7 | max=500 | eps=0.050
+episode=1435 | reward=394 | avg50= 107.8 | max=500 | eps=0.050
+episode=1436 | reward= 13 | avg50= 105.7 | max=500 | eps=0.050
+episode=1437 | reward= 72 | avg50= 106.9 | max=500 | eps=0.050
+episode=1438 | reward=122 | avg50= 106.9 | max=500 | eps=0.050
+episode=1439 | reward=121 | avg50= 108.9 | max=500 | eps=0.050
+episode=1440 | reward= 94 | avg50= 108.5 | max=500 | eps=0.050
+episode=1441 | reward=113 | avg50= 108.6 | max=500 | eps=0.050
+episode=1442 | reward=138 | avg50= 109.0 | max=500 | eps=0.050
+episode=1443 | reward= 12 | avg50= 107.1 | max=500 | eps=0.050
+episode=1444 | reward= 13 | avg50= 105.1 | max=500 | eps=0.050
+episode=1445 | reward= 32 | avg50= 105.3 | max=500 | eps=0.050
+episode=1446 | reward= 19 | avg50= 105.3 | max=500 | eps=0.050
+episode=1447 | reward= 24 | avg50= 105.3 | max=500 | eps=0.050
+episode=1448 | reward= 11 | avg50= 103.3 | max=500 | eps=0.050
+episode=1449 | reward=364 | avg50= 108.4 | max=500 | eps=0.050
+episode=1450 | reward=182 | avg50= 109.6 | max=500 | eps=0.050
+episode=1451 | reward= 66 | avg50= 108.8 | max=500 | eps=0.050
+episode=1452 | reward=154 | avg50= 109.1 | max=500 | eps=0.050
+episode=1453 | reward=248 | avg50= 111.9 | max=500 | eps=0.050
+episode=1454 | reward= 67 | avg50= 110.6 | max=500 | eps=0.050
+episode=1455 | reward= 14 | avg50= 108.8 | max=500 | eps=0.050
+episode=1456 | reward= 14 | avg50= 106.4 | max=500 | eps=0.050
+episode=1457 | reward=121 | avg50= 105.4 | max=500 | eps=0.050
+episode=1458 | reward= 67 | avg50= 104.1 | max=500 | eps=0.050
+episode=1459 | reward= 26 | avg50= 103.7 | max=500 | eps=0.050
+episode=1460 | reward= 74 | avg50= 102.9 | max=500 | eps=0.050
+episode=1461 | reward= 24 | avg50= 101.1 | max=500 | eps=0.050
+episode=1462 | reward= 62 | avg50= 100.2 | max=500 | eps=0.050
+episode=1463 | reward=427 | avg50= 106.0 | max=500 | eps=0.050
+episode=1464 | reward= 20 | avg50= 104.4 | max=500 | eps=0.050
+episode=1465 | reward= 26 | avg50= 102.8 | max=500 | eps=0.050
+episode=1466 | reward= 21 | avg50= 101.0 | max=500 | eps=0.050
+episode=1467 | reward=209 | avg50= 104.2 | max=500 | eps=0.050
+episode=1468 | reward=288 | avg50= 107.5 | max=500 | eps=0.050
+episode=1469 | reward= 85 | avg50= 106.9 | max=500 | eps=0.050
+episode=1470 | reward= 89 | avg50= 106.6 | max=500 | eps=0.050
+episode=1471 | reward=201 | avg50= 108.7 | max=500 | eps=0.050
+episode=1472 | reward=204 | avg50= 110.5 | max=500 | eps=0.050
+episode=1473 | reward=134 | avg50= 111.3 | max=500 | eps=0.050
+episode=1474 | reward= 68 | avg50= 112.1 | max=500 | eps=0.050
+episode=1475 | reward= 18 | avg50= 110.5 | max=500 | eps=0.050
+episode=1476 | reward= 11 | avg50= 108.6 | max=500 | eps=0.050
+episode=1477 | reward= 91 | avg50= 108.5 | max=500 | eps=0.050
+episode=1478 | reward=133 | avg50= 110.8 | max=500 | eps=0.050
+episode=1479 | reward=141 | avg50= 111.3 | max=500 | eps=0.050
+episode=1480 | reward=103 | avg50= 112.8 | max=500 | eps=0.050
+episode=1481 | reward=111 | avg50= 111.6 | max=500 | eps=0.050
+episode=1482 | reward= 81 | avg50= 103.3 | max=500 | eps=0.050
+episode=1483 | reward= 20 | avg50= 103.1 | max=500 | eps=0.050
+episode=1484 | reward=195 | avg50= 106.7 | max=500 | eps=0.050
+episode=1485 | reward= 17 | avg50=  99.2 | max=500 | eps=0.050
+episode=1486 | reward=204 | avg50= 103.0 | max=500 | eps=0.050
+episode=1487 | reward=347 | avg50= 108.5 | max=500 | eps=0.050
+episode=1488 | reward= 18 | avg50= 106.4 | max=500 | eps=0.050
+episode=1489 | reward=105 | avg50= 106.1 | max=500 | eps=0.050
+episode=1490 | reward=132 | avg50= 106.9 | max=500 | eps=0.050
+episode=1491 | reward= 16 | avg50= 104.9 | max=500 | eps=0.050
+episode=1492 | reward=110 | avg50= 104.4 | max=500 | eps=0.050
+episode=1493 | reward=103 | avg50= 106.2 | max=500 | eps=0.050
+episode=1494 | reward=168 | avg50= 109.3 | max=500 | eps=0.050
+episode=1495 | reward=135 | avg50= 111.4 | max=500 | eps=0.050
+episode=1496 | reward=205 | avg50= 115.1 | max=500 | eps=0.050
+episode=1497 | reward= 88 | avg50= 116.4 | max=500 | eps=0.050
+episode=1498 | reward=219 | avg50= 120.5 | max=500 | eps=0.050
+episode=1499 | reward=157 | avg50= 116.4 | max=500 | eps=0.050
+episode=1500 | reward=101 | avg50= 114.8 | max=500 | eps=0.050
+episode=1501 | reward=112 | avg50= 115.7 | max=500 | eps=0.050
+episode=1502 | reward=136 | avg50= 115.3 | max=500 | eps=0.050
+episode=1503 | reward=179 | avg50= 113.9 | max=500 | eps=0.050
+episode=1504 | reward=168 | avg50= 116.0 | max=500 | eps=0.050
+episode=1505 | reward=102 | avg50= 117.7 | max=500 | eps=0.050
+episode=1506 | reward= 78 | avg50= 119.0 | max=500 | eps=0.050
+episode=1507 | reward=118 | avg50= 118.9 | max=500 | eps=0.050
+episode=1508 | reward=259 | avg50= 122.8 | max=500 | eps=0.050
+episode=1509 | reward=194 | avg50= 126.1 | max=500 | eps=0.050
+episode=1510 | reward=188 | avg50= 128.4 | max=500 | eps=0.050
+episode=1511 | reward=192 | avg50= 131.8 | max=500 | eps=0.050
+episode=1512 | reward=123 | avg50= 133.0 | max=500 | eps=0.050
+episode=1513 | reward= 67 | avg50= 125.8 | max=500 | eps=0.050
+episode=1514 | reward= 86 | avg50= 127.1 | max=500 | eps=0.050
+episode=1515 | reward=174 | avg50= 130.1 | max=500 | eps=0.050
+episode=1516 | reward= 13 | avg50= 129.9 | max=500 | eps=0.050
+episode=1517 | reward=130 | avg50= 128.3 | max=500 | eps=0.050
+episode=1518 | reward= 18 | avg50= 122.9 | max=500 | eps=0.050
+episode=1519 | reward= 82 | avg50= 122.9 | max=500 | eps=0.050
+episode=1520 | reward=128 | avg50= 123.7 | max=500 | eps=0.050
+episode=1521 | reward=196 | avg50= 123.6 | max=500 | eps=0.050
+episode=1522 | reward=125 | avg50= 122.0 | max=500 | eps=0.050
+episode=1523 | reward= 83 | avg50= 121.0 | max=500 | eps=0.050
+episode=1524 | reward=121 | avg50= 122.0 | max=500 | eps=0.050
+episode=1525 | reward=181 | avg50= 125.3 | max=500 | eps=0.050
+episode=1526 | reward= 32 | avg50= 125.7 | max=500 | eps=0.050
+episode=1527 | reward=196 | avg50= 127.8 | max=500 | eps=0.050
+episode=1528 | reward=207 | avg50= 129.3 | max=500 | eps=0.050
+episode=1529 | reward= 92 | avg50= 128.3 | max=500 | eps=0.050
+episode=1530 | reward=190 | avg50= 130.0 | max=500 | eps=0.050
+episode=1531 | reward=123 | avg50= 130.3 | max=500 | eps=0.050
+episode=1532 | reward=148 | avg50= 131.6 | max=500 | eps=0.050
+episode=1533 | reward= 41 | avg50= 132.0 | max=500 | eps=0.050
+episode=1534 | reward=196 | avg50= 132.1 | max=500 | eps=0.050
+episode=1535 | reward=174 | avg50= 135.2 | max=500 | eps=0.050
+episode=1536 | reward= 96 | avg50= 133.0 | max=500 | eps=0.050
+episode=1537 | reward=102 | avg50= 128.1 | max=500 | eps=0.050
+episode=1538 | reward= 95 | avg50= 129.7 | max=500 | eps=0.050
+episode=1539 | reward=111 | avg50= 129.8 | max=500 | eps=0.050
+episode=1540 | reward=195 | avg50= 131.1 | max=500 | eps=0.050
+episode=1541 | reward=127 | avg50= 133.3 | max=500 | eps=0.050
+episode=1542 | reward=148 | avg50= 134.0 | max=500 | eps=0.050
+episode=1543 | reward=154 | avg50= 135.1 | max=500 | eps=0.050
+episode=1544 | reward=167 | avg50= 135.0 | max=500 | eps=0.050
+episode=1545 | reward=175 | avg50= 135.8 | max=500 | eps=0.050
+episode=1546 | reward=137 | avg50= 134.5 | max=500 | eps=0.050
+episode=1547 | reward= 13 | avg50= 133.0 | max=500 | eps=0.050
+episode=1548 | reward=204 | avg50= 132.7 | max=500 | eps=0.050
+episode=1549 | reward=212 | avg50= 133.8 | max=500 | eps=0.050
+episode=1550 | reward=158 | avg50= 134.9 | max=500 | eps=0.050
+episode=1551 | reward=193 | avg50= 136.5 | max=500 | eps=0.050
+episode=1552 | reward=251 | avg50= 138.8 | max=500 | eps=0.050
+episode=1553 | reward=200 | avg50= 139.3 | max=500 | eps=0.050
+episode=1554 | reward=206 | avg50= 140.0 | max=500 | eps=0.050
+episode=1555 | reward=180 | avg50= 141.6 | max=500 | eps=0.050
+episode=1556 | reward=139 | avg50= 142.8 | max=500 | eps=0.050
+episode=1557 | reward=220 | avg50= 144.8 | max=500 | eps=0.050
+episode=1558 | reward=182 | avg50= 143.3 | max=500 | eps=0.050
+episode=1559 | reward=152 | avg50= 142.5 | max=500 | eps=0.050
+episode=1560 | reward=170 | avg50= 142.1 | max=500 | eps=0.050
+episode=1561 | reward=216 | avg50= 142.6 | max=500 | eps=0.050
+episode=1562 | reward=204 | avg50= 144.2 | max=500 | eps=0.050
+episode=1563 | reward=201 | avg50= 146.9 | max=500 | eps=0.050
+episode=1564 | reward=195 | avg50= 149.1 | max=500 | eps=0.050
+episode=1565 | reward= 22 | avg50= 146.0 | max=500 | eps=0.050
+episode=1566 | reward= 16 | avg50= 146.1 | max=500 | eps=0.050
+episode=1567 | reward= 97 | avg50= 145.4 | max=500 | eps=0.050
+episode=1568 | reward= 18 | avg50= 145.4 | max=500 | eps=0.050
+episode=1569 | reward= 13 | avg50= 144.0 | max=500 | eps=0.050
+episode=1570 | reward=196 | avg50= 145.4 | max=500 | eps=0.050
+episode=1571 | reward=193 | avg50= 145.3 | max=500 | eps=0.050
+episode=1572 | reward=154 | avg50= 145.9 | max=500 | eps=0.050
+episode=1573 | reward=135 | avg50= 147.0 | max=500 | eps=0.050
+episode=1574 | reward= 25 | avg50= 145.0 | max=500 | eps=0.050
+episode=1575 | reward=125 | avg50= 143.9 | max=500 | eps=0.050
+episode=1576 | reward=134 | avg50= 146.0 | max=500 | eps=0.050
+episode=1577 | reward=140 | avg50= 144.8 | max=500 | eps=0.050
+episode=1578 | reward=213 | avg50= 145.0 | max=500 | eps=0.050
+episode=1579 | reward=224 | avg50= 147.6 | max=500 | eps=0.050
+episode=1580 | reward= 34 | avg50= 144.5 | max=500 | eps=0.050
+episode=1581 | reward=215 | avg50= 146.3 | max=500 | eps=0.050
+episode=1582 | reward=252 | avg50= 148.4 | max=500 | eps=0.050
+episode=1583 | reward=233 | avg50= 152.2 | max=500 | eps=0.050
+episode=1584 | reward= 15 | avg50= 148.6 | max=500 | eps=0.050
+episode=1585 | reward= 25 | avg50= 145.6 | max=500 | eps=0.050
+episode=1586 | reward=257 | avg50= 148.9 | max=500 | eps=0.050
+episode=1587 | reward= 65 | avg50= 148.1 | max=500 | eps=0.050
+episode=1588 | reward=201 | avg50= 150.2 | max=500 | eps=0.050
+episode=1589 | reward=158 | avg50= 151.2 | max=500 | eps=0.050
+episode=1590 | reward= 20 | avg50= 147.7 | max=500 | eps=0.050
+episode=1591 | reward=195 | avg50= 149.0 | max=500 | eps=0.050
+episode=1592 | reward= 18 | avg50= 146.4 | max=500 | eps=0.050
+episode=1593 | reward= 77 | avg50= 144.9 | max=500 | eps=0.050
+episode=1594 | reward= 66 | avg50= 142.9 | max=500 | eps=0.050
+episode=1595 | reward= 12 | avg50= 139.6 | max=500 | eps=0.050
+episode=1596 | reward=257 | avg50= 142.0 | max=500 | eps=0.050
+episode=1597 | reward=215 | avg50= 146.1 | max=500 | eps=0.050
+episode=1598 | reward= 15 | avg50= 142.3 | max=500 | eps=0.050
+episode=1599 | reward= 10 | avg50= 138.2 | max=500 | eps=0.050
+episode=1600 | reward= 68 | avg50= 136.4 | max=500 | eps=0.050
+episode=1601 | reward= 15 | avg50= 132.9 | max=500 | eps=0.050
+episode=1602 | reward=221 | avg50= 132.3 | max=500 | eps=0.050
+episode=1603 | reward= 17 | avg50= 128.6 | max=500 | eps=0.050
+episode=1604 | reward= 89 | avg50= 126.3 | max=500 | eps=0.050
+episode=1605 | reward=119 | avg50= 125.1 | max=500 | eps=0.050
+episode=1606 | reward=161 | avg50= 125.5 | max=500 | eps=0.050
+episode=1607 | reward=227 | avg50= 125.6 | max=500 | eps=0.050
+episode=1608 | reward= 84 | avg50= 123.7 | max=500 | eps=0.050
+episode=1609 | reward=227 | avg50= 125.2 | max=500 | eps=0.050
+episode=1610 | reward=111 | avg50= 124.0 | max=500 | eps=0.050
+episode=1611 | reward=118 | avg50= 122.0 | max=500 | eps=0.050
+episode=1612 | reward=183 | avg50= 121.6 | max=500 | eps=0.050
+episode=1613 | reward= 25 | avg50= 118.1 | max=500 | eps=0.050
+episode=1614 | reward=193 | avg50= 118.1 | max=500 | eps=0.050
+episode=1615 | reward=210 | avg50= 121.8 | max=500 | eps=0.050
+episode=1616 | reward=146 | avg50= 124.4 | max=500 | eps=0.050
+episode=1617 | reward=190 | avg50= 126.3 | max=500 | eps=0.050
+episode=1618 | reward=165 | avg50= 129.2 | max=500 | eps=0.050
+episode=1619 | reward=186 | avg50= 132.7 | max=500 | eps=0.050
+episode=1620 | reward=202 | avg50= 132.8 | max=500 | eps=0.050
+episode=1621 | reward=219 | avg50= 133.3 | max=500 | eps=0.050
+episode=1622 | reward=253 | avg50= 135.3 | max=500 | eps=0.050
+episode=1623 | reward=171 | avg50= 136.0 | max=500 | eps=0.050
+episode=1624 | reward=119 | avg50= 137.9 | max=500 | eps=0.050
+episode=1625 | reward=127 | avg50= 137.9 | max=500 | eps=0.050
+episode=1626 | reward=129 | avg50= 137.8 | max=500 | eps=0.050
+episode=1627 | reward=125 | avg50= 137.5 | max=500 | eps=0.050
+episode=1628 | reward= 16 | avg50= 133.6 | max=500 | eps=0.050
+episode=1629 | reward=117 | avg50= 131.5 | max=500 | eps=0.050
+episode=1630 | reward=149 | avg50= 133.8 | max=500 | eps=0.050
+episode=1631 | reward=128 | avg50= 132.0 | max=500 | eps=0.050
+episode=1632 | reward=184 | avg50= 130.7 | max=500 | eps=0.050
+episode=1633 | reward= 27 | avg50= 126.5 | max=500 | eps=0.050
+episode=1634 | reward=128 | avg50= 128.8 | max=500 | eps=0.050
+episode=1635 | reward=158 | avg50= 131.5 | max=500 | eps=0.050
+episode=1636 | reward= 25 | avg50= 126.8 | max=500 | eps=0.050
+episode=1637 | reward= 44 | avg50= 126.4 | max=500 | eps=0.050
+episode=1638 | reward=116 | avg50= 124.7 | max=500 | eps=0.050
+episode=1639 | reward=116 | avg50= 123.9 | max=500 | eps=0.050
+episode=1640 | reward=107 | avg50= 125.6 | max=500 | eps=0.050
+episode=1641 | reward=181 | avg50= 125.3 | max=500 | eps=0.050
+episode=1642 | reward=216 | avg50= 129.3 | max=500 | eps=0.050
+episode=1643 | reward=143 | avg50= 130.6 | max=500 | eps=0.050
+episode=1644 | reward=154 | avg50= 132.4 | max=500 | eps=0.050
+episode=1645 | reward=108 | avg50= 134.3 | max=500 | eps=0.050
+episode=1646 | reward=125 | avg50= 131.6 | max=500 | eps=0.050
+episode=1647 | reward=500 | avg50= 137.3 | max=500 | eps=0.050
+episode=1648 | reward=271 | avg50= 142.5 | max=500 | eps=0.050
+episode=1649 | reward= 28 | avg50= 142.8 | max=500 | eps=0.050
+episode=1650 | reward=500 | avg50= 151.5 | max=500 | eps=0.050
+episode=1651 | reward= 20 | avg50= 151.6 | max=500 | eps=0.050
+episode=1652 | reward= 19 | avg50= 147.5 | max=500 | eps=0.050
+episode=1653 | reward= 82 | avg50= 148.8 | max=500 | eps=0.050
+episode=1654 | reward=211 | avg50= 151.3 | max=500 | eps=0.050
+episode=1655 | reward= 16 | avg50= 149.2 | max=500 | eps=0.050
+episode=1656 | reward=500 | avg50= 156.0 | max=500 | eps=0.050
+episode=1657 | reward= 18 | avg50= 151.8 | max=500 | eps=0.050
+episode=1658 | reward=219 | avg50= 154.5 | max=500 | eps=0.050
+episode=1659 | reward=500 | avg50= 160.0 | max=500 | eps=0.050
+episode=1660 | reward=162 | avg50= 161.0 | max=500 | eps=0.050
+episode=1661 | reward= 18 | avg50= 159.0 | max=500 | eps=0.050
+episode=1662 | reward= 68 | avg50= 156.7 | max=500 | eps=0.050
+episode=1663 | reward= 11 | avg50= 156.4 | max=500 | eps=0.050
+episode=1664 | reward=313 | avg50= 158.8 | max=500 | eps=0.050
+episode=1665 | reward=296 | avg50= 160.5 | max=500 | eps=0.050
+episode=1666 | reward= 14 | avg50= 157.9 | max=500 | eps=0.050
+episode=1667 | reward=307 | avg50= 160.2 | max=500 | eps=0.050
+episode=1668 | reward=138 | avg50= 159.7 | max=500 | eps=0.050
+episode=1669 | reward=409 | avg50= 164.1 | max=500 | eps=0.050
+episode=1670 | reward= 18 | avg50= 160.5 | max=500 | eps=0.050
+episode=1671 | reward=325 | avg50= 162.6 | max=500 | eps=0.050
+episode=1672 | reward=500 | avg50= 167.5 | max=500 | eps=0.050
+episode=1673 | reward= 20 | avg50= 164.5 | max=500 | eps=0.050
+episode=1674 | reward=500 | avg50= 172.1 | max=500 | eps=0.050
+episode=1675 | reward= 11 | avg50= 169.8 | max=500 | eps=0.050
+episode=1676 | reward=500 | avg50= 177.2 | max=500 | eps=0.050
+episode=1677 | reward=500 | avg50= 184.7 | max=500 | eps=0.050
+episode=1678 | reward=500 | avg50= 194.4 | max=500 | eps=0.050
+episode=1679 | reward=500 | avg50= 202.1 | max=500 | eps=0.050
+episode=1680 | reward= 22 | avg50= 199.5 | max=500 | eps=0.050
+episode=1681 | reward=500 | avg50= 207.0 | max=500 | eps=0.050
+episode=1682 | reward=500 | avg50= 213.3 | max=500 | eps=0.050
+episode=1683 | reward=500 | avg50= 222.7 | max=500 | eps=0.050
+episode=1684 | reward=500 | avg50= 230.2 | max=500 | eps=0.050
+episode=1685 | reward=104 | avg50= 229.1 | max=500 | eps=0.050
+episode=1686 | reward=430 | avg50= 237.2 | max=500 | eps=0.050
+episode=1687 | reward=500 | avg50= 246.3 | max=500 | eps=0.050
+episode=1688 | reward=500 | avg50= 254.0 | max=500 | eps=0.050
+episode=1689 | reward=187 | avg50= 255.4 | max=500 | eps=0.050
+episode=1690 | reward= 16 | avg50= 253.6 | max=500 | eps=0.050
+episode=1691 | reward=500 | avg50= 260.0 | max=500 | eps=0.050
+episode=1692 | reward=216 | avg50= 260.0 | max=500 | eps=0.050
+episode=1693 | reward=300 | avg50= 263.1 | max=500 | eps=0.050
+episode=1694 | reward=110 | avg50= 262.2 | max=500 | eps=0.050
+episode=1695 | reward= 13 | avg50= 260.3 | max=500 | eps=0.050
+episode=1696 | reward=148 | avg50= 260.8 | max=500 | eps=0.050
+episode=1697 | reward=159 | avg50= 254.0 | max=500 | eps=0.050
+episode=1698 | reward= 82 | avg50= 250.2 | max=500 | eps=0.050
+episode=1699 | reward=169 | avg50= 253.0 | max=500 | eps=0.050
+episode=1700 | reward=175 | avg50= 246.5 | max=500 | eps=0.050
+episode=1701 | reward=197 | avg50= 250.1 | max=500 | eps=0.050
+episode=1702 | reward=150 | avg50= 252.7 | max=500 | eps=0.050
+episode=1703 | reward=174 | avg50= 254.5 | max=500 | eps=0.050
+episode=1704 | reward=169 | avg50= 253.7 | max=500 | eps=0.050
+episode=1705 | reward= 88 | avg50= 255.1 | max=500 | eps=0.050
+episode=1706 | reward=171 | avg50= 248.5 | max=500 | eps=0.050
+episode=1707 | reward= 27 | avg50= 248.7 | max=500 | eps=0.050
+episode=1708 | reward= 16 | avg50= 244.7 | max=500 | eps=0.050
+episode=1709 | reward=156 | avg50= 237.8 | max=500 | eps=0.050
+episode=1710 | reward=160 | avg50= 237.7 | max=500 | eps=0.050
+episode=1711 | reward=182 | avg50= 241.0 | max=500 | eps=0.050
+episode=1712 | reward=188 | avg50= 243.4 | max=500 | eps=0.050
+episode=1713 | reward=163 | avg50= 246.5 | max=500 | eps=0.050
+episode=1714 | reward= 13 | avg50= 240.5 | max=500 | eps=0.050
+episode=1715 | reward=129 | avg50= 237.1 | max=500 | eps=0.050
+episode=1716 | reward=363 | avg50= 244.1 | max=500 | eps=0.050
+episode=1717 | reward=132 | avg50= 240.6 | max=500 | eps=0.050
+episode=1718 | reward=129 | avg50= 240.4 | max=500 | eps=0.050
+episode=1719 | reward=126 | avg50= 234.8 | max=500 | eps=0.050
+episode=1720 | reward= 38 | avg50= 235.2 | max=500 | eps=0.050
+episode=1721 | reward=132 | avg50= 231.3 | max=500 | eps=0.050
+episode=1722 | reward= 48 | avg50= 222.3 | max=500 | eps=0.050
+episode=1723 | reward= 34 | avg50= 222.5 | max=500 | eps=0.050
+episode=1724 | reward= 14 | avg50= 212.8 | max=500 | eps=0.050
+episode=1725 | reward=113 | avg50= 214.9 | max=500 | eps=0.050
+episode=1726 | reward=125 | avg50= 207.4 | max=500 | eps=0.050
+episode=1727 | reward=117 | avg50= 199.7 | max=500 | eps=0.050
+episode=1728 | reward= 13 | avg50= 190.0 | max=500 | eps=0.050
+episode=1729 | reward=120 | avg50= 182.4 | max=500 | eps=0.050
+episode=1730 | reward=128 | avg50= 184.5 | max=500 | eps=0.050
+episode=1731 | reward=129 | avg50= 177.1 | max=500 | eps=0.050
+episode=1732 | reward=105 | avg50= 169.2 | max=500 | eps=0.050
+episode=1733 | reward=116 | avg50= 161.5 | max=500 | eps=0.050
+episode=1734 | reward=127 | avg50= 154.0 | max=500 | eps=0.050
+episode=1735 | reward=134 | avg50= 154.6 | max=500 | eps=0.050
+episode=1736 | reward=134 | avg50= 148.7 | max=500 | eps=0.050
+episode=1737 | reward=142 | avg50= 141.5 | max=500 | eps=0.050
+episode=1738 | reward=164 | avg50= 134.8 | max=500 | eps=0.050
+episode=1739 | reward= 45 | avg50= 132.0 | max=500 | eps=0.050
+episode=1740 | reward= 85 | avg50= 133.4 | max=500 | eps=0.050
+episode=1741 | reward=500 | avg50= 133.4 | max=500 | eps=0.050
+episode=1742 | reward= 18 | avg50= 129.4 | max=500 | eps=0.050
+episode=1743 | reward=500 | avg50= 133.4 | max=500 | eps=0.050
+episode=1744 | reward=396 | avg50= 139.1 | max=500 | eps=0.050
+episode=1745 | reward=325 | avg50= 145.4 | max=500 | eps=0.050
+episode=1746 | reward= 17 | avg50= 142.7 | max=500 | eps=0.050
+episode=1747 | reward= 78 | avg50= 141.1 | max=500 | eps=0.050
+episode=1748 | reward=209 | avg50= 143.7 | max=500 | eps=0.050
+episode=1749 | reward=198 | avg50= 144.2 | max=500 | eps=0.050
+episode=1750 | reward=202 | avg50= 144.8 | max=500 | eps=0.050
+episode=1751 | reward=500 | avg50= 150.8 | max=500 | eps=0.050
+episode=1752 | reward= 79 | avg50= 149.4 | max=500 | eps=0.050
+episode=1753 | reward=500 | avg50= 155.9 | max=500 | eps=0.050
+episode=1754 | reward=442 | avg50= 161.4 | max=500 | eps=0.050
+episode=1755 | reward=500 | avg50= 169.6 | max=500 | eps=0.050
+episode=1756 | reward=479 | avg50= 175.8 | max=500 | eps=0.050
+episode=1757 | reward=500 | avg50= 185.3 | max=500 | eps=0.050
+episode=1758 | reward=500 | avg50= 194.9 | max=500 | eps=0.050
+episode=1759 | reward=500 | avg50= 201.8 | max=500 | eps=0.050
+episode=1760 | reward= 11 | avg50= 198.8 | max=500 | eps=0.050
+episode=1761 | reward=500 | avg50= 205.2 | max=500 | eps=0.050
+episode=1762 | reward=500 | avg50= 211.4 | max=500 | eps=0.050
+episode=1763 | reward= 14 | avg50= 208.5 | max=500 | eps=0.050
+episode=1764 | reward=500 | avg50= 218.2 | max=500 | eps=0.050
+episode=1765 | reward=500 | avg50= 225.6 | max=500 | eps=0.050
+episode=1766 | reward=500 | avg50= 228.4 | max=500 | eps=0.050
+episode=1767 | reward=500 | avg50= 235.7 | max=500 | eps=0.050
+episode=1768 | reward=500 | avg50= 243.1 | max=500 | eps=0.050
+episode=1769 | reward=500 | avg50= 250.6 | max=500 | eps=0.050
+episode=1770 | reward=500 | avg50= 259.9 | max=500 | eps=0.050
+episode=1771 | reward=500 | avg50= 267.2 | max=500 | eps=0.050
+episode=1772 | reward=500 | avg50= 276.3 | max=500 | eps=0.050
+episode=1773 | reward=500 | avg50= 285.6 | max=500 | eps=0.050
+episode=1774 | reward=500 | avg50= 295.3 | max=500 | eps=0.050
+episode=1775 | reward=500 | avg50= 303.0 | max=500 | eps=0.050
+episode=1776 | reward=500 | avg50= 310.5 | max=500 | eps=0.050
+episode=1777 | reward=500 | avg50= 318.2 | max=500 | eps=0.050
+episode=1778 | reward=214 | avg50= 322.2 | max=500 | eps=0.050
+episode=1779 | reward= 20 | avg50= 320.2 | max=500 | eps=0.050
+episode=1780 | reward=230 | avg50= 322.3 | max=500 | eps=0.050
+episode=1781 | reward=162 | avg50= 322.9 | max=500 | eps=0.050
+episode=1782 | reward=162 | avg50= 324.1 | max=500 | eps=0.050
+episode=1783 | reward=234 | avg50= 326.4 | max=500 | eps=0.050
+episode=1784 | reward=129 | avg50= 326.5 | max=500 | eps=0.050
+episode=1785 | reward=124 | avg50= 326.3 | max=500 | eps=0.050
+episode=1786 | reward= 19 | avg50= 324.0 | max=500 | eps=0.050
+episode=1787 | reward= 20 | avg50= 321.5 | max=500 | eps=0.050
+episode=1788 | reward= 41 | avg50= 319.1 | max=500 | eps=0.050
+episode=1789 | reward= 25 | avg50= 318.7 | max=500 | eps=0.050
+episode=1790 | reward=125 | avg50= 319.5 | max=500 | eps=0.050
+episode=1791 | reward=133 | avg50= 312.1 | max=500 | eps=0.050
+episode=1792 | reward=121 | avg50= 314.2 | max=500 | eps=0.050
+episode=1793 | reward=123 | avg50= 306.6 | max=500 | eps=0.050
+episode=1794 | reward=151 | avg50= 301.7 | max=500 | eps=0.050
+episode=1795 | reward= 13 | avg50= 295.5 | max=500 | eps=0.050
+episode=1796 | reward=129 | avg50= 297.7 | max=500 | eps=0.050
+episode=1797 | reward=143 | avg50= 299.0 | max=500 | eps=0.050
+episode=1798 | reward=118 | avg50= 297.2 | max=500 | eps=0.050
+episode=1799 | reward=128 | avg50= 295.8 | max=500 | eps=0.050
+episode=1800 | reward= 15 | avg50= 292.1 | max=500 | eps=0.050
+episode=1801 | reward=119 | avg50= 284.5 | max=500 | eps=0.050
+episode=1802 | reward= 36 | avg50= 283.6 | max=500 | eps=0.050
+episode=1803 | reward= 30 | avg50= 274.2 | max=500 | eps=0.050
+episode=1804 | reward=115 | avg50= 267.7 | max=500 | eps=0.050
+episode=1805 | reward=147 | avg50= 260.6 | max=500 | eps=0.050
+episode=1806 | reward=137 | avg50= 253.8 | max=500 | eps=0.050
+episode=1807 | reward=109 | avg50= 245.9 | max=500 | eps=0.050
+episode=1808 | reward=121 | avg50= 238.4 | max=500 | eps=0.050
+episode=1809 | reward=115 | avg50= 230.7 | max=500 | eps=0.050
+episode=1810 | reward= 31 | avg50= 231.1 | max=500 | eps=0.050
+episode=1811 | reward=144 | avg50= 223.9 | max=500 | eps=0.050
+episode=1812 | reward=121 | avg50= 216.4 | max=500 | eps=0.050
+episode=1813 | reward=118 | avg50= 218.4 | max=500 | eps=0.050
+episode=1814 | reward=136 | avg50= 211.2 | max=500 | eps=0.050
+episode=1815 | reward= 33 | avg50= 201.8 | max=500 | eps=0.050
+episode=1816 | reward=129 | avg50= 194.4 | max=500 | eps=0.050
+episode=1817 | reward=131 | avg50= 187.0 | max=500 | eps=0.050
+episode=1818 | reward= 16 | avg50= 177.3 | max=500 | eps=0.050
+episode=1819 | reward=119 | avg50= 169.7 | max=500 | eps=0.050
+episode=1820 | reward=133 | avg50= 162.4 | max=500 | eps=0.050
+episode=1821 | reward=137 | avg50= 155.1 | max=500 | eps=0.050
+episode=1822 | reward=128 | avg50= 147.7 | max=500 | eps=0.050
+episode=1823 | reward= 17 | avg50= 138.0 | max=500 | eps=0.050
+episode=1824 | reward=132 | avg50= 130.7 | max=500 | eps=0.050
+episode=1825 | reward= 20 | avg50= 121.1 | max=500 | eps=0.050
+episode=1826 | reward=127 | avg50= 113.6 | max=500 | eps=0.050
+episode=1827 | reward=143 | avg50= 106.5 | max=500 | eps=0.050
+episode=1828 | reward=174 | avg50= 105.7 | max=500 | eps=0.050
+episode=1829 | reward=152 | avg50= 108.3 | max=500 | eps=0.050
+episode=1830 | reward=149 | avg50= 106.7 | max=500 | eps=0.050
+episode=1831 | reward=123 | avg50= 105.9 | max=500 | eps=0.050
+episode=1832 | reward=151 | avg50= 105.7 | max=500 | eps=0.050
+episode=1833 | reward=500 | avg50= 111.0 | max=500 | eps=0.050
+episode=1834 | reward=129 | avg50= 111.0 | max=500 | eps=0.050
+episode=1835 | reward=500 | avg50= 118.5 | max=500 | eps=0.050
+episode=1836 | reward=455 | avg50= 127.2 | max=500 | eps=0.050
+episode=1837 | reward=136 | avg50= 129.6 | max=500 | eps=0.050
+episode=1838 | reward=148 | avg50= 131.7 | max=500 | eps=0.050
+episode=1839 | reward=164 | avg50= 134.5 | max=500 | eps=0.050
+episode=1840 | reward=223 | avg50= 136.4 | max=500 | eps=0.050
+episode=1841 | reward=146 | avg50= 136.7 | max=500 | eps=0.050
+episode=1842 | reward=175 | avg50= 137.8 | max=500 | eps=0.050
+episode=1843 | reward=128 | avg50= 137.9 | max=500 | eps=0.050
+episode=1844 | reward=121 | avg50= 137.3 | max=500 | eps=0.050
+episode=1845 | reward=500 | avg50= 147.0 | max=500 | eps=0.050
+episode=1846 | reward= 93 | avg50= 146.3 | max=500 | eps=0.050
+episode=1847 | reward= 46 | avg50= 144.4 | max=500 | eps=0.050
+episode=1848 | reward= 18 | avg50= 142.4 | max=500 | eps=0.050
+episode=1849 | reward=500 | avg50= 149.8 | max=500 | eps=0.050
+episode=1850 | reward= 76 | avg50= 151.0 | max=500 | eps=0.050
+episode=1851 | reward= 30 | avg50= 149.2 | max=500 | eps=0.050
+episode=1852 | reward=172 | avg50= 152.0 | max=500 | eps=0.050
+episode=1853 | reward= 81 | avg50= 153.0 | max=500 | eps=0.050
+episode=1854 | reward= 35 | avg50= 151.4 | max=500 | eps=0.050
+episode=1855 | reward= 61 | avg50= 149.7 | max=500 | eps=0.050
+episode=1856 | reward=114 | avg50= 149.2 | max=500 | eps=0.050
+episode=1857 | reward=120 | avg50= 149.4 | max=500 | eps=0.050
+episode=1858 | reward=190 | avg50= 150.8 | max=500 | eps=0.050
+episode=1859 | reward=146 | avg50= 151.4 | max=500 | eps=0.050
+episode=1860 | reward= 28 | avg50= 151.4 | max=500 | eps=0.050
+episode=1861 | reward= 13 | avg50= 148.7 | max=500 | eps=0.050
+episode=1862 | reward= 12 | avg50= 146.6 | max=500 | eps=0.050
+episode=1863 | reward=249 | avg50= 149.2 | max=500 | eps=0.050
+episode=1864 | reward=500 | avg50= 156.5 | max=500 | eps=0.050
+episode=1865 | reward=447 | avg50= 164.7 | max=500 | eps=0.050
+episode=1866 | reward= 82 | avg50= 163.8 | max=500 | eps=0.050
+episode=1867 | reward=177 | avg50= 164.7 | max=500 | eps=0.050
+episode=1868 | reward=461 | avg50= 173.6 | max=500 | eps=0.050
+episode=1869 | reward=500 | avg50= 181.2 | max=500 | eps=0.050
+episode=1870 | reward=151 | avg50= 181.6 | max=500 | eps=0.050
+episode=1871 | reward=500 | avg50= 188.9 | max=500 | eps=0.050
+episode=1872 | reward=500 | avg50= 196.3 | max=500 | eps=0.050
+episode=1873 | reward=500 | avg50= 206.0 | max=500 | eps=0.050
+episode=1874 | reward=118 | avg50= 205.7 | max=500 | eps=0.050
+episode=1875 | reward= 76 | avg50= 206.8 | max=500 | eps=0.050
+episode=1876 | reward=133 | avg50= 206.9 | max=500 | eps=0.050
+episode=1877 | reward= 38 | avg50= 204.8 | max=500 | eps=0.050
+episode=1878 | reward=500 | avg50= 211.3 | max=500 | eps=0.050
+episode=1879 | reward=500 | avg50= 218.3 | max=500 | eps=0.050
+episode=1880 | reward=500 | avg50= 225.3 | max=500 | eps=0.050
+episode=1881 | reward=500 | avg50= 232.9 | max=500 | eps=0.050
+episode=1882 | reward=500 | avg50= 239.8 | max=500 | eps=0.050
+episode=1883 | reward=500 | avg50= 239.8 | max=500 | eps=0.050
+episode=1884 | reward=500 | avg50= 247.3 | max=500 | eps=0.050
+episode=1885 | reward=500 | avg50= 247.3 | max=500 | eps=0.050
+episode=1886 | reward=270 | avg50= 243.6 | max=500 | eps=0.050
+episode=1887 | reward=500 | avg50= 250.8 | max=500 | eps=0.050
+episode=1888 | reward=500 | avg50= 257.9 | max=500 | eps=0.050
+episode=1889 | reward=500 | avg50= 264.6 | max=500 | eps=0.050
+episode=1890 | reward=500 | avg50= 270.1 | max=500 | eps=0.050
+episode=1891 | reward=500 | avg50= 277.2 | max=500 | eps=0.050
+episode=1892 | reward=500 | avg50= 283.7 | max=500 | eps=0.050
+episode=1893 | reward=500 | avg50= 291.2 | max=500 | eps=0.050
+episode=1894 | reward=500 | avg50= 298.7 | max=500 | eps=0.050
+episode=1895 | reward=433 | avg50= 297.4 | max=500 | eps=0.050
+episode=1896 | reward=500 | avg50= 305.5 | max=500 | eps=0.050
+episode=1897 | reward=394 | avg50= 312.5 | max=500 | eps=0.050
+episode=1898 | reward=500 | avg50= 322.1 | max=500 | eps=0.050
+episode=1899 | reward=254 | avg50= 317.2 | max=500 | eps=0.050
+episode=1900 | reward= 38 | avg50= 316.5 | max=500 | eps=0.050
+episode=1901 | reward=134 | avg50= 318.5 | max=500 | eps=0.050
+episode=1902 | reward=121 | avg50= 317.5 | max=500 | eps=0.050
+episode=1903 | reward= 13 | avg50= 316.2 | max=500 | eps=0.050
+episode=1904 | reward= 22 | avg50= 315.9 | max=500 | eps=0.050
+episode=1905 | reward=131 | avg50= 317.3 | max=500 | eps=0.050
+episode=1906 | reward=133 | avg50= 317.7 | max=500 | eps=0.050
+episode=1907 | reward=121 | avg50= 317.7 | max=500 | eps=0.050
+episode=1908 | reward=125 | avg50= 316.4 | max=500 | eps=0.050
+episode=1909 | reward= 30 | avg50= 314.1 | max=500 | eps=0.050
+episode=1910 | reward=118 | avg50= 315.9 | max=500 | eps=0.050
+episode=1911 | reward=107 | avg50= 317.8 | max=500 | eps=0.050
+episode=1912 | reward=122 | avg50= 320.0 | max=500 | eps=0.050
+episode=1913 | reward= 19 | avg50= 315.4 | max=500 | eps=0.050
+episode=1914 | reward= 22 | avg50= 305.8 | max=500 | eps=0.050
+episode=1915 | reward=123 | avg50= 299.3 | max=500 | eps=0.050
+episode=1916 | reward=141 | avg50= 300.5 | max=500 | eps=0.050
+episode=1917 | reward=116 | avg50= 299.3 | max=500 | eps=0.050
+episode=1918 | reward=121 | avg50= 292.5 | max=500 | eps=0.050
+episode=1919 | reward=135 | avg50= 285.2 | max=500 | eps=0.050
+episode=1920 | reward=140 | avg50= 285.0 | max=500 | eps=0.050
+episode=1921 | reward=126 | avg50= 277.5 | max=500 | eps=0.050
+episode=1922 | reward=225 | avg50= 272.0 | max=500 | eps=0.050
+episode=1923 | reward=153 | avg50= 265.0 | max=500 | eps=0.050
+episode=1924 | reward=157 | avg50= 265.8 | max=500 | eps=0.050
+episode=1925 | reward=273 | avg50= 269.8 | max=500 | eps=0.050
+episode=1926 | reward=500 | avg50= 277.1 | max=500 | eps=0.050
+episode=1927 | reward=181 | avg50= 280.0 | max=500 | eps=0.050
+episode=1928 | reward=257 | avg50= 275.1 | max=500 | eps=0.050
+episode=1929 | reward= 21 | avg50= 265.5 | max=500 | eps=0.050
+episode=1930 | reward=500 | avg50= 265.5 | max=500 | eps=0.050
+episode=1931 | reward=500 | avg50= 265.5 | max=500 | eps=0.050
+episode=1932 | reward= 13 | avg50= 255.8 | max=500 | eps=0.050
+episode=1933 | reward=500 | avg50= 255.8 | max=500 | eps=0.050
+episode=1934 | reward= 17 | avg50= 246.1 | max=500 | eps=0.050
+episode=1935 | reward=500 | avg50= 246.1 | max=500 | eps=0.050
+episode=1936 | reward=500 | avg50= 250.7 | max=500 | eps=0.050
+episode=1937 | reward= 55 | avg50= 241.8 | max=500 | eps=0.050
+episode=1938 | reward= 12 | avg50= 232.1 | max=500 | eps=0.050
+episode=1939 | reward= 25 | avg50= 222.6 | max=500 | eps=0.050
+episode=1940 | reward= 55 | avg50= 213.7 | max=500 | eps=0.050
+episode=1941 | reward=173 | avg50= 207.1 | max=500 | eps=0.050
+episode=1942 | reward= 57 | avg50= 198.3 | max=500 | eps=0.050
+episode=1943 | reward=348 | avg50= 195.2 | max=500 | eps=0.050
+episode=1944 | reward= 11 | avg50= 185.4 | max=500 | eps=0.050
+episode=1945 | reward=500 | avg50= 186.8 | max=500 | eps=0.050
+episode=1946 | reward=253 | avg50= 181.8 | max=500 | eps=0.050
+episode=1947 | reward= 16 | avg50= 174.3 | max=500 | eps=0.050
+episode=1948 | reward=203 | avg50= 168.3 | max=500 | eps=0.050
+episode=1949 | reward=115 | avg50= 165.6 | max=500 | eps=0.050
+episode=1950 | reward= 19 | avg50= 165.2 | max=500 | eps=0.050
+episode=1951 | reward= 28 | avg50= 163.1 | max=500 | eps=0.050
+episode=1952 | reward=232 | avg50= 165.3 | max=500 | eps=0.050
+episode=1953 | reward= 36 | avg50= 165.7 | max=500 | eps=0.050
+episode=1954 | reward=478 | avg50= 174.9 | max=500 | eps=0.050
+episode=1955 | reward=277 | avg50= 177.8 | max=500 | eps=0.050
+episode=1956 | reward=190 | avg50= 178.9 | max=500 | eps=0.050
+episode=1957 | reward= 80 | avg50= 178.1 | max=500 | eps=0.050
+episode=1958 | reward= 72 | avg50= 177.0 | max=500 | eps=0.050
+episode=1959 | reward=155 | avg50= 179.5 | max=500 | eps=0.050
+episode=1960 | reward=217 | avg50= 181.5 | max=500 | eps=0.050
+episode=1961 | reward=195 | avg50= 183.3 | max=500 | eps=0.050
+episode=1962 | reward= 57 | avg50= 182.0 | max=500 | eps=0.050
+episode=1963 | reward=246 | avg50= 186.5 | max=500 | eps=0.050
+episode=1964 | reward= 52 | avg50= 187.1 | max=500 | eps=0.050
+episode=1965 | reward=160 | avg50= 187.9 | max=500 | eps=0.050
+episode=1966 | reward= 24 | avg50= 185.5 | max=500 | eps=0.050
+episode=1967 | reward=249 | avg50= 188.2 | max=500 | eps=0.050
+episode=1968 | reward=115 | avg50= 188.1 | max=500 | eps=0.050
+episode=1969 | reward= 28 | avg50= 185.9 | max=500 | eps=0.050
+episode=1970 | reward= 86 | avg50= 184.8 | max=500 | eps=0.050
+episode=1971 | reward= 25 | avg50= 182.8 | max=500 | eps=0.050
+episode=1972 | reward=103 | avg50= 180.4 | max=500 | eps=0.050
+episode=1973 | reward=333 | avg50= 184.0 | max=500 | eps=0.050
+episode=1974 | reward= 16 | avg50= 181.2 | max=500 | eps=0.050
+episode=1975 | reward=206 | avg50= 179.8 | max=500 | eps=0.050
+episode=1976 | reward= 67 | avg50= 171.2 | max=500 | eps=0.050
+episode=1977 | reward=155 | avg50= 170.6 | max=500 | eps=0.050
+episode=1978 | reward=145 | avg50= 168.4 | max=500 | eps=0.050
+episode=1979 | reward= 17 | avg50= 168.3 | max=500 | eps=0.050
+episode=1980 | reward=480 | avg50= 167.9 | max=500 | eps=0.050
+episode=1981 | reward=271 | avg50= 163.3 | max=500 | eps=0.050
+episode=1982 | reward= 60 | avg50= 164.3 | max=500 | eps=0.050
+episode=1983 | reward=158 | avg50= 157.4 | max=500 | eps=0.050
+episode=1984 | reward=269 | avg50= 162.5 | max=500 | eps=0.050
+episode=1985 | reward=500 | avg50= 162.5 | max=500 | eps=0.050
+episode=1986 | reward=265 | avg50= 157.8 | max=500 | eps=0.050
+episode=1987 | reward=326 | avg50= 163.2 | max=500 | eps=0.050
+episode=1988 | reward=149 | avg50= 165.9 | max=500 | eps=0.050
+episode=1989 | reward=184 | avg50= 169.1 | max=500 | eps=0.050
+episode=1990 | reward=311 | avg50= 174.2 | max=500 | eps=0.050
+episode=1991 | reward=500 | avg50= 180.8 | max=500 | eps=0.050
+episode=1992 | reward=303 | avg50= 185.7 | max=500 | eps=0.050
+episode=1993 | reward=189 | avg50= 182.5 | max=500 | eps=0.050
+episode=1994 | reward=176 | avg50= 185.8 | max=500 | eps=0.050
+episode=1995 | reward=133 | avg50= 178.5 | max=500 | eps=0.050
+episode=1996 | reward=107 | avg50= 175.6 | max=500 | eps=0.050
+episode=1997 | reward=134 | avg50= 177.9 | max=500 | eps=0.050
+episode=1998 | reward=162 | avg50= 177.1 | max=500 | eps=0.050
+episode=1999 | reward=103 | avg50= 176.9 | max=500 | eps=0.050
+episode=2000 | reward=108 | avg50= 178.6 | max=500 | eps=0.050
+episode=2001 | reward= 77 | avg50= 179.6 | max=500 | eps=0.050
+episode=2002 | reward=172 | avg50= 178.4 | max=500 | eps=0.050
+episode=2003 | reward=180 | avg50= 181.3 | max=500 | eps=0.050
+episode=2004 | reward= 99 | avg50= 173.7 | max=500 | eps=0.050
+episode=2005 | reward=488 | avg50= 177.9 | max=500 | eps=0.050
+episode=2006 | reward= 64 | avg50= 175.4 | max=500 | eps=0.050
+episode=2007 | reward=130 | avg50= 176.4 | max=500 | eps=0.050
+episode=2008 | reward=109 | avg50= 177.2 | max=500 | eps=0.050
+episode=2009 | reward= 26 | avg50= 174.6 | max=500 | eps=0.050
+episode=2010 | reward= 78 | avg50= 171.8 | max=500 | eps=0.050
+episode=2011 | reward= 22 | avg50= 168.3 | max=500 | eps=0.050
+episode=2012 | reward=148 | avg50= 170.2 | max=500 | eps=0.050
+episode=2013 | reward= 19 | avg50= 165.6 | max=500 | eps=0.050
+episode=2014 | reward=124 | avg50= 167.1 | max=500 | eps=0.050
+episode=2015 | reward= 82 | avg50= 165.5 | max=500 | eps=0.050
+episode=2016 | reward= 60 | avg50= 166.2 | max=500 | eps=0.050
+episode=2017 | reward= 40 | avg50= 162.0 | max=500 | eps=0.050
+episode=2018 | reward= 17 | avg50= 160.1 | max=500 | eps=0.050
+episode=2019 | reward= 55 | avg50= 160.6 | max=500 | eps=0.050
+episode=2020 | reward= 26 | avg50= 159.4 | max=500 | eps=0.050
+episode=2021 | reward= 26 | avg50= 159.4 | max=500 | eps=0.050
+episode=2022 | reward= 29 | avg50= 158.0 | max=500 | eps=0.050
+episode=2023 | reward= 77 | avg50= 152.8 | max=500 | eps=0.050
+episode=2024 | reward= 25 | avg50= 153.0 | max=500 | eps=0.050
+episode=2025 | reward= 65 | avg50= 150.2 | max=500 | eps=0.050
+episode=2026 | reward=112 | avg50= 151.1 | max=500 | eps=0.050
+episode=2027 | reward= 39 | avg50= 148.8 | max=500 | eps=0.050
+episode=2028 | reward= 25 | avg50= 146.4 | max=500 | eps=0.050
+episode=2029 | reward= 61 | avg50= 147.3 | max=500 | eps=0.050
+episode=2030 | reward=149 | avg50= 140.6 | max=500 | eps=0.050
+episode=2031 | reward= 32 | avg50= 135.9 | max=500 | eps=0.050
+episode=2032 | reward= 59 | avg50= 135.8 | max=500 | eps=0.050
+episode=2033 | reward= 70 | avg50= 134.1 | max=500 | eps=0.050
+episode=2034 | reward= 57 | avg50= 129.8 | max=500 | eps=0.050
+episode=2035 | reward= 52 | avg50= 120.9 | max=500 | eps=0.050
+episode=2036 | reward= 68 | avg50= 116.9 | max=500 | eps=0.050
+episode=2037 | reward= 89 | avg50= 112.2 | max=500 | eps=0.050
+episode=2038 | reward= 47 | avg50= 110.2 | max=500 | eps=0.050
+episode=2039 | reward= 22 | avg50= 106.9 | max=500 | eps=0.050
+episode=2040 | reward= 21 | avg50= 101.1 | max=500 | eps=0.050
+episode=2041 | reward= 35 | avg50=  91.8 | max=500 | eps=0.050
+episode=2042 | reward= 64 | avg50=  87.0 | max=500 | eps=0.050
+episode=2043 | reward= 12 | avg50=  83.5 | max=500 | eps=0.050
+episode=2044 | reward= 84 | avg50=  81.7 | max=500 | eps=0.050
+episode=2045 | reward= 73 | avg50=  80.5 | max=500 | eps=0.050
+episode=2046 | reward= 75 | avg50=  79.8 | max=500 | eps=0.050
+episode=2047 | reward= 14 | avg50=  77.4 | max=500 | eps=0.050
+episode=2048 | reward= 63 | avg50=  75.4 | max=500 | eps=0.050
+episode=2049 | reward= 78 | avg50=  74.9 | max=500 | eps=0.050
+episode=2050 | reward= 20 | avg50=  73.2 | max=500 | eps=0.050
+episode=2051 | reward=100 | avg50=  73.6 | max=500 | eps=0.050
+episode=2052 | reward=135 | avg50=  72.9 | max=500 | eps=0.050
+episode=2053 | reward= 89 | avg50=  71.1 | max=500 | eps=0.050
+episode=2054 | reward= 87 | avg50=  70.8 | max=500 | eps=0.050
+episode=2055 | reward= 93 | avg50=  62.9 | max=500 | eps=0.050
+episode=2056 | reward= 40 | avg50=  62.5 | max=500 | eps=0.050
+episode=2057 | reward= 15 | avg50=  60.2 | max=500 | eps=0.050
+episode=2058 | reward= 46 | avg50=  58.9 | max=500 | eps=0.050
+episode=2059 | reward= 21 | avg50=  58.8 | max=500 | eps=0.050
+episode=2060 | reward= 27 | avg50=  57.8 | max=500 | eps=0.050
+episode=2061 | reward= 14 | avg50=  57.6 | max=500 | eps=0.050
+episode=2062 | reward= 95 | avg50=  56.6 | max=500 | eps=0.050
+episode=2063 | reward= 19 | avg50=  56.6 | max=500 | eps=0.050
+episode=2064 | reward= 95 | avg50=  56.0 | max=500 | eps=0.050
+episode=2065 | reward= 95 | avg50=  56.2 | max=500 | eps=0.050
+episode=2066 | reward= 26 | avg50=  55.6 | max=500 | eps=0.050
+episode=2067 | reward= 17 | avg50=  55.1 | max=500 | eps=0.050
+episode=2068 | reward= 95 | avg50=  56.7 | max=500 | eps=0.050
+episode=2069 | reward= 29 | avg50=  56.1 | max=500 | eps=0.050
+episode=2070 | reward= 11 | avg50=  55.8 | max=500 | eps=0.050
+episode=2071 | reward= 92 | avg50=  57.2 | max=500 | eps=0.050
+episode=2072 | reward= 14 | avg50=  56.9 | max=500 | eps=0.050
+episode=2073 | reward= 98 | avg50=  57.3 | max=500 | eps=0.050
+episode=2074 | reward= 55 | avg50=  57.9 | max=500 | eps=0.050
+episode=2075 | reward= 89 | avg50=  58.4 | max=500 | eps=0.050
+episode=2076 | reward= 90 | avg50=  57.9 | max=500 | eps=0.050
+episode=2077 | reward= 78 | avg50=  58.7 | max=500 | eps=0.050
+episode=2078 | reward= 29 | avg50=  58.8 | max=500 | eps=0.050
+episode=2079 | reward= 90 | avg50=  59.4 | max=500 | eps=0.050
+episode=2080 | reward= 33 | avg50=  57.0 | max=500 | eps=0.050
+episode=2081 | reward= 15 | avg50=  56.7 | max=500 | eps=0.050
+episode=2082 | reward= 93 | avg50=  57.4 | max=500 | eps=0.050
+episode=2083 | reward= 84 | avg50=  57.7 | max=500 | eps=0.050
+episode=2084 | reward= 91 | avg50=  58.3 | max=500 | eps=0.050
+episode=2085 | reward= 35 | avg50=  58.0 | max=500 | eps=0.050
+episode=2086 | reward= 89 | avg50=  58.4 | max=500 | eps=0.050
+episode=2087 | reward= 89 | avg50=  58.4 | max=500 | eps=0.050
+episode=2088 | reward= 90 | avg50=  59.3 | max=500 | eps=0.050
+episode=2089 | reward= 91 | avg50=  60.7 | max=500 | eps=0.050
+episode=2090 | reward= 90 | avg50=  62.0 | max=500 | eps=0.050
+episode=2091 | reward= 91 | avg50=  63.2 | max=500 | eps=0.050
+episode=2092 | reward= 31 | avg50=  62.5 | max=500 | eps=0.050
+episode=2093 | reward= 97 | avg50=  64.2 | max=500 | eps=0.050
+episode=2094 | reward= 48 | avg50=  63.5 | max=500 | eps=0.050
+episode=2095 | reward= 33 | avg50=  62.7 | max=500 | eps=0.050
+episode=2096 | reward= 95 | avg50=  63.1 | max=500 | eps=0.050
+episode=2097 | reward= 89 | avg50=  64.6 | max=500 | eps=0.050
+episode=2098 | reward= 94 | avg50=  65.2 | max=500 | eps=0.050
+episode=2099 | reward= 88 | avg50=  65.4 | max=500 | eps=0.050
+episode=2100 | reward= 30 | avg50=  65.6 | max=500 | eps=0.050
+episode=2101 | reward= 91 | avg50=  65.4 | max=500 | eps=0.050
+episode=2102 | reward= 94 | avg50=  64.6 | max=500 | eps=0.050
+episode=2103 | reward= 10 | avg50=  63.0 | max=500 | eps=0.050
+episode=2104 | reward= 97 | avg50=  63.2 | max=500 | eps=0.050
+episode=2105 | reward= 11 | avg50=  61.6 | max=500 | eps=0.050
+episode=2106 | reward=107 | avg50=  62.9 | max=500 | eps=0.050
+episode=2107 | reward= 95 | avg50=  64.5 | max=500 | eps=0.050
+episode=2108 | reward= 94 | avg50=  65.5 | max=500 | eps=0.050
+episode=2109 | reward= 88 | avg50=  66.8 | max=500 | eps=0.050
+episode=2110 | reward= 93 | avg50=  68.1 | max=500 | eps=0.050
+episode=2111 | reward= 99 | avg50=  69.8 | max=500 | eps=0.050
+episode=2112 | reward= 93 | avg50=  69.8 | max=500 | eps=0.050
+episode=2113 | reward= 23 | avg50=  69.9 | max=500 | eps=0.050
+episode=2114 | reward= 92 | avg50=  69.8 | max=500 | eps=0.050
+episode=2115 | reward= 91 | avg50=  69.7 | max=500 | eps=0.050
+episode=2116 | reward=105 | avg50=  71.3 | max=500 | eps=0.050
+episode=2117 | reward= 16 | avg50=  71.3 | max=500 | eps=0.050
+episode=2118 | reward= 95 | avg50=  71.3 | max=500 | eps=0.050
+episode=2119 | reward= 92 | avg50=  72.6 | max=500 | eps=0.050
+episode=2120 | reward= 93 | avg50=  74.2 | max=500 | eps=0.050
+episode=2121 | reward= 96 | avg50=  74.3 | max=500 | eps=0.050
+episode=2122 | reward= 94 | avg50=  75.9 | max=500 | eps=0.050
+episode=2123 | reward= 99 | avg50=  75.9 | max=500 | eps=0.050
+episode=2124 | reward= 96 | avg50=  76.7 | max=500 | eps=0.050
+episode=2125 | reward= 77 | avg50=  76.5 | max=500 | eps=0.050
+episode=2126 | reward= 94 | avg50=  76.6 | max=500 | eps=0.050
+episode=2127 | reward= 22 | avg50=  75.4 | max=500 | eps=0.050
+episode=2128 | reward= 93 | avg50=  76.7 | max=500 | eps=0.050
+episode=2129 | reward= 92 | avg50=  76.8 | max=500 | eps=0.050
+episode=2130 | reward= 16 | avg50=  76.4 | max=500 | eps=0.050
+episode=2131 | reward= 88 | avg50=  77.9 | max=500 | eps=0.050
+episode=2132 | reward=107 | avg50=  78.2 | max=500 | eps=0.050
+episode=2133 | reward= 22 | avg50=  76.9 | max=500 | eps=0.050
+episode=2134 | reward= 12 | avg50=  75.3 | max=500 | eps=0.050
+episode=2135 | reward= 92 | avg50=  76.5 | max=500 | eps=0.050
+episode=2136 | reward= 28 | avg50=  75.3 | max=500 | eps=0.050
+episode=2137 | reward=104 | avg50=  75.6 | max=500 | eps=0.050
+episode=2138 | reward= 96 | avg50=  75.7 | max=500 | eps=0.050
+episode=2139 | reward= 94 | avg50=  75.7 | max=500 | eps=0.050
+episode=2140 | reward= 19 | avg50=  74.3 | max=500 | eps=0.050
+episode=2141 | reward=100 | avg50=  74.5 | max=500 | eps=0.050
+episode=2142 | reward= 11 | avg50=  74.1 | max=500 | eps=0.050
+episode=2143 | reward= 95 | avg50=  74.1 | max=500 | eps=0.050
+episode=2144 | reward=101 | avg50=  75.1 | max=500 | eps=0.050
+episode=2145 | reward=120 | avg50=  76.9 | max=500 | eps=0.050
+episode=2146 | reward=115 | avg50=  77.3 | max=500 | eps=0.050
+episode=2147 | reward=102 | avg50=  77.5 | max=500 | eps=0.050
+episode=2148 | reward=104 | avg50=  77.7 | max=500 | eps=0.050
+episode=2149 | reward=103 | avg50=  78.0 | max=500 | eps=0.050
+episode=2150 | reward= 99 | avg50=  79.4 | max=500 | eps=0.050
+episode=2151 | reward=105 | avg50=  79.7 | max=500 | eps=0.050
+episode=2152 | reward=114 | avg50=  80.1 | max=500 | eps=0.050
+episode=2153 | reward=143 | avg50=  82.7 | max=500 | eps=0.050
+episode=2154 | reward= 15 | avg50=  81.1 | max=500 | eps=0.050
+episode=2155 | reward=158 | avg50=  84.0 | max=500 | eps=0.050
+episode=2156 | reward= 82 | avg50=  83.5 | max=500 | eps=0.050
+episode=2157 | reward=128 | avg50=  84.2 | max=500 | eps=0.050
+episode=2158 | reward=320 | avg50=  88.7 | max=500 | eps=0.050
+episode=2159 | reward=131 | avg50=  89.6 | max=500 | eps=0.050
+episode=2160 | reward=167 | avg50=  91.1 | max=500 | eps=0.050
+episode=2161 | reward=151 | avg50=  92.1 | max=500 | eps=0.050
+episode=2162 | reward=177 | avg50=  93.8 | max=500 | eps=0.050
+episode=2163 | reward=162 | avg50=  96.6 | max=500 | eps=0.050
+episode=2164 | reward=146 | avg50=  97.6 | max=500 | eps=0.050
+episode=2165 | reward= 11 | avg50=  96.0 | max=500 | eps=0.050
+episode=2166 | reward=145 | avg50=  96.8 | max=500 | eps=0.050
+episode=2167 | reward= 21 | avg50=  96.9 | max=500 | eps=0.050
+episode=2168 | reward=156 | avg50=  98.2 | max=500 | eps=0.050
+episode=2169 | reward= 24 | avg50=  96.8 | max=500 | eps=0.050
+episode=2170 | reward=219 | avg50=  99.3 | max=500 | eps=0.050
+episode=2171 | reward=158 | avg50= 100.6 | max=500 | eps=0.050
+episode=2172 | reward=171 | avg50= 102.1 | max=500 | eps=0.050
+episode=2173 | reward= 14 | avg50= 100.4 | max=500 | eps=0.050
+episode=2174 | reward=162 | avg50= 101.7 | max=500 | eps=0.050
+episode=2175 | reward=180 | avg50= 103.8 | max=500 | eps=0.050
+episode=2176 | reward=204 | avg50= 106.0 | max=500 | eps=0.050
+episode=2177 | reward=177 | avg50= 109.1 | max=500 | eps=0.050
+episode=2178 | reward=219 | avg50= 111.6 | max=500 | eps=0.050
+episode=2179 | reward=171 | avg50= 113.2 | max=500 | eps=0.050
+episode=2180 | reward=188 | avg50= 116.6 | max=500 | eps=0.050
+episode=2181 | reward=164 | avg50= 118.1 | max=500 | eps=0.050
+episode=2182 | reward=203 | avg50= 120.1 | max=500 | eps=0.050
+episode=2183 | reward=186 | avg50= 123.3 | max=500 | eps=0.050
+episode=2184 | reward=189 | avg50= 126.9 | max=500 | eps=0.050
+episode=2185 | reward=175 | avg50= 128.5 | max=500 | eps=0.050
+episode=2186 | reward=183 | avg50= 131.6 | max=500 | eps=0.050
+episode=2187 | reward=194 | avg50= 133.4 | max=500 | eps=0.050
+episode=2188 | reward=171 | avg50= 134.9 | max=500 | eps=0.050
+episode=2189 | reward=195 | avg50= 137.0 | max=500 | eps=0.050
+episode=2190 | reward=183 | avg50= 140.2 | max=500 | eps=0.050
+episode=2191 | reward=207 | avg50= 142.4 | max=500 | eps=0.050
+episode=2192 | reward=185 | avg50= 145.9 | max=500 | eps=0.050
+episode=2193 | reward= 16 | avg50= 144.3 | max=500 | eps=0.050
+episode=2194 | reward=195 | avg50= 146.2 | max=500 | eps=0.050
+episode=2195 | reward=220 | avg50= 148.2 | max=500 | eps=0.050
+episode=2196 | reward=192 | avg50= 149.7 | max=500 | eps=0.050
+episode=2197 | reward=170 | avg50= 151.1 | max=500 | eps=0.050
+episode=2198 | reward=245 | avg50= 153.9 | max=500 | eps=0.050
+episode=2199 | reward=195 | avg50= 155.7 | max=500 | eps=0.050
+episode=2200 | reward=218 | avg50= 158.1 | max=500 | eps=0.050
+episode=2201 | reward=205 | avg50= 160.1 | max=500 | eps=0.050
+episode=2202 | reward=225 | avg50= 162.3 | max=500 | eps=0.050
+episode=2203 | reward= 12 | avg50= 159.7 | max=500 | eps=0.050
+episode=2204 | reward=200 | avg50= 163.4 | max=500 | eps=0.050
+episode=2205 | reward=184 | avg50= 163.9 | max=500 | eps=0.050
+episode=2206 | reward= 16 | avg50= 162.6 | max=500 | eps=0.050
+episode=2207 | reward=302 | avg50= 166.1 | max=500 | eps=0.050
+episode=2208 | reward=235 | avg50= 164.4 | max=500 | eps=0.050
+episode=2209 | reward= 24 | avg50= 162.2 | max=500 | eps=0.050
+episode=2210 | reward= 26 | avg50= 159.4 | max=500 | eps=0.050
+episode=2211 | reward=201 | avg50= 160.4 | max=500 | eps=0.050
+episode=2212 | reward=194 | avg50= 160.8 | max=500 | eps=0.050
+episode=2213 | reward=187 | avg50= 161.3 | max=500 | eps=0.050
+episode=2214 | reward=259 | avg50= 163.5 | max=500 | eps=0.050
+episode=2215 | reward=388 | avg50= 171.1 | max=500 | eps=0.050
+episode=2216 | reward=223 | avg50= 172.6 | max=500 | eps=0.050
+episode=2217 | reward=203 | avg50= 176.3 | max=500 | eps=0.050
+episode=2218 | reward=219 | avg50= 177.5 | max=500 | eps=0.050
+episode=2219 | reward=204 | avg50= 181.1 | max=500 | eps=0.050
+episode=2220 | reward=213 | avg50= 181.0 | max=500 | eps=0.050
+episode=2221 | reward=269 | avg50= 183.2 | max=500 | eps=0.050
+episode=2222 | reward=207 | avg50= 183.9 | max=500 | eps=0.050
+episode=2223 | reward=181 | avg50= 187.3 | max=500 | eps=0.050
+episode=2224 | reward=143 | avg50= 186.9 | max=500 | eps=0.050
+episode=2225 | reward=250 | avg50= 188.3 | max=500 | eps=0.050
+episode=2226 | reward=161 | avg50= 187.4 | max=500 | eps=0.050
+episode=2227 | reward=173 | avg50= 187.4 | max=500 | eps=0.050
+episode=2228 | reward=180 | avg50= 186.6 | max=500 | eps=0.050
+episode=2229 | reward=386 | avg50= 190.9 | max=500 | eps=0.050
+episode=2230 | reward= 12 | avg50= 187.4 | max=500 | eps=0.050
+episode=2231 | reward=242 | avg50= 188.9 | max=500 | eps=0.050
+episode=2232 | reward=159 | avg50= 188.0 | max=500 | eps=0.050
+episode=2233 | reward=153 | avg50= 187.4 | max=500 | eps=0.050
+episode=2234 | reward= 20 | avg50= 184.0 | max=500 | eps=0.050
+episode=2235 | reward=164 | avg50= 183.8 | max=500 | eps=0.050
+episode=2236 | reward= 18 | avg50= 180.5 | max=500 | eps=0.050
+episode=2237 | reward= 22 | avg50= 177.0 | max=500 | eps=0.050
+episode=2238 | reward=145 | avg50= 176.5 | max=500 | eps=0.050
+episode=2239 | reward= 16 | avg50= 172.9 | max=500 | eps=0.050
+episode=2240 | reward=253 | avg50= 174.3 | max=500 | eps=0.050
+episode=2241 | reward=161 | avg50= 173.4 | max=500 | eps=0.050
+episode=2242 | reward=153 | avg50= 172.8 | max=500 | eps=0.050
+episode=2243 | reward=163 | avg50= 175.7 | max=500 | eps=0.050
+episode=2244 | reward=150 | avg50= 174.8 | max=500 | eps=0.050
+episode=2245 | reward= 24 | avg50= 170.9 | max=500 | eps=0.050
+episode=2246 | reward=159 | avg50= 170.2 | max=500 | eps=0.050
+episode=2247 | reward=140 | avg50= 169.6 | max=500 | eps=0.050
+episode=2248 | reward=130 | avg50= 167.3 | max=500 | eps=0.050
+episode=2249 | reward=141 | avg50= 166.3 | max=500 | eps=0.050
+episode=2250 | reward=149 | avg50= 164.9 | max=500 | eps=0.050
+episode=2251 | reward=118 | avg50= 163.1 | max=500 | eps=0.050
+episode=2252 | reward= 19 | avg50= 159.0 | max=500 | eps=0.050
+episode=2253 | reward= 18 | avg50= 159.1 | max=500 | eps=0.050
+episode=2254 | reward=116 | avg50= 157.5 | max=500 | eps=0.050
+episode=2255 | reward=122 | avg50= 156.2 | max=500 | eps=0.050
+episode=2256 | reward=121 | avg50= 158.3 | max=500 | eps=0.050
+episode=2257 | reward= 13 | avg50= 152.5 | max=500 | eps=0.050
+episode=2258 | reward=129 | avg50= 150.4 | max=500 | eps=0.050
+episode=2259 | reward=115 | avg50= 152.2 | max=500 | eps=0.050
+episode=2260 | reward= 16 | avg50= 152.0 | max=500 | eps=0.050
+episode=2261 | reward=113 | avg50= 150.3 | max=500 | eps=0.050
+episode=2262 | reward=111 | avg50= 148.6 | max=500 | eps=0.050
+episode=2263 | reward= 11 | avg50= 145.1 | max=500 | eps=0.050
+episode=2264 | reward=115 | avg50= 142.2 | max=500 | eps=0.050
+episode=2265 | reward= 12 | avg50= 134.7 | max=500 | eps=0.050
+episode=2266 | reward=113 | avg50= 132.5 | max=500 | eps=0.050
+episode=2267 | reward= 29 | avg50= 129.0 | max=500 | eps=0.050
+episode=2268 | reward= 23 | avg50= 125.1 | max=500 | eps=0.050
+episode=2269 | reward= 35 | avg50= 121.7 | max=500 | eps=0.050
+episode=2270 | reward= 36 | avg50= 118.2 | max=500 | eps=0.050
+episode=2271 | reward=110 | avg50= 115.0 | max=500 | eps=0.050
+episode=2272 | reward=117 | avg50= 113.2 | max=500 | eps=0.050
+episode=2273 | reward= 13 | avg50= 109.8 | max=500 | eps=0.050
+episode=2274 | reward= 14 | avg50= 107.3 | max=500 | eps=0.050
+episode=2275 | reward= 32 | avg50= 102.9 | max=500 | eps=0.050
+episode=2276 | reward=113 | avg50= 101.9 | max=500 | eps=0.050
+episode=2277 | reward=114 | avg50= 100.8 | max=500 | eps=0.050
+episode=2278 | reward=114 | avg50=  99.4 | max=500 | eps=0.050
+episode=2279 | reward=129 | avg50=  94.3 | max=500 | eps=0.050
+episode=2280 | reward=121 | avg50=  96.5 | max=500 | eps=0.050
+episode=2281 | reward=121 | avg50=  94.1 | max=500 | eps=0.050
+episode=2282 | reward=122 | avg50=  93.3 | max=500 | eps=0.050
+episode=2283 | reward=118 | avg50=  92.6 | max=500 | eps=0.050
+episode=2284 | reward= 42 | avg50=  93.1 | max=500 | eps=0.050
+episode=2285 | reward=122 | avg50=  92.2 | max=500 | eps=0.050
+episode=2286 | reward=127 | avg50=  94.4 | max=500 | eps=0.050
+episode=2287 | reward=119 | avg50=  96.3 | max=500 | eps=0.050
+episode=2288 | reward=122 | avg50=  95.9 | max=500 | eps=0.050
+episode=2289 | reward=113 | avg50=  97.8 | max=500 | eps=0.050
+episode=2290 | reward=117 | avg50=  95.1 | max=500 | eps=0.050
+episode=2291 | reward=114 | avg50=  94.2 | max=500 | eps=0.050
+episode=2292 | reward=116 | avg50=  93.4 | max=500 | eps=0.050
+episode=2293 | reward= 11 | avg50=  90.4 | max=500 | eps=0.050
+episode=2294 | reward= 16 | avg50=  87.7 | max=500 | eps=0.050
+episode=2295 | reward= 16 | avg50=  87.5 | max=500 | eps=0.050
+episode=2296 | reward=117 | avg50=  86.7 | max=500 | eps=0.050
+episode=2297 | reward=116 | avg50=  86.2 | max=500 | eps=0.050
+episode=2298 | reward=118 | avg50=  86.0 | max=500 | eps=0.050
+episode=2299 | reward= 20 | avg50=  83.6 | max=500 | eps=0.050
+episode=2300 | reward= 18 | avg50=  80.9 | max=500 | eps=0.050
+episode=2301 | reward=113 | avg50=  80.8 | max=500 | eps=0.050
+episode=2302 | reward= 26 | avg50=  81.0 | max=500 | eps=0.050
+episode=2303 | reward=121 | avg50=  83.0 | max=500 | eps=0.050
+episode=2304 | reward=115 | avg50=  83.0 | max=500 | eps=0.050
+episode=2305 | reward=120 | avg50=  83.0 | max=500 | eps=0.050
+episode=2306 | reward=120 | avg50=  83.0 | max=500 | eps=0.050
+episode=2307 | reward=115 | avg50=  85.0 | max=500 | eps=0.050
+episode=2308 | reward=122 | avg50=  84.9 | max=500 | eps=0.050
+episode=2309 | reward=113 | avg50=  84.8 | max=500 | eps=0.050
+episode=2310 | reward=117 | avg50=  86.8 | max=500 | eps=0.050
+episode=2311 | reward=121 | avg50=  87.0 | max=500 | eps=0.050
+episode=2312 | reward= 13 | avg50=  85.0 | max=500 | eps=0.050
+episode=2313 | reward=116 | avg50=  87.1 | max=500 | eps=0.050
+episode=2314 | reward= 10 | avg50=  85.0 | max=500 | eps=0.050
+episode=2315 | reward= 12 | avg50=  85.0 | max=500 | eps=0.050
+episode=2316 | reward=117 | avg50=  85.1 | max=500 | eps=0.050
+episode=2317 | reward= 12 | avg50=  84.8 | max=500 | eps=0.050
+episode=2318 | reward= 17 | avg50=  84.7 | max=500 | eps=0.050
+episode=2319 | reward=114 | avg50=  86.2 | max=500 | eps=0.050
+episode=2320 | reward=119 | avg50=  87.9 | max=500 | eps=0.050
+episode=2321 | reward=116 | avg50=  88.0 | max=500 | eps=0.050
+episode=2322 | reward=117 | avg50=  88.0 | max=500 | eps=0.050
+episode=2323 | reward=119 | avg50=  90.1 | max=500 | eps=0.050
+episode=2324 | reward=117 | avg50=  92.2 | max=500 | eps=0.050
+episode=2325 | reward=118 | avg50=  93.9 | max=500 | eps=0.050
+episode=2326 | reward=115 | avg50=  94.0 | max=500 | eps=0.050
+episode=2327 | reward= 19 | avg50=  92.1 | max=500 | eps=0.050
+episode=2328 | reward= 11 | avg50=  90.0 | max=500 | eps=0.050
+episode=2329 | reward= 16 | avg50=  87.7 | max=500 | eps=0.050
+episode=2330 | reward=116 | avg50=  87.6 | max=500 | eps=0.050
+episode=2331 | reward=117 | avg50=  87.6 | max=500 | eps=0.050
+episode=2332 | reward=116 | avg50=  87.4 | max=500 | eps=0.050
+episode=2333 | reward=115 | avg50=  87.4 | max=500 | eps=0.050
+episode=2334 | reward=116 | avg50=  88.9 | max=500 | eps=0.050
+episode=2335 | reward=114 | avg50=  88.7 | max=500 | eps=0.050
+episode=2336 | reward=121 | avg50=  88.6 | max=500 | eps=0.050
+episode=2337 | reward=118 | avg50=  88.6 | max=500 | eps=0.050
+episode=2338 | reward=111 | avg50=  88.3 | max=500 | eps=0.050
+episode=2339 | reward=114 | avg50=  88.4 | max=500 | eps=0.050
+episode=2340 | reward=117 | avg50=  88.4 | max=500 | eps=0.050
+episode=2341 | reward=112 | avg50=  88.3 | max=500 | eps=0.050
+episode=2342 | reward=113 | avg50=  88.3 | max=500 | eps=0.050
+episode=2343 | reward=110 | avg50=  90.2 | max=500 | eps=0.050
+episode=2344 | reward= 35 | avg50=  90.6 | max=500 | eps=0.050
+episode=2345 | reward=103 | avg50=  92.4 | max=500 | eps=0.050
+episode=2346 | reward=111 | avg50=  92.2 | max=500 | eps=0.050
+episode=2347 | reward=114 | avg50=  92.2 | max=500 | eps=0.050
+episode=2348 | reward=112 | avg50=  92.1 | max=500 | eps=0.050
+episode=2349 | reward=108 | avg50=  93.8 | max=500 | eps=0.050
+episode=2350 | reward=107 | avg50=  95.6 | max=500 | eps=0.050
+episode=2351 | reward=113 | avg50=  95.6 | max=500 | eps=0.050
+episode=2352 | reward=113 | avg50=  97.4 | max=500 | eps=0.050
+episode=2353 | reward=112 | avg50=  97.2 | max=500 | eps=0.050
+episode=2354 | reward=109 | avg50=  97.1 | max=500 | eps=0.050
+episode=2355 | reward= 13 | avg50=  94.9 | max=500 | eps=0.050
+episode=2356 | reward= 41 | avg50=  93.3 | max=500 | eps=0.050
+episode=2357 | reward=107 | avg50=  93.2 | max=500 | eps=0.050
+episode=2358 | reward=105 | avg50=  92.8 | max=500 | eps=0.050
+episode=2359 | reward=104 | avg50=  92.7 | max=500 | eps=0.050
+episode=2360 | reward= 33 | avg50=  91.0 | max=500 | eps=0.050
+episode=2361 | reward=111 | avg50=  90.8 | max=500 | eps=0.050
+episode=2362 | reward=111 | avg50=  92.7 | max=500 | eps=0.050
+episode=2363 | reward=128 | avg50=  93.0 | max=500 | eps=0.050
+episode=2364 | reward=120 | avg50=  95.2 | max=500 | eps=0.050
+episode=2365 | reward=125 | avg50=  97.4 | max=500 | eps=0.050
+episode=2366 | reward=123 | avg50=  97.6 | max=500 | eps=0.050
+episode=2367 | reward=113 | avg50=  99.6 | max=500 | eps=0.050
+episode=2368 | reward= 44 | avg50= 100.1 | max=500 | eps=0.050
+episode=2369 | reward= 23 | avg50=  98.3 | max=500 | eps=0.050
+episode=2370 | reward=117 | avg50=  98.3 | max=500 | eps=0.050
+episode=2371 | reward=119 | avg50=  98.3 | max=500 | eps=0.050
+episode=2372 | reward=121 | avg50=  98.4 | max=500 | eps=0.050
+episode=2373 | reward=159 | avg50=  99.2 | max=500 | eps=0.050
+episode=2374 | reward=146 | avg50=  99.8 | max=500 | eps=0.050
+episode=2375 | reward=147 | avg50= 100.4 | max=500 | eps=0.050
+episode=2376 | reward=153 | avg50= 101.1 | max=500 | eps=0.050
+episode=2377 | reward= 21 | avg50= 101.2 | max=500 | eps=0.050
+episode=2378 | reward=136 | avg50= 103.7 | max=500 | eps=0.050
+episode=2379 | reward=180 | avg50= 106.9 | max=500 | eps=0.050
+episode=2380 | reward=151 | avg50= 107.6 | max=500 | eps=0.050
+episode=2381 | reward=125 | avg50= 107.8 | max=500 | eps=0.050
+episode=2382 | reward=124 | avg50= 108.0 | max=500 | eps=0.050
+episode=2383 | reward=130 | avg50= 108.3 | max=500 | eps=0.050
+episode=2384 | reward= 27 | avg50= 106.5 | max=500 | eps=0.050
+episode=2385 | reward=116 | avg50= 106.5 | max=500 | eps=0.050
+episode=2386 | reward=113 | avg50= 106.4 | max=500 | eps=0.050
+episode=2387 | reward=129 | avg50= 106.6 | max=500 | eps=0.050
+episode=2388 | reward=122 | avg50= 106.8 | max=500 | eps=0.050
+episode=2389 | reward=108 | avg50= 106.7 | max=500 | eps=0.050
+episode=2390 | reward=123 | avg50= 106.8 | max=500 | eps=0.050
+episode=2391 | reward=118 | avg50= 106.9 | max=500 | eps=0.050
+episode=2392 | reward=119 | avg50= 107.0 | max=500 | eps=0.050
+episode=2393 | reward=122 | avg50= 107.3 | max=500 | eps=0.050
+episode=2394 | reward=124 | avg50= 109.1 | max=500 | eps=0.050
+episode=2395 | reward=117 | avg50= 109.3 | max=500 | eps=0.050
+episode=2396 | reward= 25 | avg50= 107.6 | max=500 | eps=0.050
+episode=2397 | reward=125 | avg50= 107.8 | max=500 | eps=0.050
+episode=2398 | reward=105 | avg50= 107.7 | max=500 | eps=0.050
+episode=2399 | reward= 30 | avg50= 106.1 | max=500 | eps=0.050
+episode=2400 | reward=103 | avg50= 106.1 | max=500 | eps=0.050
+episode=2401 | reward=105 | avg50= 105.9 | max=500 | eps=0.050
+episode=2402 | reward= 95 | avg50= 105.5 | max=500 | eps=0.050
+episode=2403 | reward= 92 | avg50= 105.1 | max=500 | eps=0.050
+episode=2404 | reward= 89 | avg50= 104.7 | max=500 | eps=0.050
+episode=2405 | reward= 99 | avg50= 106.5 | max=500 | eps=0.050
+episode=2406 | reward= 99 | avg50= 107.6 | max=500 | eps=0.050
+episode=2407 | reward= 87 | avg50= 107.2 | max=500 | eps=0.050
+episode=2408 | reward= 20 | avg50= 105.5 | max=500 | eps=0.050
+episode=2409 | reward= 25 | avg50= 103.9 | max=500 | eps=0.050
+episode=2410 | reward= 87 | avg50= 105.0 | max=500 | eps=0.050
+episode=2411 | reward= 94 | avg50= 104.7 | max=500 | eps=0.050
+episode=2412 | reward=102 | avg50= 104.5 | max=500 | eps=0.050
+episode=2413 | reward=109 | avg50= 104.1 | max=500 | eps=0.050
+episode=2414 | reward= 91 | avg50= 103.5 | max=500 | eps=0.050
+episode=2415 | reward=105 | avg50= 103.1 | max=500 | eps=0.050
+episode=2416 | reward= 94 | avg50= 102.6 | max=500 | eps=0.050
+episode=2417 | reward= 97 | avg50= 102.2 | max=500 | eps=0.050
+episode=2418 | reward= 99 | avg50= 103.3 | max=500 | eps=0.050
+episode=2419 | reward= 34 | avg50= 103.6 | max=500 | eps=0.050
+episode=2420 | reward=103 | avg50= 103.3 | max=500 | eps=0.050
+episode=2421 | reward= 98 | avg50= 102.9 | max=500 | eps=0.050
+episode=2422 | reward= 24 | avg50= 100.9 | max=500 | eps=0.050
+episode=2423 | reward=103 | avg50=  99.8 | max=500 | eps=0.050
+episode=2424 | reward= 19 | avg50=  97.3 | max=500 | eps=0.050
+episode=2425 | reward= 95 | avg50=  96.2 | max=500 | eps=0.050
+episode=2426 | reward= 97 | avg50=  95.1 | max=500 | eps=0.050
+episode=2427 | reward=102 | avg50=  96.7 | max=500 | eps=0.050
+episode=2428 | reward= 97 | avg50=  95.9 | max=500 | eps=0.050
+episode=2429 | reward=110 | avg50=  94.5 | max=500 | eps=0.050
+episode=2430 | reward= 25 | avg50=  92.0 | max=500 | eps=0.050
+episode=2431 | reward=108 | avg50=  91.7 | max=500 | eps=0.050
+episode=2432 | reward= 20 | avg50=  89.6 | max=500 | eps=0.050
+episode=2433 | reward=102 | avg50=  89.0 | max=500 | eps=0.050
+episode=2434 | reward= 97 | avg50=  90.4 | max=500 | eps=0.050
+episode=2435 | reward= 91 | avg50=  89.9 | max=500 | eps=0.050
+episode=2436 | reward= 93 | avg50=  89.5 | max=500 | eps=0.050
+episode=2437 | reward= 11 | avg50=  87.2 | max=500 | eps=0.050
+episode=2438 | reward= 95 | avg50=  86.6 | max=500 | eps=0.050
+episode=2439 | reward= 89 | avg50=  86.3 | max=500 | eps=0.050
+episode=2440 | reward= 19 | avg50=  84.2 | max=500 | eps=0.050
+episode=2441 | reward= 92 | avg50=  83.7 | max=500 | eps=0.050
+episode=2442 | reward= 93 | avg50=  83.1 | max=500 | eps=0.050
+episode=2443 | reward=104 | avg50=  82.8 | max=500 | eps=0.050
+episode=2444 | reward= 10 | avg50=  80.5 | max=500 | eps=0.050
+episode=2445 | reward=100 | avg50=  80.2 | max=500 | eps=0.050
+episode=2446 | reward= 14 | avg50=  79.9 | max=500 | eps=0.050
+episode=2447 | reward= 96 | avg50=  79.4 | max=500 | eps=0.050
+episode=2448 | reward= 23 | avg50=  77.7 | max=500 | eps=0.050
+episode=2449 | reward= 21 | avg50=  77.5 | max=500 | eps=0.050
+episode=2450 | reward= 93 | avg50=  77.3 | max=500 | eps=0.050
+episode=2451 | reward= 91 | avg50=  77.1 | max=500 | eps=0.050
+episode=2452 | reward= 95 | avg50=  77.1 | max=500 | eps=0.050
+episode=2453 | reward= 21 | avg50=  75.6 | max=500 | eps=0.050
+episode=2454 | reward= 14 | avg50=  74.1 | max=500 | eps=0.050
+episode=2455 | reward= 93 | avg50=  74.0 | max=500 | eps=0.050
+episode=2456 | reward= 90 | avg50=  73.8 | max=500 | eps=0.050
+episode=2457 | reward= 93 | avg50=  74.0 | max=500 | eps=0.050
+episode=2458 | reward= 97 | avg50=  75.5 | max=500 | eps=0.050
+episode=2459 | reward= 94 | avg50=  76.9 | max=500 | eps=0.050
+episode=2460 | reward= 96 | avg50=  77.1 | max=500 | eps=0.050
+episode=2461 | reward= 97 | avg50=  77.1 | max=500 | eps=0.050
+episode=2462 | reward= 14 | avg50=  75.4 | max=500 | eps=0.050
+episode=2463 | reward= 90 | avg50=  75.0 | max=500 | eps=0.050
+episode=2464 | reward= 91 | avg50=  75.0 | max=500 | eps=0.050
+episode=2465 | reward=  9 | avg50=  73.1 | max=500 | eps=0.050
+episode=2466 | reward= 91 | avg50=  73.0 | max=500 | eps=0.050
+episode=2467 | reward= 92 | avg50=  72.9 | max=500 | eps=0.050
+episode=2468 | reward= 93 | avg50=  72.8 | max=500 | eps=0.050
+episode=2469 | reward= 93 | avg50=  74.0 | max=500 | eps=0.050
+episode=2470 | reward= 12 | avg50=  72.1 | max=500 | eps=0.050
+episode=2471 | reward= 34 | avg50=  70.9 | max=500 | eps=0.050
+episode=2472 | reward= 87 | avg50=  72.1 | max=500 | eps=0.050
+episode=2473 | reward= 88 | avg50=  71.8 | max=500 | eps=0.050
+episode=2474 | reward= 28 | avg50=  72.0 | max=500 | eps=0.050
+episode=2475 | reward= 91 | avg50=  71.9 | max=500 | eps=0.050
+episode=2476 | reward= 18 | avg50=  70.3 | max=500 | eps=0.050
+episode=2477 | reward= 98 | avg50=  70.3 | max=500 | eps=0.050
+episode=2478 | reward= 13 | avg50=  68.6 | max=500 | eps=0.050
+episode=2479 | reward= 90 | avg50=  68.2 | max=500 | eps=0.050
+episode=2480 | reward= 37 | avg50=  68.4 | max=500 | eps=0.050
+episode=2481 | reward= 95 | avg50=  68.2 | max=500 | eps=0.050
+episode=2482 | reward= 94 | avg50=  69.6 | max=500 | eps=0.050
+episode=2483 | reward=109 | avg50=  69.8 | max=500 | eps=0.050
+episode=2484 | reward= 95 | avg50=  69.7 | max=500 | eps=0.050
+episode=2485 | reward= 29 | avg50=  68.5 | max=500 | eps=0.050
+episode=2486 | reward= 28 | avg50=  67.2 | max=500 | eps=0.050
+episode=2487 | reward= 90 | avg50=  68.8 | max=500 | eps=0.050
+episode=2488 | reward= 95 | avg50=  68.8 | max=500 | eps=0.050
+episode=2489 | reward= 93 | avg50=  68.9 | max=500 | eps=0.050
+episode=2490 | reward= 19 | avg50=  68.9 | max=500 | eps=0.050
+episode=2491 | reward= 16 | avg50=  67.3 | max=500 | eps=0.050
+episode=2492 | reward= 98 | avg50=  67.4 | max=500 | eps=0.050
+episode=2493 | reward= 89 | avg50=  67.1 | max=500 | eps=0.050
+episode=2494 | reward= 90 | avg50=  68.7 | max=500 | eps=0.050
+episode=2495 | reward= 98 | avg50=  68.7 | max=500 | eps=0.050
+episode=2496 | reward= 28 | avg50=  69.0 | max=500 | eps=0.050
+episode=2497 | reward=106 | avg50=  69.2 | max=500 | eps=0.050
+episode=2498 | reward= 91 | avg50=  70.5 | max=500 | eps=0.050
+episode=2499 | reward= 23 | avg50=  70.6 | max=500 | eps=0.050
+episode=2500 | reward= 32 | avg50=  69.4 | max=500 | eps=0.050
+Training time: 11113.585s
+test scores: [91, 89, 28, 91, 87, 92, 90, 93, 92, 87, 96, 88, 92, 92, 99]
+test avg: 87.1
+0.050000 epsilon
+Saved model to cartpole_dqn2500.keras

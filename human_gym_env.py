@@ -4,7 +4,7 @@ import gymnasium as gym
 from tensorflow import keras
 
 MODEL_PATH = "cartpole_dqn1000.keras"  # must match what you saved in main.py and number of episodes used
-# available with 100, 500, 1000, 1500, 2000
+# available with 100, 500, 1000, 1500, 2000, 2500, 3000, 3500, 4000
 
 # Create the environment with render_mode set to "human"
 env = gym.make("CartPole-v1", render_mode="human")
