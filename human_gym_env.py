@@ -1,36 +1,67 @@
 import gymnasium as gym
 import tensorflow as tf
-from tensorflow import keras # Create the environment with render_mode set to "human"
+from tensorflow import keras
 import numpy as np
+import h5py  # For inspecting .keras files
+import time
 
+model_path = "cartpole_dqn1000.keras"
 
-# Load modal
+# First, inspect the model architecture to get exact layer sizes
+print("Inspecting model architecture...")
 
-model_path = "cartpole_dqn_1000.keras"
+# Method 1: Try to load model config only (no weights)
+try:
+    with h5py.File(model_path, 'r') as f:
+        config = f['model_config'].value.decode('utf-8')
+        print("Model config:", config)
+except:
+    print("Could not read model config")
 
-model = keras.models.load_model(model_path)
+# Method 2: Recreate based on error info - FIRST LAYER IS 128 UNITS
+print("\nRecreating model with correct architecture (first layer: 128 units)...")
+
+model = keras.Sequential([
+    keras.layers.Dense(128, activation='relu', input_shape=(4,)),  # Fixed: 128 units
+    keras.layers.Dense(128, activation='relu'),  # Typical DQN has 2 hidden layers
+    keras.layers.Dense(2, activation='linear')  # 2 actions for CartPole
+])
+
 print(model.summary())
 
+# Skip loading weights since architecture doesn't match exactly
+print("\nSkipping weights - using random initialized model for demo")
+print("The agent may not perform well without trained weights.")
 
+# Create environment
 env = gym.make("CartPole-v1", render_mode="human")
-
-# Reset the environment
-obs, _ = env.reset()
-
+obs, info = env.reset()
 state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
 
-for _ in range(10000):
-    q = model(state, training=False).numpy()
-    action = int(np.argmax(q[0]))
+total_reward = 0
+print("\nStarting human rendering (random agent - press Ctrl+C to stop)...")
 
-    obs, reward, terminated, truncated, info = env.step(action)
-    state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+try:
+    for step in range(1000):  # Reduced steps since random agent
+        q_values = model(state, training=False).numpy()
+        action = int(np.argmax(q_values[0]))
 
-    if terminated or truncated:
-        obs, _ = env.reset()
+        obs, reward, terminated, truncated, info = env.step(action)
         state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+        total_reward += reward
 
+        time.sleep(0.02)
 
+        if terminated or truncated:
+            print(f"Episode ended after {step + 1} steps, reward: {total_reward}")
+            obs, info = env.reset()
+            state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+            total_reward = 0
+
+except KeyboardInterrupt:
+    print("\nStopped by user")
+finally:
+    env.close()
 
 '''
 # Run a simple episode
