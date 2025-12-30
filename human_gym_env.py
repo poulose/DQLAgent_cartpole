@@ -1,10 +1,36 @@
 import gymnasium as gym
 import tensorflow as tf
-from tensorflow import keras# Create the environment with render_mode set to "human"
+from tensorflow import keras # Create the environment with render_mode set to "human"
+import numpy as np
+
+
+# Load modal
+
+model_path = "cartpole_dqn_1000.keras"
+
+model = keras.models.load_model(model_path)
+print(model.summary())
+
+
 env = gym.make("CartPole-v1", render_mode="human")
 
 # Reset the environment
-state, _ = env.reset()
+obs, _ = env.reset()
+
+state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+
+for _ in range(10000):
+    q = model(state, training=False).numpy()
+    action = int(np.argmax(q[0]))
+
+    obs, reward, terminated, truncated, info = env.step(action)
+    state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+
+    if terminated or truncated:
+        obs, _ = env.reset()
+        state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+
+
 
 '''
 # Run a simple episode
@@ -20,17 +46,28 @@ env.close()
 '''
 
 
-model = keras.load_model("cartpole1000.keras")
 
+'''
+model = keras.models.load_model(MODEL_PATH)
 
-print(model.summary())
+# Reset environment
+obs, _ = env.reset()
+state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
 
+# Run a policy episode
 for _ in range(10000):
-    action = model.predict(state)
-    state, reward, terminated, truncated, info = env.step(action)
-    env.render()
+    # Greedy action from Q-network
+    q = model(state, training=False).numpy()
+    action = int(np.argmax(q[0]))
+
+    obs, reward, terminated, truncated, info = env.step(action)
+    state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+
+    # Small sleep to make it watchable
+    time.sleep(0.02)
 
     if terminated or truncated:
-        break
+        obs, _ = env.reset()
+        state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
 
-env.close()
+'''
