@@ -31,13 +31,17 @@ obs, _ = env.reset()
 state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
 
 # Run a policy episode
-for _ in range(10000):
+total_reward = 0
+for step in range(10000):
     # Greedy action from Q-network
     q = model(state, training=False).numpy()
     action = int(np.argmax(q[0]))
 
     obs, reward, terminated, truncated, info = env.step(action)
     state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+    print(f"The  step: {step} finished with reward {reward}")
+
+    total_reward += reward
 
     # Small sleep to make it watchable
     time.sleep(0.02)
@@ -45,6 +49,8 @@ for _ in range(10000):
     if terminated or truncated:
         obs, _ = env.reset()
         state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
+        print(f"The episode finished after {step} steps, with total reward {total_reward}")
+        total_reward = 0
 
 
 env.close()
