@@ -9,7 +9,7 @@ MODEL_PATH = "cartpole_dqn1000.keras"  # must match what you saved in main.py an
 # Create the environment with render_mode set to "human"
 env = gym.make("CartPole-v1", render_mode="human")
 
-# Reset the environment
+'''# Reset the environment
 state, _ = env.reset()
 
 # Run a simple episode
@@ -21,7 +21,7 @@ for _ in range(10000):
     if terminated or truncated:
         break
 
-
+'''
 # Run simulation using a trained model
 # Load trained model
 model = keras.models.load_model(MODEL_PATH)
