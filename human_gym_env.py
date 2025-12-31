@@ -9,8 +9,10 @@ episodes = input("Provide model episode number between range 500 and 4000: ")
 
 if episodes:
     episodes = round((int(episodes)/500) * 500)
+    print(f"Model selected: cartpole_dqn{episodes}.keras")
 else:
-    episodes = 1000
+    episodes = "1000_optimal"
+    print(f"Model selected: default cartpole_dqn{episodes}.keras")
 
 
 
@@ -21,9 +23,13 @@ print("Inspecting model architecture...")
 
 # Method 1: Try to load model config only (no weights)
 try:
+    tf.keras.models.load_model(model_path)
+    '''
     with h5py.File(model_path, 'r') as f:
         config = f['model_config'].value.decode('utf-8')
         print("Model config:", config)
+    '''
+
 except Exception as e:
     print(f"Could not read model config: {e}")
 
