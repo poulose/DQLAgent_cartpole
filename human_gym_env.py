@@ -39,7 +39,7 @@ for step in range(1000):
 
     obs, reward, terminated, truncated, info = env.step(action)
     state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
-    print(f"The  step: {step} finished with reward {reward}")
+    #print(f"The  step: {step} finished with reward {reward}")
 
     total_reward += reward
 
@@ -51,6 +51,7 @@ for step in range(1000):
         state = np.asarray(obs, dtype=np.float32).reshape(1, -1)
         print(f"The episode finished after {step} steps, with total reward {total_reward}")
         total_reward = 0
+        time.sleep(0.2)
 
 
 env.close()
