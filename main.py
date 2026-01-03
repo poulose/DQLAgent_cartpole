@@ -153,3 +153,5 @@ if __name__ == "__main__":
     print(f"{Agent.epsilon} epsilon")
 
     print(f"{Agent.test(15)}")
+
+    Agent.model.save(f"cartpole_dqn{episodes_count}.keras")
