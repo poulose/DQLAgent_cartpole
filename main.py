@@ -155,3 +155,6 @@ if __name__ == "__main__":
     print(f"{Agent.test(15)}")
 
     Agent.model.save(f"cartpole_dqn{episodes_count}.keras")
+
+    Agent.model.save_weights(f"cartpole_dqn{episodes_count}.weights.h5")
+

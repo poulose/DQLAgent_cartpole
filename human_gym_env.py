@@ -1,5 +1,5 @@
 import gymnasium as gym
-import tensorflow as tf
+#import tensorflow as tf
 from tensorflow import keras
 import numpy as np
 import h5py  # For inspecting .keras files
@@ -23,7 +23,7 @@ print("Inspecting model architecture...")
 
 # Method 1: Try to load model config only (no weights)
 try:
-    tf.keras.models.load_model(model_path)
+    keras.models.load_model(model_path)
     '''
     with h5py.File(model_path, 'r') as f:
         config = f['model_config'].value.decode('utf-8')
@@ -43,7 +43,8 @@ model = keras.Sequential([
 ])
 
 try:
-    model.load_weights(model_path)
+    #model.load_weights(f"cartpole_dqn{episodes}.weights.h5")
+    model.load_weights(f"cartpole_dqn{episodes}.keras")
     print(model.summary())
 except Exception as e:
     print(f"Could not load model: {e}")
